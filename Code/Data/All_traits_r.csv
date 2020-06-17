@@ -1,0 +1,162 @@
+code;AccSpeciesName;woody/non-woody;cycle;IUCN growth form
+ABU;Abutilon bidentatum;W;P;forb or herb
+ACAFRU;Acalypha fruticosa;W;P;small tree/shrub
+ACAROB;Acacia robusta;W;P;large tree
+ACASEN;Acacia senegal;W;P;small tree/shrub
+ACASEY;Acacia seyal;W;P;small tree/shrub
+ACATOR;Acacia tortilis;W;P;large tree
+ACAXAN;Acacia xanthophloea;W;P;large tree
+ACHASP;Achyranthes aspera;NW;P;forb or herb
+ACIJUB;Acinonyx jubatus;1;1;1
+AEPMEL;Aepyceros melampus;4;4;4
+ALBHAR;Albizia harveyi;W;P;small tree/shrub
+ALBU;Albuca abyssinica;NW;P;forb or herb
+ALCBUS;Alcelaphus buselaphus;4;4;4
+ALLRUB;Allophylus rubifolius;W;P;small tree/shrub
+ALOMAC;Aloe macrosiphon;NW;P;forb or herb
+ALOSEC;Aloe secundiflora;NW;P;forb or herb
+ANDGRE;Andropogon greenwayi;NW;P;graminoid
+ANDSCH;Andropogon schirensis;NW;P;graminoid
+ARI;Aristida adoensis;NW;P;graminoid
+BALAEG;Balanites aegyptiaca;W;P;small tree/shrub
+BLEACA;Blepharis acanthodioides;NW;A;forb or herb
+BOSAUG;Boscia angustifolia;W;;small tree/shrub
+BOTINS;Bothriochloa insculpta;NW;P;graminoid
+BRASEM;Brachiaria semiundulata;NW;A;graminoid
+CANAUR;Canis aureus;2;2;2
+CANMES;Canis mesomelas;2;2;2
+CAPTOM;Capparis tomentosa;W;P;small tree/shrub
+CARCAR;Caracal caracal;2;2;2
+CECCIL;Pennisetum ciliare;NW;P;graminoid
+CHLGAY;Chloris gayana;NW;P;graminoid
+CHLPYC;Chloris pycnothrix;NW;A;graminoid
+CHLROX;Chloris roxburghiana;NW;P;graminoid
+CISQUA;Cissus quadrangularis;NW;P;forb or herb
+CISROT;Cissus rotundifolia;NW;P;forb or herb
+COMMEAFR;Commelina africana;NW;P;forb or herb
+COMMER;Commiphora merkeri;W;P;small tree/shrub
+COMMIAFR;Commiphora trothae;W;P;small tree/shrub
+COMMOL;Combretum molle;W;P;small tree/shrub
+COMSCH;Commiphora schimperi;W;P;small tree/shrub
+CONTAU;Connochaetes taurinus;4;4;4
+COROVA;Cordia ovalis;W;P;small tree/shrub
+CROCRO;Crocuta crocuta;1;1;1
+CRODIC;Croton dichogamus;W;P;small tree/shrub
+CROMAC;Croton macrostachyus;W;P;small tree/shrub
+CROSPI;Crotalaria spinosa;NW;A;annual
+CYMEXC;Cymbopogon excavatus;NW;P;graminoid
+CYNDAC;Cynodon dactylon;NW;P;graminoid
+CYP;Cyperus juncelliformis;NW;A;graminoid
+CYPH;Cyphostemma princeae;NW;P;forb or herb
+DAMKOR;Damaliscus korrigum;3;3;3
+DIGDIA;Digitaria diagonalis;NW;P;graminoid
+DIGMAC;Digitaria macroblephara;NW;P;graminoid
+DIGMIL;Digitaria milanjiana;NW;P;graminoid
+DIGSCA;Digitaria scalarum;NW;P;graminoid
+DIGTER;Digitaria ternata;NW;A;graminoid
+DIGVEL;Digitaria velutina;NW;A;graminoid
+DIHAMP;Diheteropogon amplectens;NW;P;graminoid
+DINRET;Dinebra retroflexa;NW;A;graminoid
+DUOKIL;Duosperma kilimandscharica;W;P;small tree/shrub
+ECHHAP;Echinochloa haploclada;NW;P;graminoid
+EMICOC;Emilia coccinea;NW;A;annual
+EQUBUR;Equus quagga;4;4;4
+ERAASP;Eragrostis aspera;NW;A;graminoid
+ERACIL;Eragrostis cilianensis;NW;A;graminoid
+ERAEXA;Eragrostis exasperata;NW;A;graminoid
+ERATEN;Eragrostis tenuifolia;NW;P;graminoid
+ERINUB;Eriochloa nubica;NW;A;graminoid
+EUPCAN;Euphorbia candelabrum;W;P;large tree
+EUSPAS;Eustachys paspaloides;NW;P;graminoid
+FICGLU;Ficus glumosa;W;P;small tree/shrub
+FICING;Ficus ingens;W;P;small tree/shrub
+FICTHI;Ficus thonningii;W;P;small tree/shrub
+GAZGRA;Nanger granti;4;4;4
+GAZTHO;Eudorcas thomsonii;4;4;4
+GIRCAM;Giraffa camelopardalis;6;6;6
+GREBIC;Grewia bicolor;W;P;small tree/shrub
+GREFAL;Grewia fallax;W;P;small tree/shrub
+GRETRI;Grewia trichocarpa;W;P;small tree/shrub
+HARSCH;Harpachne schimperi;NW;P;graminoid
+HELSTE;Heliotropium steudneri;NW;P;forb or herb
+HETBRU;Heterohyrax brucei;5;5;5
+HETCON;Heteropogon contortus;NW;P;graminoid
+HIB;Hibiscus diversifolius;NW;P;forb or herb
+HIBLUN;Hibiscus lunariifolius;NW;P;forb or herb
+HIPAMP;Hippopotamus amphibius;3;3;3
+HOSOPP;Hoslundia opposita;W;P;small tree/shrub
+HYPDIS;Hyperthelia dissoluta;NW;P;graminoid
+HYPFIL;Hyparrhenia filipendula;NW;P;graminoid
+HYPFOR;Hypoestes forskaolii;NW;A;forb or herb
+HYPRUF;Hyparrhenia rufa;NW;P;graminoid
+IBO;Iboza spp.;W;P;small tree/shrub
+INDBAS;Indigofera basiflora;NW;P;forb or herb
+INDHOC;Indigofera hochstetteri;NW;A;annual
+IPOOBS;Ipomoea obscura;NW;P;forb or herb
+JAS;Jasminum stenolobum;W;P;small tree/shrub
+KAL;Kalanchoe prittwitzii;NW;P;forb or herb
+KEDFOE;Kedrostis foetidissima;NW;P;forb or herb
+KIGAFR;Kigelia africana;W;P;small tree/shrub
+KOBELL;Kobus ellipsiprymnus;3;3;3
+KYLNER;Kyllinga nervosa;NW;P;graminoid
+LEPSER;Leptailurus serval;2;2;2
+LIPUKA;Lantana ukambensis;W;P;small tree/shrub
+LONERI;Lonchocarpus eriocalyx;W;P;small tree/shrub
+LOXAFR;Loxodonta africana;6;6;6
+LYCPIC;Lycaon pictus;1;1;1
+MADKIR;Madoqua kirkii;6;6;6
+MAETRI;Maerua cafra;W;P;small tree/shrub
+MICKUN;Microchloa kunthii;NW;P;graminoid
+OCI;Ocimum dambicola;NW;A;annual
+OLE;Olea capensis;W;P;large tree
+OUROUR;Ourebia ourebi;3;3;3
+PANCOL;Panicum coloratum;NW;P;graminoid
+PANDEU;Panicum deustum;NW;P;graminoid
+PANLEO;Panthera leo;1;1;1
+PANMAX;Panicum maximum;NW;P;graminoid
+PANPAR;Panthera pardus;1;1;1
+PANREP;Panicum repens;NW;P;graminoid
+PAPANU;Papio anubis;6;6;6
+PAPCAP;Pappea capensis;W;P;small tree/shrub
+PAVASS;Pavetta assimilis;W;P;small tree/shrub
+PAVPAT;Pavonia patens;NW;P;forb or herb
+PEDCAP;Pedetes capensis;3;3;3
+PELCAL;Pellaea calomelanos;NW;P;forb or herb
+PENMEZ;Pennisetum mezianum;NW;P;graminoid
+PENSTR;Pennisetum stramineum;NW;P;graminoid
+PHAAET;Phacochoerus africanus;3;3;3
+PHRMAU;Phragmites mauritianus;NW;P;graminoid
+PHYSEP;Phyllanthus sepialis;W;P;small tree/shrub
+PROCAP;Procavia capensis;5;5;5
+PSIJAE;Psilolemma jaegeri;NW;P;graminoid
+PUPLAP;Pupalia lappacea;NW;A;annual
+REDRED;Redunca redunca;3;3;3
+RHAPUM;Rhabdomys pumilio;3;3;3
+RHOREV;Rhoicissus revoilii;W;P;small tree/shrub
+SARVER;Sarga versicolor;NW;A;graminoid
+SCLBIR;Sclerocarya birrea;W;P;small tree/shrub
+SENDID;Senna didymobotrya;NW;P;forb or herb
+SENEHR;Sansevieria ehrenbergii;NW;P;forb or herb
+SENSUF;Sansevieria suffruticosa;NW;P;forb or herb
+SETPAL;Setaria pallidefusca;NW;A;graminoid
+SETSPH;Setaria sphacelata;NW;A;graminoid
+SID;sida rhombifolia;NW;P;forb or herb
+SOLDEN;Solanum dennekense;W;P;small tree/shrub
+SOLINC;Solanum incanum;NW;P;forb or herb
+SOLNIG;Solanum nigrum;NW;A;annual
+SPOFES;Sporobolus festivus;NW;P;graminoid
+SPOFIM;Sporobolus fimbriatus;NW;P;graminoid
+SPOIOC;Sporobolus ioclados;NW;P;graminoid
+SPOPEL;Sporobolus pellucidus;NW;P;graminoid
+SPOPYR;Sporobolus pyramidalis;NW;P;graminoid
+SPOSPI;Sporobolus spicatus;NW;P;graminoid
+SPOSTA;Sporobolus stapfianus;NW;P;graminoid
+SYNCAF;Syncerus caffer;6;6;6
+TAUORY;Taurotragus oryx;3;3;3
+THETRI;Themeda triandra;NW;P;graminoid
+TRASCR;Tragelaphus scriptus;3;3;3
+TRIEIC;Tricholaena teneriffae;NW;P;graminoid
+TURFIS;Turraea fischeri;W;P;small tree/shrub
+TYPCAP;Typha capensis;NW;P;graminoid
+XIMCAF;Ximenia caffra;W;P;small tree/shrub
+ZIZ;Ziziphus abyssinica;W;P;small tree/shrub

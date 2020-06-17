@@ -1,0 +1,46 @@
+\begin{thebibliography}{3}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Baskerville et~al.(2011)Baskerville, Dobson, Bedford, Allesina,
+  Anderson and Pascual}]{baskerville2011spatial}
+\bibinfo{author}{Baskerville, E.B.}, \bibinfo{author}{Dobson, A.P.},
+  \bibinfo{author}{Bedford, T.}, \bibinfo{author}{Allesina, S.},
+  \bibinfo{author}{Anderson, T.M.}, \bibinfo{author}{Pascual, M.},
+  \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Spatial guilds in the serengeti food web revealed by
+  a bayesian group model}.
+\newblock \bibinfo{journal}{PLoS computational biology} \bibinfo{volume}{7},
+  \bibinfo{pages}{e1002321}.
+%Type = Article
+\bibitem[{Eklöf et~al.(2013)Eklöf, Tang and Allesina}]{Eklof_Bayesian}
+\bibinfo{author}{Eklöf, A.}, \bibinfo{author}{Tang, S.},
+  \bibinfo{author}{Allesina, S.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Secondary extinctions in food webs: a Bayesian
+  network approach}}.
+\newblock \bibinfo{journal}{Methods in Ecology and Evolution}
+  \bibinfo{volume}{4}, \bibinfo{pages}{760--770}.
+\newblock \URLprefix \url{http://dx.doi.org/10.1111/2041-210X.12062},
+  \DOIprefix\doi{10.1111/2041-210X.12062}.
+%Type = Book
+\bibitem[{Jensen and Nielsen(2007)}]{Jensen_Nielsen}
+\bibinfo{author}{Jensen, F.V.}, \bibinfo{author}{Nielsen, T.D.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Bayesian networks and decision graphs. [Elektronisk
+  resurs].}
+\newblock Information science and statistics, \bibinfo{publisher}{New York :
+  Springer, c2007.}
+\newblock \URLprefix
+  \url{https://login.e.bibl.liu.se/login?url=https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,uid&db=cat00115a&AN=lkp.627114&lang=sv&site=eds-live&scope=site}.
+
+\end{thebibliography}

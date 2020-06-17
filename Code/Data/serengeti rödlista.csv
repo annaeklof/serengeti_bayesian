@@ -1,0 +1,162 @@
+code;species;red list;vad _r det f_r art;
+ABU;Abutilon spp.;;;
+ACAFRU;Acalypha fruticosa;;;
+ACAROB;Acacia robusta;;;
+ACASEN;Acacia senegal;;;
+ACASEY;Acacia seyal;;;
+ACATOR;Acacia tortilis;;;
+ACAXAN;Acacia xanthophloea;;;
+ACHASP;Achyranthes aspera;;;
+ACIJUB;Acinonyx jubatus;VU;gepard;decreasing
+AEPMEL;Aepyceros melampus;LC;impala;
+ALBHAR;Albizia harveyi;;;
+ALBU;Albuca spp.;;flowering plants;
+ALCBUS;Alcelaphus buselaphus;LC;koantilop;decreasing
+ALLRUB;Allophylus rubifolius;;;
+ALOMAC;Aloe macrosiphon;;;
+ALOSEC;Aloe secundiflora;LC;;
+ANDGRE;Andropogon greenwayi;LC;;
+ANDSCH;Andropogon schirensis;LC;;
+ARI;Aristida spp.;;;
+BALAEG;Balanites aegyptiaca;;;
+BLEACA;Blepharis acanthodioides;;;
+BOSAUG;Boscia augustifolia;;;
+BOTINS;Bothriochloa insculpta;;;
+BRASEM;Brachiaria semiundulata;;;
+CANAUR;Canis aureus;LC;;
+CANMES;Canis mesomelas;LC;;
+CAPTOM;Capparis tomentosa;;;
+CARCAR;Caracal caracal;LC;;
+CECCIL;Pennisetum ciliare;LC;;
+CHLGAY;Chloris gayana;;kvastgr_s;
+CHLPYC;Chloris pycnothrix;;kvastgr_s;
+CHLROX;Chloris roxburghiana;;kvastgr_s;
+CISQUA;Cissus quadrangularis;;vinv_xtart;
+CISROT;Cissus rotundifolia;;vinv_xtart;
+COMMEAFR;Commelina africana;LC;;
+COMMER;Commiphora merkeri;;shrubs and trees;
+COMMIAFR;Commiphora trothae;;shrubs and trees;
+COMMOL;Combretum molle;;tvÎhj_rtbladig v_xtart;
+COMSCH;Commiphora schimperi;;shrubs and trees;
+CONTAU;Connochaetes taurinus;LC;wildebest;
+COROVA;Cordia ovalis;;v_xt;
+CROCRO;Crocuta crocuta;LC;hyena;decreasing
+CRODIC;Croton dichogamus;;shrubs and trees;
+CROMAC;Croton macrostachyus;;shrubs and trees;
+CROSPI;Crotalaria spinosa;;_rtv_xt;
+CYMEXC;Cymbopogon excavatus;;grass;
+CYNDAC;Cynodon dactylon;;hundtandgr_s;
+CYP;Cyperus spp.;LC;halvgr_s;
+CYPH;Cyphostemma spp.;LC-CR-->VU?;vinv_xt;
+DAMKOR;Damaliscus korrigum;LC;topi (antilop typ);decreasing
+DIGDIA;Digitaria diagonalis;LC;gr_s;
+DIGMAC;Digitaria macroblephara;LC;gr_s;
+DIGMIL;Digitaria milanjiana;LC;gr_s;
+DIGSCA;Digitaria scalarum;LC;gr_s;
+DIGTER;Digitaria ternata;LC;gr_s;
+DIGVEL;Digitaria velutina;LC;gr_s;
+DIHAMP;Diheteropogon amplectens;;gr_s;
+DINRET;Dinebra retroflexa;;gr_s;
+DUOKIL;Duosperma kilimandscharica;;akantusv_xt;
+ECHHAP;Echinochloa haploclada;LC;gr_s;
+EMICOC;Emilia coccinea;NT;blommande v_xt;
+EQUBUR;Equus quagga;NT;zebra;decreasing
+ERAASP;Eragrostis aspera;;gr_s;
+ERACIL;Eragrostis cilianensis;;gr_s;
+ERAEXA;Eragrostis exasperata;;gr_s;
+ERATEN;Eragrostis tenuifolia;;gr_s;
+ERINUB;Eriochloa nubica;;gr_s;
+EUPCAN;Euphorbia candelabrum;;t_relv_xt;
+EUSPAS;Eustachys paspaloides;;gr_s;
+FICGLU;Ficus glumosa;;mullb_rsv_xt;
+FICING;Ficus ingens;;mullb_rsv_xt;
+FICTHI;Ficus thonningii;;mullb_rsv_xt;
+GAZGRA;Nanger granti;LC;gazell;decreasing
+GAZTHO;Eudorcas thomsonii;LC;gazell;decreasing
+GIRCAM;Giraffa camelopardalis;VU;giraff;decreasing
+GREBIC;Grewia bicolor;;malvav_xt;
+GREFAL;Grewia fallax;;malvav_xt;
+GRETRI;Grewia trichocarpa;;malvav_xt;
+HARSCH;Harpachne schimperi;;gr_s;
+HELSTE;Heliotropium steudneri;;str_vbladig v_xt;
+HETBRU;Heterohyrax brucei;LC;hyrax (mammalia);
+HETCON;Heteropogon contortus;;gr_s;
+HIB;Hibiscus spp.;VU;;
+HIBLUN;Hibiscus lunariifolius;;;
+HIPAMP;Hippopotamus amphibius;VU;;
+HOSOPP;Hoslundia opposita;;blommande v_xt;
+HYPDIS;Hyperthelia dissoluta;;gr_s;
+HYPFIL;Hyparrhenia filipendula;;gr_s;
+HYPFOR;Hypoestes forskaolii;;akantusv_xt;
+HYPRUF;Hyparrhenia rufa;;gr_s;
+IBO;Iboza spp.;;;
+INDBAS;Indigofera basiflora;;_rtv_xt;
+INDHOC;Indigofera hochstetteri;LC;_rtv_xt;
+IPOOBS;Ipomoea obscura;;vindev_xt;
+JAS;Jasminum spp.;;jasmin;
+KAL;Kalanchoe spp.;;fetblad;
+KEDFOE;Kedrostis foetidissima;;gurkv_xt;
+KIGAFR;Kigelia africana;LC;korvtr_d;
+KOBELL;Kobus ellipsiprymnus;LC;vattenbock;decreasing
+KYLNER;Kyllinga nervosa;;halvgr_s;
+LEPSER;Leptailurus serval;LC;serval (kattdjur);
+LIPUKA;Lippia ukambensis;;verbena;
+LONERI;Lonchocarpus eriocalyx;;_rtv_xt;
+LOXAFR;Loxodonta africana;VU;elefant;
+LYCPIC;Lycaon pictus;EN;vildhund;decreasing
+MADKIR;Madoqua kirkii;LC;kl_vdjur;
+MAETRI;Maerua cafra;;kaprisv_xtart;
+MICKUN;Microchloa kunthii;;gr_s;
+OCI;Ocimum spp.;EN;basilika;decreasing
+OLE;Olea spp.;;syrenv_xt;
+OUROUR;Ourebia ourebi;LC;kl_vdjur;decreasing
+PANCOL;Panicum coloratum;;gr_s;
+PANDEU;Panicum deustum;;gr_s;
+PANLEO;Panthera leo;VU;lejon;decreasing
+PANMAX;Panicum maximum;;gr_s;
+PANPAR;Panthera pardus;VU;leopard;decreasing
+PANREP;Panicum repens;LC;gr_s;
+PAPANU;Papio anubis;LC;babian;
+PAPCAP;Pappea capensis;;tr_d;
+PAVASS;Pavetta assimilis;;v_xt;
+PAVPAT;Pavonia patens;;blommande v_xt;
+PEDCAP;Pedetes capensis;LC;hare;
+PELCAL;Pellaea calomelanos;;br_kenv_xt;
+PENMEZ;Pennisetum mezianum;LC;gr_s;
+PENSTR;Pennisetum stramineum;LC;gr_s;
+PHAAET;Phacochoerus africanus;LC;vÎrtsvin;decreasing
+PHRMAU;Phragmites mauritianus;;gr_s;
+PHYSEP;Phyllanthus sepialis;;emblikav_xt;
+PROCAP;Procavia capensis;LC;hyrax;
+PSIJAE;Psilolemma jaegeri;;gr_s;
+PUPLAP;Pupalia lappacea;;amarantv_xt;
+REDRED;Redunca redunca;LC;r_rbock;decreasing
+RHAPUM;Rhabdomys pumilio;LC;gnagare;
+RHOREV;Rhoicissus revoilii;;vinv_xt;
+SARVER;Sarga versicolor;;v_xt;
+SCLBIR;Sclerocarya birrea;;tr_d;
+SENDID;Senna didymobotrya;;_rtv_xt;
+SENEHR;Sansevieria ehrenbergii;;sparrisv_xt;
+SENSUF;Sansevieria suffruticosa;;sparrisv_xt;
+SETPAL;Setaria pallidefusca;;gr_s;
+SETSPH;Setaria sphacelata;;gr_s;
+SID;Sida spp.;;blommande v_xt;
+SOLDEN;Solanum dennekense;;potatisv_xt;
+SOLINC;Solanum incanum;;potatisv_xt;
+SOLNIG;Solanum nigrum;;potatisv_xt;
+SPOFES;Sporobolus festivus;;gr_s;
+SPOFIM;Sporobolus fimbriatus;;gr_s;
+SPOIOC;Sporobolus ioclados;;gr_s;
+SPOPEL;Sporobolus pellucidus;;gr_s;
+SPOPYR;Sporobolus pyramidalis;;gr_s;
+SPOSPI;Sporobolus spicatus;;gr_s;
+SPOSTA;Sporobolus stapfianus;LC;gr_s;
+SYNCAF;Syncerus caffer;LC;buffalo;decreasing
+TAUORY;Taurotragus oryx;LC;eland (mammalia);
+THETRI;Themeda triandra;;gr_s;
+TRASCR;Tragelaphus scriptus;LC;buskbock;
+TRIEIC;Tricholaena teneriffae;;gr_s;
+TURFIS;Turraea fischeri;;tvÎhj_rtbladig;
+TYPCAP;Typha capensis;LC;v_xt;
+XIMCAF;Ximenia caffra;;tvÎhj_rtbladig;
+ZIZ;Ziziphus spp.;;;

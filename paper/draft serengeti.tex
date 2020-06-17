@@ -1,0 +1,109 @@
+\documentclass[a4paper,11pt]{article}   % paper size and font size. Note brackets!
+
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{amsmath}			% for writing math formula
+\usepackage{graphicx}			% to include grafics
+\usepackage{natbib}			% bibliography
+\usepackage[english]{babel}		% which language is used
+\usepackage[utf8]{inputenc}		% keyboard input 
+\usepackage{lineno} 			% numbered lines
+\usepackage{setspace}
+\usepackage{verbatim} 		% for code
+\usepackage{lmodern}
+\usepackage{microtype}
+%\renewcommand{\baselinestretch}{1.22}	% line spacing
+\usepackage{caption}			% allows the inclusion of captions to figures
+\usepackage[pdfborder={0 0 0}]{hyperref}	% sets a (invisible) link from the references in the text to the figures / bibliography
+\AtBeginDocument{\renewcommand\bibname{References}} 	
+\usepackage{geometry}
+\geometry{a4paper,  left=25mm, right=25mm, top=30mm, bottom=30mm}	% sets the margins of the text
+\usepackage[small]{titlesec} %will modify section titles and the spacing above/below them, resulting in significant space savings. add compact to decrease the space around the titles
+%\usepackage{times} %will use Times font instead of the default, saving significant space.
+\usepackage{fancyhdr} %controls the headers/footers 
+\setlength{\headheight}{15pt}			% defines the height of the header.
+
+\hyphenpenalty=10000
+\tolerance=10000
+
+%opening
+\title{Vulnerability in the Serengeti food web - approximated with Bayesian Networks}
+\author{Anna Åkesson\\
+\it \footnotesize University of Linkoping, Sweden\\
+\it \footnotesize anna.akesson@liu.se}
+% line doesn't break automatically - use \\ to break it
+\date{}					% suppresses the appearance of today's date under the author's affiliations, comment out to have it there 
+
+\setlength{\parskip}{2ex}
+\setlength{\parindent}{0.0ex}
+
+\begin{document}
+
+\maketitle				% creates the title of the document
+%\linenumbers				% creates line numbers, if commented in
+\onehalfspacing
+
+\thispagestyle{fancy}			% to be able to have the date in the footer of the titlepage
+\renewcommand{\headrulewidth}{0pt}	% suppresses a horizontal line at the head of this page
+\renewcommand{\footrulewidth}{0pt}	% suppresses a horizontal line at the foot of this page
+%\fancyfoot{}				% comment in not to show the page number on this page
+\fancyfoot[R]{\it{\small \today}}	% to show today's date in the right footer part (small and in italics)
+
+
+
+\hrule					% horizontal line
+\section{Introduction}		% the asteriks suppresses the numbering of this section
+
+Biodiversity loss is a severe threat to ecosystems around the world, and the extinction of species is likely to have profound effects on important ecological services (REF). Studies have identified various traits likely to influence species vulnerability to extinction, such as large body size, high trophic level and low density (REF). Species are entangled in complex networks of ecological interactions with other species; a food web describe such a network of interacting species. The loss of a species may therefore affect, direct or indirect, other species in the food web, causing secondary extinctions (Ebenman Jonsson 2005, Curtsdotter et al. 2011). basarterna som foundation of the food web, inte bara secondary extinctions i allmänhet, empirisk ref till climate change plant community change 
+
+The food web of interest in this study is the Serengeti savanna ecosystem in Tanzania. This plant-mammal food web includes high taxonomic resolution at the plant level, with plants identified down to individual species and corresponding habitats (REF).  Here, we investigate how perturbations on the basal level affect species at higher trophic levels. More specifically, we link disturbance of the basal level to different characteristics of the basal level as well as network characteristics. A previous study identified group structure in the Serengeti food web using a flexible definition allowing both for trophic and habitat roles, showing how spatial coupling and energy channels together explain the patterns of persistence in ecosystems \citep{baskerville2011spatial}. This structure allows us to investigate how perturbations directed at different group formation of plants affect species at higher trophic levels. Also, we will disturb basal species based on various traits, such as woodiness and plant type. The ongoing climate change will likely cause new climatic conditions, which may lead to extended periods of drought (REF). Such changes could possibly affect the whole Serengeti ecosystem. Hence, it is of great importance to identify the species most at risk of going extinct, so suitable actions can be planned. 
+
+
+* do functional groups provide more, or less, info than species habitats, traits? Habitats in group, since one group will not be affected, but rather a specific habitat. Difference between habitats affected and habitats in groups affected? That is, does the additional info from groups add something? increase pi for a random set of basal species, for ex 10-90% of the basal species?
+
+To be able to calculate each and every species risk to go extinct, we interpret the food web as a Bayesian network. A Bayesian network is a directed acyclic graph consisting of a finite set of variables and a set of directed links between the variables. Child variables depend on parent variables and probabilistic relationships are modeled between the set of variables, starting at the basal level, working upwards in the network \citep{Jensen_Nielsen}. A food web in the setting of Bayesian networks can have species acting as variables (with resources being the parent variable and predator species the child variable), and feeding interactions as links between the variables \citep{Eklof_Bayesian}. Variables can be represented by random Bernoulli variables consisting of two states - present or absent. The power of Bayesian networks is that each node's probability to be absent, or present, can be calculated as a function of the state of each variable's parent node(s). In our ecological setting, we would calculate a species risk to go extinct based on its prey species (parent nodes), taking every possible combination of parental states into consideration.
+
+For the Serengeti food web, we will approximate the marginal probabilities of the Bayesian network, that is, the species probability to go extinct in the web. Exact marginal probabilities can be derived by analytic computation, however, a highly connected web, such as the Serengeti food web, is too computationally demanding to be performed in this way with current methods. To validate the approximation method, we will calculate marginal probabilities using both the exact and the approximate method on the less connected constructed networks. To include a wide range of characteristics in the constructed food webs, we will use an optimized version of the exact method to solve the probabilities; child friendly parent divorcing of Bayesian networks. 
+
+Subdivision of species into compartments or modules, a feature that has been proposed to contribute to food web stability by constraining the propagation of disturbances through a network. Trophic guilds, sets of species that feed on, and are fed on, by similar sets of species, are the topologically dominant type of group in the Serengeti food web (rather than compartments). 
+
+\section*{Results} 
+The greatest effect of disturbance on the basal level based on habitat occurs when grassland and wetland plants are given a higher extinction probability. All groups of consumer species are affected, although the scope varies within each group. Focusing on disturbance of plant groups, the greatest effect on consumer species occurs when plant group 9 is disturbed. Plant group 9 is not the largest group of plants, but it is heavily connected. Disturbance of the largest plant group 13 also has an effect, mostly on consumer group 5 (and to some extent group 2 and 6). These groups of consumers are direct or indirectly connected to plant group 13. Disturbance of grass species heavily affect large grazers and small herbivores, which consequently strongly affect the top carnivores feeding on these species. Grasses, and non-woody plants, give the largest perturbations in the Serengeti network. Disturbances of shrubs and trees do not create a similar perturbation in the groups of consumer species. 
+
+\begin{figure}[!p]
+  \centering
+  \includegraphics[width=1\textwidth]{../Results/A3B3/Figures/habitat.jpg}
+  \caption{Impact of disturbances on the basal level based on habitats on groups of consumer species (group 1-6, x-axis). The y-axis shows the probability that the group of consumer will persist. The first sub figure shows the persistence without any disturbance on the basal level. The following sub figures show the effect on groups of consumers when disturbing plant species based on their habitat, indicated by each sub figure's label; S (shrubland), D (disturbed), T (thicket), R (riverland), G (grassland), W (wetland), K (kopje). }
+  \label{fig:habitats}
+\end{figure}
+
+\begin{figure}[!p]
+  \centering
+  \includegraphics[width=1\textwidth]{../Results/A3B3/Figures/groups.jpg}
+  \caption{Impact of disturbances on the basal level based on functional groups of consumer species (group 1-6, x-axis). The y-axis shows the probability that the group of consumer will persist. The first sub figure shows the persistence without any disturbance on the basal level. The following sub figures show the effect on groups of consumers when disturbing plant species based on their functional group \citep{baskerville2011spatial}.}
+  \label{fig:groups}
+\end{figure}
+
+\begin{figure}[!p]
+  \centering
+  \includegraphics[width=1\textwidth]{../Results/A3B3/Figures/traits.jpg}
+  \caption{Impact of disturbances on the basal level based on traits on consumer species (group 1-6, x-axis). The y-axis shows the probability that the group of consumer will persist. The first sub figure shows the persistence without any disturbance on the basal level. The following sub figures show the effect on groups of consumers when disturbing plant species based on various traits; tree (large trees), shurb (small trees and shrubs), herbs (herbs and forbs, perennial), graminoid (grasses), annual (annual flowering plants).}
+  \label{fig:traits}
+\end{figure}
+ 
+\begin{figure}[!p]
+  \centering
+  \includegraphics[width=1\textwidth]{../Results/A3B3/Figures/gen_characters.jpg}
+  \caption{Impact of disturbances on the basal level based on traits on consumer species (group 1-6, x-axis). The y-axis shows the probability that the group of consumer will persist. The first sub figure shows the persistence without any disturbance on the basal level. The following sub figures show the effect on groups of consumers when disturbing plant species based on various traits; woody (woody plants), Nwoody (non-woody plants), P (perennials), A (annuals).}
+  \label{fig:gen_charac}
+\end{figure}
+
+\clearpage			% clears the page - whatever comes next starts off on a new page
+
+{\small
+ \bibliographystyle{elsarticle-harv} 	% if this does not work, use ``plain'' to try
+ \bibliography{mybibio}			% name of the bibliography file (.bib)
+} %Replace \small by \footnotesize or \scriptsize depending upon your comfort level of font-shrinkage.
+
+
+\end{document}

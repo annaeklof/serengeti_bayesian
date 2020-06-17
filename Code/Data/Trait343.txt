@@ -1,0 +1,151 @@
+AccSpeciesName	AccSpeciesID	TraitID	TraitName	OrigValueStr
+Abutilon bidentatum	102	343	Plant life form (Raunkiaer life form)	PH
+Acalypha fruticosa	724	NA	NA	TH
+Acacia robusta	575	NA	NA	PH
+Acacia senegal	593	343	Plant life form (Raunkiaer life form)	PH
+Acacia seyal	597	343	Plant life form (Raunkiaer life form)	PH
+Acacia tortilis	637	343	Plant life form (Raunkiaer life form)	PH
+Acacia xanthophloea	268752	343	Plant life form (Raunkiaer life form)	PH
+Achyranthes aspera	200562	NA	NA	TH
+Albizia harveyi	2234	343	Plant life form (Raunkiaer life form)	PH
+Albuca abyssinica	74014	343	Plant life form (Raunkiaer life form)	CR
+Allophylus rubifolius	2673	NA	NA	PH
+Aloe macrosiphon	276544	NA	NA	CH
+Aloe secundiflora	2812	343	Plant life form (Raunkiaer life form)	CH
+Andropogon greenwayi	3571	NA	NA	HE
+Andropogon schirensis	3624	343	Plant life form (Raunkiaer life form)	HE
+Aristida adoensis	4717	343	Plant life form (Raunkiaer life form)	HE
+Balanites aegyptiaca	6637	343	Plant life form (Raunkiaer life form)	PH
+Blepharis acanthodioides	287201	NA	NA	TH
+Boscia angustifolia	7780	343	Plant life form (Raunkiaer life form)	PH
+Bothriochloa insculpta	59844	NA	NA	HE
+Brachiaria semiundulata	8048	NA	NA	TH
+Capparis tomentosa	10222	343	Plant life form (Raunkiaer life form)	PH
+Pennisetum ciliare	11529	343	Plant life form (Raunkiaer life form)	HE
+Chloris gayana	12461	NA	NA	TH
+Chloris pycnothrix	12482	NA	NA	TH
+Chloris roxburghiana	12487	NA	NA	TH
+Cissus quadrangularis	13115	NA	NA	PH
+Cissus rotundifolia	13119	343	Plant life form (Raunkiaer life form)	CH
+Cissus rotundifolia	13119	343	Plant life form (Raunkiaer life form)	PH
+Commelina africana	79334	343	Plant life form (Raunkiaer life form)	HE
+Commiphora merkeri	14123	NA	NA	PH
+Commiphora trothae	14134	NA	NA	PH
+Combretum molle	14044	343	Plant life form (Raunkiaer life form)	PH
+Commiphora schimperi	14134	NA	NA	PH
+Cordia ovalis	14443	NA	NA	PH
+Croton dichogamus	67004	NA	NA	PH
+Croton macrostachyus	15554	343	Plant life form (Raunkiaer life form)	PH
+Crotalaria spinosa	15479	NA	NA	CH
+Cymbopogon excavatus	16189	343	Plant life form (Raunkiaer life form)	TH
+Cynodon dactylon	16277	343	Plant life form (Raunkiaer life form)	CR
+Cynodon dactylon	16277	343	Plant life form (Raunkiaer life form)	HE
+Cyperus juncelliformis	306453	NA	NA	CR
+Cyphostemma princeae	16529	343	Plant life form (Raunkiaer life form)	CR
+Cyphostemma princeae	16529	343	Plant life form (Raunkiaer life form)	HE
+Digitaria diagonalis	17940	343	Plant life form (Raunkiaer life form)	HE
+Digitaria macroblephara	18021	NA	NA	HE
+Digitaria milanjiana	18031	NA	NA	HE
+Digitaria scalarum	17874	NA	NA	HE
+Digitaria ternata	18131	NA	NA	HE
+Digitaria velutina	18144	343	Plant life form (Raunkiaer life form)	TH
+Diheteropogon amplectens	18160	343	Plant life form (Raunkiaer life form)	HE
+Dinebra retroflexa	18306	NA	NA	TH
+Duosperma kilimandscharica	62801	NA	NA	PH
+Echinochloa haploclada	19729	NA	NA	TH
+Emilia coccinea	20467	343	Plant life form (Raunkiaer life form)	TH
+Eragrostis aspera	20980	NA	NA	TH
+Eragrostis cilianensis	21038	NA	NA	TH
+Eragrostis exasperata	21086	NA	NA	TH
+Eragrostis tenuifolia	21252	NA	NA	TH
+Eriochloa nubica	21709	NA	NA	HE
+Euphorbia candelabrum	23361	343	Plant life form (Raunkiaer life form)	PH
+Eustachys paspaloides	23752	NA	NA	TH
+Eustachys paspaloides	23752	NA	NA	HE
+Ficus glumosa	24834	343	Plant life form (Raunkiaer life form)	PH
+Ficus ingens	24849	343	Plant life form (Raunkiaer life form)	PH
+Ficus thonningii	24951	343	Plant life form (Raunkiaer life form)	PH
+Ficus thonningii	24951	343	Plant life form (Raunkiaer life form)	PH
+Grewia bicolor	231737	343	Plant life form (Raunkiaer life form)	PH
+Grewia fallax	68244	NA	NA	PH
+Grewia trichocarpa	27026	NA	NA	PH
+Harpachne schimperi	27897	NA	NA	TH
+Harpachne schimperi	27897	NA	NA	HE
+Heliotropium steudneri	28369	343	Plant life form (Raunkiaer life form)	CH
+Heteropogon contortus	28631	343	Plant life form (Raunkiaer life form)	HE
+Hibiscus diversifolius	28752	343	Plant life form (Raunkiaer life form)	CH
+Hibiscus diversifolius	28752	343	Plant life form (Raunkiaer life form)	HE
+Hibiscus diversifolius	28752	343	Plant life form (Raunkiaer life form)	PH
+Hoslundia opposita	29590	343	Plant life form (Raunkiaer life form)	HE
+Hoslundia opposita	29590	343	Plant life form (Raunkiaer life form)	PH
+Hyperthelia dissoluta	30031	343	Plant life form (Raunkiaer life form)	HE
+Hyparrhenia filipendula	332530	NA	NA	TH
+Hypoestes forskaolii	86617	343	Plant life form (Raunkiaer life form)	HE
+Hyparrhenia rufa	29935	343	Plant life form (Raunkiaer life form)	CR
+Hyparrhenia rufa	29935	343	Plant life form (Raunkiaer life form)	HE
+Hyparrhenia rufa	29935	343	Plant life form (Raunkiaer life form)	TH
+Iboza spp.	53843	343	Plant life form (Raunkiaer life form)	PH
+Indigofera basiflora	333386	NA	NA	PH
+Indigofera hochstetteri	30457	NA	NA	PH
+Ipomoea obscura	30772	343	Plant life form (Raunkiaer life form)	HE
+Jasminum streptopus	31353	343	Plant life form (Raunkiaer life form)	CH
+Jasminum streptopus	31353	343	Plant life form (Raunkiaer life form)	HE
+Jasminum stenolobum	31352	NA	NA	PH
+Jasminum Êfluminense	31336	343	Plant life form (Raunkiaer life form)	CH
+Kalanchoe prittwitzii	31656	NA	NA	TH
+Kalanchoe lanceolata	31644	343	Plant life form (Raunkiaer life form)	TH
+Kedrostis foetidissima	31720	NA	NA	CR
+Kigelia africana	31779	343	Plant life form (Raunkiaer life form)	PH
+Kyllinga nervosa	68938	NA	NA	TH
+Lantana ukambensis	236468	343	Plant life form (Raunkiaer life form)	CH
+Lantana ukambensis	236468	343	Plant life form (Raunkiaer life form)	HE
+Lantana ukambensis	236468	343	Plant life form (Raunkiaer life form)	PH
+Lonchocarpus eriocalyx	342086	NA	NA	PH
+Maerua cafra	34971	343	Plant life form (Raunkiaer life form)	PH
+Microchloa kunthii	36603	NA	NA	TH
+Ocimum dambicola	244485	NA	NA	CH
+Olea capensis	38819	343	Plant life form (Raunkiaer life form)	PH
+Olea woodiana	38837	NA	NA	PH
+Panicum coloratum	39965	NA	NA	HE
+Panicum deustum	39972	NA	NA	HE
+Panicum maximum	40030	343	Plant life form (Raunkiaer life form)	HE
+Panicum repens	40085	NA	NA	HE
+Pappea capensis	40212	343	Plant life form (Raunkiaer life form)	PH
+Pavetta assimilis	70243	343	Plant life form (Raunkiaer life form)	PH
+Pavonia patens	247697	NA	NA	CH
+Pellaea calomelanos	40798	343	Plant life form (Raunkiaer life form)	HE
+Pennisetum mezianum	40863	NA	NA	TH
+Pennisetum stramineum	361374	NA	NA	TH
+Phragmites mauritianus	41661	NA	NA	CR
+Phyllanthus sepialis	93258	NA	NA	TH
+Psilolemma jaegeri	94809	NA	NA	TH
+Pupalia lappacea	255968	NA	NA	CH
+Rhoicissus revoilii	46284	NA	NA	HE
+Sarga versicolor	51162	NA	NA	TH
+Sclerocarya birrea	49124	343	Plant life form (Raunkiaer life form)	PH
+Senna didymobotrya	49667	343	Plant life form (Raunkiaer life form)	CH
+Senna didymobotrya	49667	343	Plant life form (Raunkiaer life form)	CH
+Sansevieria ehrenbergii	379438	343	Plant life form (Raunkiaer life form)	HE
+Sansevieria suffruticosa	48271	343	Plant life form (Raunkiaer life form)	HE
+Setaria pallidefusca	384391	NA	NA	TH
+Setaria sphacelata	49900	343	Plant life form (Raunkiaer life form)	TH
+sida rhombifolia	50097	343	Plant life form (Raunkiaer life form)	CH
+sida rhombifolia	50097	343	Plant life form (Raunkiaer life form)	HE
+Solanum dennekense	71576	343	Plant life form (Raunkiaer life form)	PH
+Solanum incanum	50711	343	Plant life form (Raunkiaer life form)	PH
+Solanum nigrum	262593	NA	NA	TH
+Sporobolus festivus	51459	343	Plant life form (Raunkiaer life form)	HE
+Sporobolus fimbriatus	51461	NA	NA	HE
+Sporobolus ioclados	51466	NA	NA	HE
+Sporobolus pellucidus	51486	NA	NA	HE
+Sporobolus pyramidalis	51492	343	Plant life form (Raunkiaer life form)	HE
+Sporobolus spicatus	51498	NA	NA	HE
+Sporobolus stapfianus	51499	NA	NA	HE
+Themeda triandra	54093	343	Plant life form (Raunkiaer life form)	TH
+Tricholaena teneriffae	54816	NA	NA	HE
+Turraea fischeri	55363	NA	NA	PH
+Typha capensis	72162	343	Plant life form (Raunkiaer life form)	CR
+Typha capensis	72162	343	Plant life form (Raunkiaer life form)	CR
+Typha capensis	72162	343	Plant life form (Raunkiaer life form)	CR
+Ximenia caffra	57224	343	Plant life form (Raunkiaer life form)	PH
+Ziziphus abyssinica	57532	343	Plant life form (Raunkiaer life form)	PH
