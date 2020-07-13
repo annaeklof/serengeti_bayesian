@@ -1,46 +1,161 @@
-\begin{thebibliography}{3}
-\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
-\providecommand{\url}[1]{\texttt{#1}}
-\providecommand{\href}[2]{#2}
-\providecommand{\path}[1]{#1}
-\providecommand{\DOIprefix}{doi:}
-\providecommand{\ArXivprefix}{arXiv:}
-\providecommand{\URLprefix}{URL: }
-\providecommand{\Pubmedprefix}{pmid:}
-\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
-\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
-\providecommand{\bibinfo}[2]{#2}
-\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
-%Type = Article
-\bibitem[{Baskerville et~al.(2011)Baskerville, Dobson, Bedford, Allesina,
-  Anderson and Pascual}]{baskerville2011spatial}
-\bibinfo{author}{Baskerville, E.B.}, \bibinfo{author}{Dobson, A.P.},
-  \bibinfo{author}{Bedford, T.}, \bibinfo{author}{Allesina, S.},
-  \bibinfo{author}{Anderson, T.M.}, \bibinfo{author}{Pascual, M.},
-  \bibinfo{year}{2011}.
-\newblock \bibinfo{title}{Spatial guilds in the serengeti food web revealed by
-  a bayesian group model}.
-\newblock \bibinfo{journal}{PLoS computational biology} \bibinfo{volume}{7},
-  \bibinfo{pages}{e1002321}.
-%Type = Article
-\bibitem[{Eklöf et~al.(2013)Eklöf, Tang and Allesina}]{Eklof_Bayesian}
-\bibinfo{author}{Eklöf, A.}, \bibinfo{author}{Tang, S.},
-  \bibinfo{author}{Allesina, S.}, \bibinfo{year}{2013}.
-\newblock \bibinfo{title}{{Secondary extinctions in food webs: a Bayesian
-  network approach}}.
-\newblock \bibinfo{journal}{Methods in Ecology and Evolution}
-  \bibinfo{volume}{4}, \bibinfo{pages}{760--770}.
-\newblock \URLprefix \url{http://dx.doi.org/10.1111/2041-210X.12062},
-  \DOIprefix\doi{10.1111/2041-210X.12062}.
-%Type = Book
-\bibitem[{Jensen and Nielsen(2007)}]{Jensen_Nielsen}
-\bibinfo{author}{Jensen, F.V.}, \bibinfo{author}{Nielsen, T.D.},
-  \bibinfo{year}{2007}.
-\newblock \bibinfo{title}{Bayesian networks and decision graphs. [Elektronisk
-  resurs].}
-\newblock Information science and statistics, \bibinfo{publisher}{New York :
-  Springer, c2007.}
-\newblock \URLprefix
-  \url{https://login.e.bibl.liu.se/login?url=https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,uid&db=cat00115a&AN=lkp.627114&lang=sv&site=eds-live&scope=site}.
+\begin{thebibliography}{10}
+
+\bibitem{Diazetal2019}
+S.~Díaz, J.~Settele, E.~Brondízio, H.~Ngo, M.~Guèze, J.~Agard, A.~Arneth,
+  P.~Balvanera, K.~Brauman, S.~Butchart, K.~Chan, L.~Garibaldi, K.~Ichii,
+  J.~Liu, S.~Subrmanian, G.~Midgley, P.~Miloslavich, Z.~Molnár, D.~Obura,
+  A.~Pfaff, S.~Polasky, A.~Purvis, J.~Razzaque, B.~Reyers, R.~Chowdhury,
+  Y.~Shin, I.~Visseren-Hamakers, K.~Wilis, and C.~Zayas.
+\newblock Summary for policymakers of the global assessment report on
+  biodiversity and ecosystem services of the intergovernmental science-policy
+  platform on biodiversity and ecosystem services.
+\newblock Technical report.
+
+\bibitem{IPCC}
+IPCC.
+\newblock {\em Summary for Policymakers. Climate Change 2013: The Physical
+  Science Basis. Contribution of Working Group I to the Fifth Assessment Report
+  of the Intergovernmental Panel on Climate Change}, book section SPM, page
+  1–30.
+\newblock Cambridge University Press, Cambridge, United Kingdom and New York,
+  NY, USA, 2013.
+
+\bibitem{Zedan2004}
+H.~Zedan.
+\newblock {\em 2004 IUCN red list of threatened species: a global species
+  assessment}.
+\newblock Iucn, 2004.
+
+\bibitem{Didhametal2005}
+R.~K. Didham, J.~M. Tylianakis, M.~A. Hutchison, R.~M. Ewers, and N.~J.
+  Gemmell.
+\newblock Are invasive species the drivers of ecological change?
+\newblock {\em Trends in Ecology and Evolution}, 20(9):470 -- 474, 2005.
+
+\bibitem{MainkaHoward2010}
+S:~A. Mainka and G.~W. Howard.
+\newblock Climate change and invasive species: double jeopardy.
+\newblock {\em Integrative Zoology}, 5(2):102--111, 2010.
+
+\bibitem{Hooperetal2012}
+D.~U. Hooper, C.~E. Adair, B.~J. Cardinale, J.~E.~K. Byrnes, B.~A. Hungate,
+  K.~L. Matulich, A.~Gonzalez, E.~J. Duffy, L.~Gamfeldt, and M.~I. O’Connor.
+\newblock A global synthesis reveals biodiversity loss as a major driver of
+  ecosystem change.
+\newblock {\em Nature}, 486(7401):105--108, 2012.
+
+\bibitem{EbenmanJonsson2005}
+B.~Ebenman and T.~Jonsson.
+\newblock Using community viability analysis to identify fragile systems and
+  keystone species.
+\newblock {\em Trends in Ecology and Evolution}, 20(10):568 -- 575, 2005.
+
+\bibitem{Jensen1996}
+F.~V. Jensen.
+\newblock {\em An Introduction to Bayesian Networks}, volume~36.
+\newblock London: UCL press, 1996.
+
+\bibitem{Eklofetal2013}
+A.~Eklöf, S.~Tang, and S.~Allesina.
+\newblock Secondary extinctions in food webs: a bayesian network approach.
+\newblock {\em Methods in Ecology and Evolution}, 4(8):760--770, 2013.
+
+\bibitem{Mligo2015}
+M.~Cosmas.
+\newblock Plant species composition and distribution in relation to land use
+  patterns in serengeti ecosystem tanzania.
+\newblock {\em Open Journal of Forestry}, 5(6), 2015.
+
+\bibitem{Lauranceetal2012}
+W.~F. Laurance, Carolina~U. D., J.~Rendeiro, M.~Kalka, C.~J.~A. Bradshaw, S.~P.
+  Sloan, S.~G. Laurance, M.~Campbell, K.~Abernethy, P.~Alvarez,
+  V.~Arroyo-Rodriguez, P.~Ashton, J.~Benítez-Malvido, A.~Blom, K.~S. Bobo,
+  C.~H. Cannon, M.~Cao, R.~Carroll, C.~Chapman, R.~Coates, M.~Cords,
+  F.~Danielsen, B.~De~Dijn, E.~Dinerstein, M.~A. Donnelly, D.~Edwards,
+  F.~Edwards, N.~Farwig, P.~Fashing, P.~Forget, M.~Foster, G.~Gale, D.~Harris,
+  R.~Harrison, J.~Hart, S.~Karpanty, W.~John~Kress, J.~Krishnaswamy,
+  W.~Logsdon, J.~Lovett, W.~Magnusson, F.~Maisels, A.~R. Marshall, D.~McClearn,
+  D.~Mudappa, M.~R. Nielsen, R.~Pearson, N.~Pitman, J.~van~der Ploeg,
+  A.~Plumptre, J.~Poulsen, M.~Quesada, H.~Rainey, D.~Robinson, C.~Roetgers,
+  F.~Rovero, F.~Scatena, C.~Schulze, D.~Sheil, T.~Struhsaker, J.~Terborgh,
+  D.~Thomas, R.~Timm, J.~Nicolas Urbina-Cardona, K.~Vasudevan,
+  S.~Joseph~Wright, J.~Carlos Arias-G., L.~Arroyo, M.~Ashton, P.~Auzel,
+  D.~Babaasa, F.~Babweteera, P.~Baker, O.~Banki, M.~Bass, I.~Bila-Isia,
+  S.~Blake, W.~Brockelman, N.~Brokaw, C.~A. Brühl, S.~Bunyavejchewin, J.~Chao,
+  J.~Chave, R.~Chellam, C.~J. Clark, J.~Clavijo, R.~Congdon, R.~Corlett, H.~S.
+  Dattaraja, C.~Dave, G.~Davies, B.~de~Mello~Beisiegel, R.~de~Nazaré Paes~da
+  Silva, A.~Di~Fiore, A.~Diesmos, R.~Dirzo, D.~Doran-Sheehy, M.~Eaton,
+  L.~Emmons, A.~Estrada, C.~Ewango, L.~Fedigan, F.~Feer, B.~Fruth,
+  J.~Giacalone~Willis, U.~Goodale, S.~Goodman, J.~C. Guix, P.~Guthiga,
+  W.~Haber, K.~Hamer, I.~Herbinger, J.~Hill, Z.~Huang, I.~Fang~Sun, K.~Ickes,
+  A.~Itoh, N.~Ivanauskas, B.~Jackes, J.~Janovec, D.~Janzen, M.~Jiangming,
+  C.~Jin, T.~Jones, H.~Justiniano, E.~Kalko, A.~Kasangaki, T.~Killeen, H.~King,
+  E.~Klop, C.~Knott, I.~Koné, E.~Kudavidanage, J.~Lahoz~da Silva~Ribeiro,
+  J.~Lattke, Ri. Laval, R.~Lawton, M.~Leal, M.~Leighton, M.~Lentino, C.~Leonel,
+  J.~Lindsell, L.~Ling-Ling, K.~Eduard~Linsenmair, E.~Losos, A.~Lugo,
+  J.~Lwanga, A.~L. Mack, M.~Martins, S.~W. McGraw, R.~McNab, L.~Montag,
+  J.~Myers~Thompson, J.~Nabe-Nielsen, M.~Nakagawa, S.~Nepal, M.~Norconk,
+  V.~Novotny, S.~O'Donnell, M.~Opiang, P.~Ouboter, K.~Parker, N.~Parthasarathy,
+  K.~Pisciotta, D.~Prawiradilaga, C.~Pringle, S.~Rajathurai, U.~Reichard,
+  G.~Reinartz, K.~Renton, G.~Reynolds, V.~Reynolds, E.~Riley, M.~Rödel,
+  J.~Rothman, P.~Round, S.~Sakai, T.~Sanaiotti, T.~Savini, G.~Schaab,
+  J.~Seidensticker, A.~Siaka, M.~R. Silman, T.~B. Smith, S.~S. de~Almeida,
+  N.~Sodhi, C.~Stanford, K.~Stewart, E.~Stokes, K.~E. Stoner, R.~Sukumar,
+  M.~Surbeck, M.~Tobler, T.~Tscharntke, A.~Turkalo, G.~Umapathy, M.~van Weerd,
+  J.~Vega~Rivera, M.~Venkataraman, L.~Venn, C.~Verea, C.~Volkmer~de Castilho,
+  M.~Waltert, B.~Wang, D.~Watts, W.~Weber, P.~West, D.~Whitacre, K.~Whitney,
+  D.~Wilkie, S.~Williams, D.~D. Wright, P.~Wright, L.~Xiankai, P.~Yonzon, and
+  F.~Zamzani.
+\newblock Averting biodiversity collapse in tropical forest protected areas.
+\newblock {\em Nature}, 489(7415):290--294, September 2012.
+
+\bibitem{Gastonetal2008}
+K.~J. Gaston, S.~F. Jackson, L.~Cantú-Salazar, and G.~Cruz-Piñón.
+\newblock The ecological performance of protected areas.
+\newblock {\em Annual Review of Ecology, Evolution, and Systematics},
+  39(1):93--113, 2008.
+
+\bibitem{Funketal2006}
+C.~Funk, G.~B. Senay, A.~Asfaw, J.~Verdin, J.~Rowland, D.~Korecha, G.~Eilerts,
+  J.~Michaelsen, S.~Amer, and R.~Choularton.
+\newblock Recent drought tendencies in ethiopia and equatorial subtropical
+  eastern africa fews net famine early warning system network.
+\newblock 2006.
+
+\bibitem{Niangetal2014}
+I.~Niang, O.~C. Ruppel, M.~A. Abdrabo, A.~Essel, C.~Lennard, J.~Padgham, and
+  P.~Urquhart.
+\newblock {\em Africa. Climate Change 2014: Impacts, Adaptation, and
+  Vulnerability. Part B: Regional Aspects. Contribution of Working Group II to
+  the Fifth Assessment Report of the Intergovernmental Panel on Climate
+  Change}, book section~22, page 1199–1265.
+\newblock Cambridge University Press, Cambridge, United Kingdom and New York,
+  NY, USA, 2014.
+
+\bibitem{Baskervilleetal2011}
+E.~B. Baskerville, A.~P. Dobson, T.~Bedford, S.~Allesina, M.~T. Anderson, and
+  M.~Pascual.
+\newblock Spatial guilds in the serengeti food web revealed by a bayesian group
+  model.
+\newblock {\em PLoS computational biology}, 7(12):e1002321, 2011.
+
+\bibitem{Setsaasetal2007}
+T.~H. Setsaas, T.~Holmern, G.~Mwakalebe, S.~Stokke, and E.~Røskaft.
+\newblock How does human exploitation affect impala populations in protected
+  and partially protected areas? – a case study from the serengeti ecosystem,
+  tanzania".
+\newblock {\em Biological Conservation}, 136(4):563 -- 570, 2007.
+
+\bibitem{JensenNielsen2007}
+F.~V. Jensen and T.~D. Nielsen.
+\newblock {\em Bayesian networks and decision graphs. [Elektronisk resurs].}
+\newblock Information science and statistics. New York : Springer, c2007.,
+  2007.
+
+\bibitem{Allesinaetal2005}
+S.~Allesina, A.~Bodini, and C.~Bondavalli.
+\newblock Ecological subsystems via graph theory: the role of strongly
+  connected components.
+\newblock {\em Oikos}, 110(1):164--176, 2005.
 
 \end{thebibliography}

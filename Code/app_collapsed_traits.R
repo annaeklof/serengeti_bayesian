@@ -114,28 +114,36 @@ A[k,compl_list %>%
 }
 
 plant_groups <- c("control", "tree", "shrub", "herb", "annual", "graminoid")
-appMarg <- function(alpha, beta) {
+appMarg <- function(alpha, beta, cons) {
     if (alpha==1) funcresp="Linear"
     else funcresp="A3B3"
     
     for (i in 1:length(plant_groups)){
         dist <- plant_groups[i]
         print(dist)
-        Pb <- rep(0.1, S) ## baseline extinction probabilities: same for each species
-        if (dist!="control"){
+        Pb <- rep(0.1, S) ## baseline extinction probabilities control case
+        # baseline probs if not control scen and IF NO increased pi for apex
+        if (dist!="control" & cons==FALSE){
             per_vec <- match(dist,rownames(A))
             Pb[per_vec] <- 0.5
         }
+        # baseline probs if not control scen and IF increased pi for apex
+        if (dist!="control" & cons==TRUE){
+            per_vec <- match(dist,rownames(A))
+            apex <- "group_1"
+            per_apex <- match(apex, rownames(A))
+            per <- c(per_vec, per_apex)
+            Pb[per] <- 0.5
+          }
         
         persistence <- tibble(
             group=rownames(A), ## species numbers
             per = bayes_ntw_MC(A, Pb, alpha, beta, 100000) %>% ## 100k evals of BN
                 juliaGet ## convert vector from Julia to R format
         )  %>% mutate(group_higher_pi=dist)
-        save(persistence, file=paste0(save_path,funcresp,"/HigherTrait_",dist,Extension))
+        save(persistence, file=paste0(save_path,funcresp,"/HigherTrait_",dist,"_t_a", Extension))
     }
 }
 
-alpha = 3
-beta = 3
-appMarg(alpha,beta)
+
+appMarg(alpha=3,beta=3,cons=TRUE)

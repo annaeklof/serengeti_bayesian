@@ -1,47 +1,52 @@
 This is BibTeX, Version 0.99d (TeX Live 2019)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: draft serengeti.aux
-The style file: elsarticle-harv.bst
-Database file #1: mybibio.bib
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 3 entries,
-            2990 wiz_defined-function locations,
-            653 strings with 5996 characters,
-and the built_in function-call counts, 2179 in all, are:
-= -- 163
-> -- 94
-< -- 1
-+ -- 36
-- -- 33
-* -- 247
-:= -- 324
-add.period$ -- 11
-call.type$ -- 3
-change.case$ -- 25
-chr.to.int$ -- 3
-cite$ -- 3
-duplicate$ -- 151
-empty$ -- 153
-format.name$ -- 44
-if$ -- 398
-int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 31
-newline$ -- 32
-num.names$ -- 12
+The style file: unsrt.bst
+Database file #1: bib_serengeti.bib
+Warning--empty institution in Diazetal2019
+Warning--empty year in Diazetal2019
+Warning--can't use both author and editor fields in IPCC
+Warning--empty booktitle in Funketal2006
+Warning--can't use both author and editor fields in Niangetal2014
+You've used 18 entries,
+            1791 wiz_defined-function locations,
+            578 strings with 11781 characters,
+and the built_in function-call counts, 7676 in all, are:
+= -- 380
+> -- 956
+< -- 5
++ -- 326
+- -- 308
+* -- 821
+:= -- 1437
+add.period$ -- 55
+call.type$ -- 18
+change.case$ -- 16
+chr.to.int$ -- 0
+cite$ -- 23
+duplicate$ -- 205
+empty$ -- 421
+format.name$ -- 308
+if$ -- 1498
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 22
+newline$ -- 93
+num.names$ -- 18
 pop$ -- 53
 preamble$ -- 1
-purify$ -- 23
+purify$ -- 0
 quote$ -- 0
-skip$ -- 44
+skip$ -- 102
 stack$ -- 0
-substring$ -- 82
-swap$ -- 113
-text.length$ -- 0
+substring$ -- 274
+swap$ -- 58
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 24
-warning$ -- 0
-while$ -- 12
-width$ -- 0
-write$ -- 61
+type$ -- 0
+warning$ -- 5
+while$ -- 33
+width$ -- 20
+write$ -- 197
+(There were 5 warnings)

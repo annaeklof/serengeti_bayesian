@@ -66,7 +66,7 @@ df <- data_frame(
 df <- left_join(df, groups, by="code") %>%
     left_join(., trait_tab, by="code") 
 
-appMarg <- function(alpha, beta) {
+appMarg <- function(alpha, beta, cons) {
     if (alpha==1) funcresp="/Linear"
     else funcresp="/A3B3"
     ## habitat groups: grassland (G), woodland(W), shrubland(S), kopje(K), 
@@ -74,14 +74,17 @@ appMarg <- function(alpha, beta) {
     #types = c("habitats", "other")
     #habitats <- c("control","S","D","T","R","G","W","K")
     #plant_gr <- c(7:14)
-    charac <- c("control","S","D","T","R","G","W","K", 7:14, "Woody", "NWoody", "P", 
-                "A", "tree", "shrub", "herb", "graminoid", "annual")
+    #charac <- c("control","S","D","T","R","G","W","K", 7:14, "Woody", "NWoody", "P", 
+                #"A", "tree", "shrub", "herb", "graminoid", "annual")
+    charac <- c("control","S","D","T","R","G","W","K")
+    cons = TRUE
     for (i in 1:length(charac)){
         pl_charac <- charac[i]
         print(pl_charac)
-        # need an if-statement since some species occur in more than one habitat,
-        # if a species belongs to two hab, it will be assigned each hab in order.
-        # this holds for hab Grassland, Woodland, Kopje (i>5&i>9).
+        # need an if-statement when plant charac is equal to habitats (note, not 
+        # necessary for the other plant characs), since some species occur in more 
+        # than one habitat, if a species belongs to two hab, it will be assigned 
+        # each hab in order. this holds for hab Grassland, Woodland, Kopje (i>5&i>9).
         if (i < 6){
             all <- as_data_frame(read.table(paste("Data/serengeti_info.csv",sep=''), sep=",", header=TRUE)) %>%
                 mutate_if(is.factor, as.character) %>%
@@ -106,8 +109,17 @@ appMarg <- function(alpha, beta) {
                 filter(sp_no, trait_val==pl_charac) %>%
                 pull(sp_no)
         }
-        if (pl_charac=="control") Pb <- rep(0.1, S)
-        else Pb[per_vec] <- 0.5
+        if (cons==TRUE & pl_charac!="control"){
+            per_vec_cons <- df %>%
+                filter(sp_no, group==1) %>%
+                pull(sp_no)
+            per_vec <- c(per_vec, per_vec_cons)
+            Pb[per_vec] <- 0.5
+            }
+        if (cons==FALSE & pl_charac!="control"){
+            Pb[per_vec] <- 0.5
+        }
+        
         persistence <- tibble(
             code=rownames(A), ## species numbers
             per = bayes_ntw_MC(A, Pb, alpha, beta, 100000) %>% ## 100k evals of BN
@@ -115,10 +127,9 @@ appMarg <- function(alpha, beta) {
         )  
         persistence <- left_join(df,persistence, by="code") %>%
             mutate(habitat_higher_pi=pl_charac)
-        save(persistence, file=paste0(save_path,funcresp,"/HigherHab_",pl_charac,Extension))
+        save(persistence, file=paste0(save_path,funcresp,"/HigherHab_",pl_charac,"_apex",Extension))
     }
 }
 
-alpha = 3
-beta = 3
-appMarg(alpha,beta)
+
+appMarg(alpha=1, beta=1, cons==TRUE)
