@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.15)  13 JUL 2020 11:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.15)  15 JUL 2020 09:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -573,32 +573,32 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 65.
  [2] [3] [4]
-<../Results/Figures/A3B3/box_orig_groups.jpg, id=78, 1806.75pt x 1806.75pt>
+<../Results/Figures/A3B3/box_orig_groups.jpg, id=82, 1806.75pt x 1806.75pt>
 File: ../Results/Figures/A3B3/box_orig_groups.jpg Graphic file (type jpg)
 <use ../Results/Figures/A3B3/box_orig_groups.jpg>
 Package pdftex.def Info: ../Results/Figures/A3B3/box_orig_groups.jpg  used on i
 nput line 110.
 (pdftex.def)             Requested size: 455.24411pt x 455.24277pt.
-<../Results/Figures/A3B3/box_orig_habitats.jpg, id=81, 1806.75pt x 1806.75pt>
+<../Results/Figures/A3B3/box_orig_habitats.jpg, id=85, 1806.75pt x 1806.75pt>
 File: ../Results/Figures/A3B3/box_orig_habitats.jpg Graphic file (type jpg)
 <use ../Results/Figures/A3B3/box_orig_habitats.jpg>
 Package pdftex.def Info: ../Results/Figures/A3B3/box_orig_habitats.jpg  used on
  input line 117.
 (pdftex.def)             Requested size: 455.24411pt x 455.24277pt.
-<../Results/Figures/A3B3/box_orig_traits.jpg, id=82, 1806.75pt x 1806.75pt>
+<../Results/Figures/A3B3/box_orig_traits.jpg, id=86, 1806.75pt x 1806.75pt>
 File: ../Results/Figures/A3B3/box_orig_traits.jpg Graphic file (type jpg)
 <use ../Results/Figures/A3B3/box_orig_traits.jpg>
 Package pdftex.def Info: ../Results/Figures/A3B3/box_orig_traits.jpg  used on i
 nput line 124.
 (pdftex.def)             Requested size: 455.24411pt x 455.24277pt.
-<../Results/Figures/A3B3/box_orig_gen_charac.jpg, id=83, 1806.75pt x 1806.75pt>
+<../Results/Figures/A3B3/box_orig_gen_charac.jpg, id=87, 1806.75pt x 1806.75pt>
 
 File: ../Results/Figures/A3B3/box_orig_gen_charac.jpg Graphic file (type jpg)
 <use ../Results/Figures/A3B3/box_orig_gen_charac.jpg>
 Package pdftex.def Info: ../Results/Figures/A3B3/box_orig_gen_charac.jpg  used 
 on input line 131.
 (pdftex.def)             Requested size: 455.24411pt x 455.24277pt.
-<../Results/Figures/Linear/collapsed_trait_apex.jpg, id=84, 1806.75pt x 1806.75
+<../Results/Figures/Linear/collapsed_trait_apex.jpg, id=88, 1806.75pt x 1806.75
 pt>
 File: ../Results/Figures/Linear/collapsed_trait_apex.jpg Graphic file (type jpg
 )
@@ -606,7 +606,7 @@ File: ../Results/Figures/Linear/collapsed_trait_apex.jpg Graphic file (type jpg
 Package pdftex.def Info: ../Results/Figures/Linear/collapsed_trait_apex.jpg  us
 ed on input line 138.
 (pdftex.def)             Requested size: 213.96529pt x 213.96106pt.
-<../Results/Figures/A3B3/collapsed_trait_apex.jpg, id=85, 1806.75pt x 1806.75pt
+<../Results/Figures/A3B3/collapsed_trait_apex.jpg, id=89, 1806.75pt x 1806.75pt
 >
 File: ../Results/Figures/A3B3/collapsed_trait_apex.jpg Graphic file (type jpg)
 <use ../Results/Figures/A3B3/collapsed_trait_apex.jpg>
@@ -632,11 +632,11 @@ Package rerunfilecheck Info: File `"draft serengeti".out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
  ) 
 Here is how much of TeX's memory you used:
- 10993 strings out of 492616
- 167918 string characters out of 6129480
- 330235 words of memory out of 5000000
- 14635 multiletter control sequences out of 15000+600000
- 44599 words of font info for 82 fonts, out of 8000000 for 9000
+ 10999 strings out of 492616
+ 168031 string characters out of 6129480
+ 330251 words of memory out of 5000000
+ 14638 multiletter control sequences out of 15000+600000
+ 44682 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,8n,46p,1827b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/
@@ -652,10 +652,10 @@ xmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2019/texmf-dist/fon
 ts/type1/public/lm/lmri10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/p
 ublic/lm/lmri9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lm
 sy10.pfb>
-Output written on "draft serengeti.pdf" (13 pages, 1824613 bytes).
+Output written on "draft serengeti.pdf" (13 pages, 1825407 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
- 145 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
+ 184 PDF objects out of 1000 (max. 8388607)
+ 149 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
  12831 words of extra memory for PDF output out of 14400 (max. 10000000)
 

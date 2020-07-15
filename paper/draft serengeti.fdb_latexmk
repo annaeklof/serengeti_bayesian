@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex draft serengeti"] 1594630825 "draft serengeti.aux" "draft serengeti.bbl" "draft serengeti" 1594630827
+["bibtex draft serengeti"] 1594798370 "draft serengeti.aux" "draft serengeti.bbl" "draft serengeti" 1594798371
   "/usr/local/texlive/2019/texmf-dist/bibtex/bst/base/unsrt.bst" 1292289607 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "bib_serengeti.bib" 1594630503 10876 f196d808e74dbbca6dfb9a7b0b7fe854 ""
-  "draft serengeti.aux" 1594630826 8189 399de6c98377a40f883a912c87e9b56f "pdflatex"
+  "bib_serengeti.bib" 1594798284 11352 546cfce99322a1a59738aa30e55b3f5e ""
+  "draft serengeti.aux" 1594798371 8316 c1be89bc6aea91f92b08f260ace048ac "pdflatex"
   (generated)
-  "draft serengeti.bbl"
   "draft serengeti.blg"
-["pdflatex"] 1594630826 "draft serengeti.tex" "draft serengeti.pdf" "draft serengeti" 1594630827
+  "draft serengeti.bbl"
+["pdflatex"] 1594798370 "draft serengeti.tex" "draft serengeti.pdf" "draft serengeti" 1594798371
   "../Results/Figures/A3B3/box_orig_gen_charac.jpg" 1594629946 282300 6e98fde220b02ca6ddd0bf7fc00c27e4 ""
   "../Results/Figures/A3B3/box_orig_groups.jpg" 1594629915 359221 0fa45cfd205a09dfc44e383176ae582a ""
   "../Results/Figures/A3B3/box_orig_habitats.jpg" 1594629968 306355 356fe587356f5390756571e347ab6e87 ""
@@ -110,12 +110,12 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1573810126 4259637 054234729af1b926e994df08f682aa6d ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "draft serengeti.aux" 1594630826 8189 399de6c98377a40f883a912c87e9b56f "pdflatex"
-  "draft serengeti.bbl" 1594630826 7761 977944cb9134dbbb57cefa87d086ee37 "bibtex draft serengeti"
-  "draft serengeti.out" 1594630826 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "draft serengeti.tex" 1594630822 18503 8dda194e62c4e0300555863cb6035171 ""
+  "draft serengeti.aux" 1594798371 8316 c1be89bc6aea91f92b08f260ace048ac "pdflatex"
+  "draft serengeti.bbl" 1594798370 8027 391d3607972cdbed643bedb5484b181b "bibtex draft serengeti"
+  "draft serengeti.out" 1594798370 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "draft serengeti.tex" 1594798365 18604 9d89e0b37f76c9b2df6ed2f707aa78e0 ""
   (generated)
-  "draft serengeti.log"
-  "draft serengeti.aux"
-  "draft serengeti.pdf"
   "draft serengeti.out"
+  "draft serengeti.log"
+  "draft serengeti.pdf"
+  "draft serengeti.aux"

@@ -8,45 +8,45 @@ Warning--empty year in Diazetal2019
 Warning--can't use both author and editor fields in IPCC
 Warning--empty booktitle in Funketal2006
 Warning--can't use both author and editor fields in Niangetal2014
-You've used 18 entries,
+You've used 19 entries,
             1791 wiz_defined-function locations,
-            578 strings with 11781 characters,
-and the built_in function-call counts, 7676 in all, are:
-= -- 380
-> -- 956
+            585 strings with 12009 characters,
+and the built_in function-call counts, 7937 in all, are:
+= -- 403
+> -- 967
 < -- 5
-+ -- 326
-- -- 308
-* -- 821
-:= -- 1437
-add.period$ -- 55
-call.type$ -- 18
-change.case$ -- 16
++ -- 330
+- -- 311
+* -- 844
+:= -- 1478
+add.period$ -- 58
+call.type$ -- 19
+change.case$ -- 17
 chr.to.int$ -- 0
-cite$ -- 23
-duplicate$ -- 205
-empty$ -- 421
-format.name$ -- 308
-if$ -- 1498
+cite$ -- 24
+duplicate$ -- 214
+empty$ -- 447
+format.name$ -- 311
+if$ -- 1556
 int.to.chr$ -- 0
-int.to.str$ -- 18
-missing$ -- 22
-newline$ -- 93
-num.names$ -- 18
-pop$ -- 53
+int.to.str$ -- 19
+missing$ -- 23
+newline$ -- 98
+num.names$ -- 19
+pop$ -- 54
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 102
+skip$ -- 105
 stack$ -- 0
-substring$ -- 274
-swap$ -- 58
+substring$ -- 301
+swap$ -- 59
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 5
-while$ -- 33
-width$ -- 20
-write$ -- 197
+while$ -- 35
+width$ -- 21
+write$ -- 208
 (There were 5 warnings)
