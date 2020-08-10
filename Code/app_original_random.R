@@ -65,8 +65,8 @@ df <- data_frame(
 )
 df <- left_join(df, groups, by="code") %>%
     left_join(., trait_tab, by="code") 
-#pl_groups <- c(7:14)
-pl_groups <- c(13:14)
+pl_groups <- c(7:14)
+
 appMarg <- function(alpha, beta, rep) {
     if (alpha==1) funcresp="/Linear"
     else funcresp="/A3B3"
@@ -77,8 +77,9 @@ appMarg <- function(alpha, beta, rep) {
             count(group==i) %>%
             pull(n)
         pl_dist <- pl_dist[2]
-        print(pl_dist)
+        print(i)
         for (j in 1:rep){
+            print(j)
             
             Pb <- rep(0.1, S) ## baseline extinction probabilities: same for each species
             # find all basal species in the network
@@ -100,13 +101,9 @@ appMarg <- function(alpha, beta, rep) {
                 mutate(group_size=i, rep=j)
             if (j==1) per <- persistence
             else per <- bind_rows(per, persistence)
-            print(tail(per))
         }
         save(per, file=paste0(save_path,funcresp,"/group_size",i,Extension))
     }
 }
 
-
-
-
-appMarg(alpha=3, beta=3, rep=2)
+appMarg(alpha=1, beta=1, rep=200)
