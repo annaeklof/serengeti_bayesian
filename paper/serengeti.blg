@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: serengeti.aux
+The style file: unsrt.bst
+Database file #1: bib_serengeti.bib
+Warning--empty institution in Diazetal2019
+Warning--empty year in Diazetal2019
+Warning--can't use both author and editor fields in IPCC
+Warning--empty booktitle in Funketal2006
+Warning--can't use both author and editor fields in Niangetal2014
+You've used 19 entries,
+            1791 wiz_defined-function locations,
+            587 strings with 11907 characters,
+and the built_in function-call counts, 7911 in all, are:
+= -- 403
+> -- 961
+< -- 5
++ -- 328
+- -- 309
+* -- 840
+:= -- 1472
+add.period$ -- 58
+call.type$ -- 19
+change.case$ -- 17
+chr.to.int$ -- 0
+cite$ -- 24
+duplicate$ -- 214
+empty$ -- 447
+format.name$ -- 309
+if$ -- 1552
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 23
+newline$ -- 98
+num.names$ -- 19
+pop$ -- 54
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 105
+stack$ -- 0
+substring$ -- 301
+swap$ -- 59
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 35
+width$ -- 21
+write$ -- 208
+(There were 5 warnings)

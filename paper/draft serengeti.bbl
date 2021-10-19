@@ -11,6 +11,12 @@ S.~Díaz, J.~Settele, E.~Brondízio, H.~Ngo, M.~Guèze, J.~Agard, A.~Arneth,
   platform on biodiversity and ecosystem services.
 \newblock Technical report.
 
+\bibitem{Zedan2004}
+H.~Zedan.
+\newblock {\em 2004 IUCN red list of threatened species: a global species
+  assessment}.
+\newblock Iucn, 2004.
+
 \bibitem{IPCC}
 IPCC.
 \newblock {\em Summary for Policymakers. Climate Change 2013: The Physical
@@ -19,12 +25,6 @@ IPCC.
   1–30.
 \newblock Cambridge University Press, Cambridge, United Kingdom and New York,
   NY, USA, 2013.
-
-\bibitem{Zedan2004}
-H.~Zedan.
-\newblock {\em 2004 IUCN red list of threatened species: a global species
-  assessment}.
-\newblock Iucn, 2004.
 
 \bibitem{Didhametal2005}
 R.~K. Didham, J.~M. Tylianakis, M.~A. Hutchison, R.~M. Ewers, and N.~J.
@@ -150,6 +150,12 @@ F.~V. Jensen and T.~D. Nielsen.
 \newblock {\em Bayesian networks and decision graphs. [Elektronisk resurs].}
 \newblock Information science and statistics. New York : Springer, c2007.,
   2007.
+
+\bibitem{Allesinaetal2009}
+S.~Allesina, A.~Bodini, and M.~Pascual.
+\newblock Functional links and robustness in food webs.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 364(1524):1701--1709, 2009.
 
 \bibitem{Allesinaetal2005}
 S.~Allesina, A.~Bodini, and C.~Bondavalli.

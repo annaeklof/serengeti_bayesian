@@ -156,6 +156,9 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmr.fd
 INPUT ../Results/Figures/A3B3/box_orig_groups.jpg
 INPUT ../Results/Figures/A3B3/box_orig_groups.jpg
 INPUT ../Results/Figures/A3B3/box_orig_groups.jpg
+INPUT ../Results/Figures/Linear/box_orig_groups.jpg
+INPUT ../Results/Figures/Linear/box_orig_groups.jpg
+INPUT ../Results/Figures/Linear/box_orig_groups.jpg
 INPUT ../Results/Figures/A3B3/box_orig_habitats.jpg
 INPUT ../Results/Figures/A3B3/box_orig_habitats.jpg
 INPUT ../Results/Figures/A3B3/box_orig_habitats.jpg
@@ -165,15 +168,45 @@ INPUT ../Results/Figures/A3B3/box_orig_traits.jpg
 INPUT ../Results/Figures/A3B3/box_orig_gen_charac.jpg
 INPUT ../Results/Figures/A3B3/box_orig_gen_charac.jpg
 INPUT ../Results/Figures/A3B3/box_orig_gen_charac.jpg
-INPUT ../Results/Figures/Linear/collapsed_trait_apex.jpg
-INPUT ../Results/Figures/Linear/collapsed_trait_apex.jpg
-INPUT ../Results/Figures/Linear/collapsed_trait_apex.jpg
-INPUT ../Results/Figures/A3B3/collapsed_trait_apex.jpg
-INPUT ../Results/Figures/A3B3/collapsed_trait_apex.jpg
-INPUT ../Results/Figures/A3B3/collapsed_trait_apex.jpg
-INPUT draft serengeti.bbl
-INPUT draft serengeti.bbl
+INPUT ../Results/Figures/A3B3/disturb.jpg
+INPUT ../Results/Figures/A3B3/disturb.jpg
+INPUT ../Results/Figures/A3B3/disturb.jpg
+INPUT ../Results/Figures/A3B3/comp_traits.jpg
+INPUT ../Results/Figures/A3B3/comp_traits.jpg
+INPUT ../Results/Figures/A3B3/comp_traits.jpg
+INPUT ../Results/Figures/A3B3/comp_habs.jpg
+INPUT ../Results/Figures/A3B3/comp_habs.jpg
+INPUT ../Results/Figures/A3B3/comp_habs.jpg
+INPUT ../Results/Figures/A3B3/random/box_orig_random_groups.jpg
+INPUT ../Results/Figures/A3B3/random/box_orig_random_groups.jpg
+INPUT ../Results/Figures/A3B3/random/box_orig_random_groups.jpg
+INPUT ../Results/Figures/Linear/random/box_orig_random_groups.jpg
+INPUT ../Results/Figures/Linear/random/box_orig_random_groups.jpg
+INPUT ../Results/Figures/Linear/random/box_orig_random_groups.jpg
+INPUT ../Results/Figures/A3B3/random/p_val.pdf
+INPUT ../Results/Figures/A3B3/random/p_val.pdf
+INPUT ../Results/Figures/A3B3/random/p_val.pdf
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/rm-lmri10.tfm
+INPUT ../Results/Figures/Linear/comp_node_orig_traits.jpg
+INPUT ../Results/Figures/Linear/comp_node_orig_traits.jpg
+INPUT ../Results/Figures/Linear/comp_node_orig_traits.jpg
+INPUT ../Results/Figures/A3B3/comp_node_orig_traits.jpg
+INPUT ../Results/Figures/A3B3/comp_node_orig_traits.jpg
+INPUT ../Results/Figures/A3B3/comp_node_orig_traits.jpg
+INPUT ../Results/Figures/Linear/comp_node_orig_groups.jpg
+INPUT ../Results/Figures/Linear/comp_node_orig_groups.jpg
+INPUT ../Results/Figures/Linear/comp_node_orig_groups.jpg
+INPUT ../Results/Figures/A3B3/comp_node_orig_groups.jpg
+INPUT ../Results/Figures/A3B3/comp_node_orig_groups.jpg
+INPUT ../Results/Figures/A3B3/comp_node_orig_groups.jpg
+INPUT ../Results/Figures/Linear/collapsed_trait_apex.jpg
+INPUT ../Results/Figures/Linear/collapsed_trait_apex.jpg
+INPUT ../Results/Figures/Linear/collapsed_trait_apex.jpg
+INPUT ../Results/Figures/A3B3/collapsed_trait_apex.jpg
+INPUT ../Results/Figures/A3B3/collapsed_trait_apex.jpg
+INPUT ../Results/Figures/A3B3/collapsed_trait_apex.jpg
+INPUT draft serengeti.bbl
+INPUT draft serengeti.bbl
 INPUT draft serengeti.aux
 INPUT ./draft serengeti.out
 INPUT ./draft serengeti.out

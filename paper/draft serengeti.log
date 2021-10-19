@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.15)  10 AUG 2020 09:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.15)  11 NOV 2020 10:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -573,72 +573,158 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 65.
  [2] [3] [4]
-<../Results/Figures/A3B3/box_orig_groups.jpg, id=79, 1806.75pt x 1806.75pt>
+[5]
+<../Results/Figures/A3B3/box_orig_groups.jpg, id=96, 1806.75pt x 1806.75pt>
 File: ../Results/Figures/A3B3/box_orig_groups.jpg Graphic file (type jpg)
 <use ../Results/Figures/A3B3/box_orig_groups.jpg>
 Package pdftex.def Info: ../Results/Figures/A3B3/box_orig_groups.jpg  used on i
-nput line 110.
+nput line 120.
 (pdftex.def)             Requested size: 455.24411pt x 455.24277pt.
-<../Results/Figures/A3B3/box_orig_habitats.jpg, id=82, 1806.75pt x 1806.75pt>
+<../Results/Figures/Linear/box_orig_groups.jpg, id=99, 1806.75pt x 1806.75pt>
+File: ../Results/Figures/Linear/box_orig_groups.jpg Graphic file (type jpg)
+<use ../Results/Figures/Linear/box_orig_groups.jpg>
+Package pdftex.def Info: ../Results/Figures/Linear/box_orig_groups.jpg  used on
+ input line 127.
+(pdftex.def)             Requested size: 455.24411pt x 455.24277pt.
+<../Results/Figures/A3B3/box_orig_habitats.jpg, id=102, 1806.75pt x 1806.75pt>
 File: ../Results/Figures/A3B3/box_orig_habitats.jpg Graphic file (type jpg)
 <use ../Results/Figures/A3B3/box_orig_habitats.jpg>
 Package pdftex.def Info: ../Results/Figures/A3B3/box_orig_habitats.jpg  used on
- input line 117.
+ input line 136.
 (pdftex.def)             Requested size: 455.24411pt x 455.24277pt.
-<../Results/Figures/A3B3/box_orig_traits.jpg, id=83, 1806.75pt x 1806.75pt>
+<../Results/Figures/A3B3/box_orig_traits.jpg, id=103, 1806.75pt x 1806.75pt>
 File: ../Results/Figures/A3B3/box_orig_traits.jpg Graphic file (type jpg)
 <use ../Results/Figures/A3B3/box_orig_traits.jpg>
 Package pdftex.def Info: ../Results/Figures/A3B3/box_orig_traits.jpg  used on i
-nput line 124.
+nput line 143.
 (pdftex.def)             Requested size: 455.24411pt x 455.24277pt.
-<../Results/Figures/A3B3/box_orig_gen_charac.jpg, id=84, 1806.75pt x 1806.75pt>
-
+<../Results/Figures/A3B3/box_orig_gen_charac.jpg, id=104, 1806.75pt x 1806.75pt
+>
 File: ../Results/Figures/A3B3/box_orig_gen_charac.jpg Graphic file (type jpg)
 <use ../Results/Figures/A3B3/box_orig_gen_charac.jpg>
 Package pdftex.def Info: ../Results/Figures/A3B3/box_orig_gen_charac.jpg  used 
-on input line 131.
+on input line 150.
 (pdftex.def)             Requested size: 455.24411pt x 455.24277pt.
-<../Results/Figures/Linear/collapsed_trait_apex.jpg, id=85, 1806.75pt x 1806.75
-pt>
+<../Results/Figures/A3B3/disturb.jpg, id=105, 3011.25pt x 1806.75pt>
+File: ../Results/Figures/A3B3/disturb.jpg Graphic file (type jpg)
+<use ../Results/Figures/A3B3/disturb.jpg>
+Package pdftex.def Info: ../Results/Figures/A3B3/disturb.jpg  used on input lin
+e 157.
+(pdftex.def)             Requested size: 455.24411pt x 273.1236pt.
+<../Results/Figures/A3B3/comp_traits.jpg, id=106, 3011.25pt x 1806.75pt>
+File: ../Results/Figures/A3B3/comp_traits.jpg Graphic file (type jpg)
+<use ../Results/Figures/A3B3/comp_traits.jpg>
+Package pdftex.def Info: ../Results/Figures/A3B3/comp_traits.jpg  used on input
+ line 164.
+(pdftex.def)             Requested size: 455.24411pt x 273.1236pt.
+<../Results/Figures/A3B3/comp_habs.jpg, id=107, 3011.25pt x 1806.75pt>
+File: ../Results/Figures/A3B3/comp_habs.jpg Graphic file (type jpg)
+<use ../Results/Figures/A3B3/comp_habs.jpg>
+Package pdftex.def Info: ../Results/Figures/A3B3/comp_habs.jpg  used on input l
+ine 171.
+(pdftex.def)             Requested size: 455.24411pt x 273.1236pt.
+<../Results/Figures/A3B3/random/box_orig_random_groups.jpg, id=108, 1806.75pt x
+ 1806.75pt>
+File: ../Results/Figures/A3B3/random/box_orig_random_groups.jpg Graphic file (t
+ype jpg)
+<use ../Results/Figures/A3B3/random/box_orig_random_groups.jpg>
+Package pdftex.def Info: ../Results/Figures/A3B3/random/box_orig_random_groups.
+jpg  used on input line 179.
+(pdftex.def)             Requested size: 455.24411pt x 455.24277pt.
+<../Results/Figures/Linear/random/box_orig_random_groups.jpg, id=111, 1806.75pt
+ x 1806.75pt>
+File: ../Results/Figures/Linear/random/box_orig_random_groups.jpg Graphic file 
+(type jpg)
+<use ../Results/Figures/Linear/random/box_orig_random_groups.jpg>
+Package pdftex.def Info: ../Results/Figures/Linear/random/box_orig_random_group
+s.jpg  used on input line 186.
+(pdftex.def)             Requested size: 455.24411pt x 455.24277pt.
+<../Results/Figures/A3B3/random/p_val.pdf, id=114, 433.62pt x 433.62pt>
+File: ../Results/Figures/A3B3/random/p_val.pdf Graphic file (type pdf)
+<use ../Results/Figures/A3B3/random/p_val.pdf>
+Package pdftex.def Info: ../Results/Figures/A3B3/random/p_val.pdf  used on inpu
+t line 193.
+(pdftex.def)             Requested size: 455.24411pt x 455.26813pt.
+<../Results/Figures/Linear/comp_node_orig_traits.jpg, id=117, 2409.0pt x 1806.7
+5pt>
+File: ../Results/Figures/Linear/comp_node_orig_traits.jpg Graphic file (type jp
+g)
+<use ../Results/Figures/Linear/comp_node_orig_traits.jpg>
+Package pdftex.def Info: ../Results/Figures/Linear/comp_node_orig_traits.jpg  u
+sed on input line 200.
+(pdftex.def)             Requested size: 223.07211pt x 167.28717pt.
+<../Results/Figures/A3B3/comp_node_orig_traits.jpg, id=118, 2409.0pt x 1806.75p
+t>
+File: ../Results/Figures/A3B3/comp_node_orig_traits.jpg Graphic file (type jpg)
+
+<use ../Results/Figures/A3B3/comp_node_orig_traits.jpg>
+Package pdftex.def Info: ../Results/Figures/A3B3/comp_node_orig_traits.jpg  use
+d on input line 201.
+(pdftex.def)             Requested size: 223.07211pt x 167.28717pt.
+<../Results/Figures/Linear/comp_node_orig_groups.jpg, id=119, 2409.0pt x 1806.7
+5pt>
+File: ../Results/Figures/Linear/comp_node_orig_groups.jpg Graphic file (type jp
+g)
+<use ../Results/Figures/Linear/comp_node_orig_groups.jpg>
+Package pdftex.def Info: ../Results/Figures/Linear/comp_node_orig_groups.jpg  u
+sed on input line 208.
+(pdftex.def)             Requested size: 223.07211pt x 167.28717pt.
+<../Results/Figures/A3B3/comp_node_orig_groups.jpg, id=120, 2409.0pt x 1806.75p
+t>
+File: ../Results/Figures/A3B3/comp_node_orig_groups.jpg Graphic file (type jpg)
+
+<use ../Results/Figures/A3B3/comp_node_orig_groups.jpg>
+Package pdftex.def Info: ../Results/Figures/A3B3/comp_node_orig_groups.jpg  use
+d on input line 209.
+(pdftex.def)             Requested size: 223.07211pt x 167.28717pt.
+<../Results/Figures/Linear/collapsed_trait_apex.jpg, id=121, 1806.75pt x 1806.7
+5pt>
 File: ../Results/Figures/Linear/collapsed_trait_apex.jpg Graphic file (type jpg
 )
 <use ../Results/Figures/Linear/collapsed_trait_apex.jpg>
 Package pdftex.def Info: ../Results/Figures/Linear/collapsed_trait_apex.jpg  us
-ed on input line 138.
+ed on input line 216.
 (pdftex.def)             Requested size: 213.96529pt x 213.96106pt.
-<../Results/Figures/A3B3/collapsed_trait_apex.jpg, id=86, 1806.75pt x 1806.75pt
->
+<../Results/Figures/A3B3/collapsed_trait_apex.jpg, id=122, 1806.75pt x 1806.75p
+t>
 File: ../Results/Figures/A3B3/collapsed_trait_apex.jpg Graphic file (type jpg)
 <use ../Results/Figures/A3B3/collapsed_trait_apex.jpg>
 Package pdftex.def Info: ../Results/Figures/A3B3/collapsed_trait_apex.jpg  used
- on input line 139.
+ on input line 217.
 (pdftex.def)             Requested size: 213.96529pt x 213.96106pt.
+ [6] [7 <../Results/Figures/A3B3/box_orig_groups.jpg>] [8 <../Results/Figures/L
+inear/box_orig_groups.jpg>] [9 <../Results/Figures/A3B3/box_orig_habitats.jpg>]
+ [10 <../Results/Figures/A3B3/box_orig_traits.jpg>] [11 <../Results/Figures/A3B
+3/box_orig_gen_charac.jpg>] [12 <../Results/Figures/A3B3/disturb.jpg>]
+[13 <../Results/Figures/A3B3/comp_traits.jpg>] [14 <../Results/Figures/A3B3/com
+p_habs.jpg>] [15 <../Results/Figures/A3B3/random/box_orig_random_groups.jpg>]
+[16 <../Results/Figures/Linear/random/box_orig_random_groups.jpg>] [17 <../Resu
+lts/Figures/A3B3/random/p_val.pdf>] [18 <../Results/Figures/Linear/comp_node_or
+ig_traits.jpg> <../Results/Figures/A3B3/comp_node_orig_traits.jpg> <../Results/
+Figures/Linear/comp_node_orig_groups.jpg> <../Results/Figures/A3B3/comp_node_or
+ig_groups.jpg>] [19 <../Results/Figures/Linear/collapsed_trait_apex.jpg> <../Re
+sults/Figures/A3B3/collapsed_trait_apex.jpg>] (./draft serengeti.bbl [20
 
-[5] [6 <../Results/Figures/A3B3/box_orig_groups.jpg>] [7 <../Results/Figures/A3
-B3/box_orig_habitats.jpg>] [8 <../Results/Figures/A3B3/box_orig_traits.jpg>]
-[9 <../Results/Figures/A3B3/box_orig_gen_charac.jpg>] [10 <../Results/Figures/L
-inear/collapsed_trait_apex.jpg> <../Results/Figures/A3B3/collapsed_trait_apex.j
-pg>] (./draft serengeti.bbl [11
-
-] [12])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
- [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
+]
+[21])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 229.
+ [22]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 229.
  (./draft serengeti.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 151.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 229.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 229.
 Package rerunfilecheck Info: File `"draft serengeti".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 229.
  ) 
 Here is how much of TeX's memory you used:
- 10993 strings out of 492616
- 167918 string characters out of 6129480
- 330235 words of memory out of 5000000
- 14635 multiletter control sequences out of 15000+600000
- 44555 words of font info for 82 fonts, out of 8000000 for 9000
+ 11085 strings out of 492616
+ 170981 string characters out of 6129480
+ 353242 words of memory out of 5000000
+ 14691 multiletter control sequences out of 15000+600000
+ 44887 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,8n,46p,1827b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,8n,47p,2068b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/
 texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/20
 19/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2019/texmf-d
@@ -652,10 +738,10 @@ xmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2019/texmf-dist/fon
 ts/type1/public/lm/lmri10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/p
 ublic/lm/lmri9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lm
 sy10.pfb>
-Output written on "draft serengeti.pdf" (13 pages, 1824015 bytes).
+Output written on "draft serengeti.pdf" (22 pages, 4980002 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 146 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 12831 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 265 PDF objects out of 1000 (max. 8388607)
+ 204 compressed objects within 3 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 12886 words of extra memory for PDF output out of 14400 (max. 10000000)
 

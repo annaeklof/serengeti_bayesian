@@ -1,0 +1,52 @@
+\documentclass[11pt, a4paper]{article}
+
+\usepackage{graphicx,amsmath,amsfonts,amssymb,amsxtra}
+\usepackage[usenames, dvipsnames]{xcolor}
+\usepackage[protrusion=true, expansion=true]{microtype}
+\usepackage[authoryear]{natbib}
+\usepackage[font={small}, bf]{caption}
+\usepackage{subcaption}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{xr}
+
+\newcommand{\ud}{\text{d}}
+\newcommand{\e}{\text{e}}
+\newcommand{\dt}[1]{\frac{\ud #1}{\ud t}}
+\newcommand{\ol}[1]{\overline{#1}}
+\newcommand{\rem}[1]{\textcolor{red}{\textrm{#1}}}
+\newcommand{\citeapos}[1]{\citeauthor{#1}'s (\citeyear{#1})}
+\let\originalleft\left
+\let\originalright\right
+\renewcommand{\left}{\mathopen{}\mathclose\bgroup\originalleft}
+\renewcommand{\right}{\aftergroup\egroup\originalright}
+%\hypersetup{colorlinks=true, urlcolor=blue}
+
+
+\bibpunct{(}{)}{,}{a}{}{,}
+\clubpenalty = 10000
+\widowpenalty = 10000
+%\linespread{1.05}
+%\DeclareMathAlphabet{\mathcal}{OMS}{txsy}{m}{n}
+%\numberwithin{equation}{section}
+%\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\renewcommand{\thefigure}{S\arabic{figure}}
+\renewcommand{\thetable}{S\arabic{table}}
+\renewcommand{\theequation}{S\arabic{equation}}
+%\renewcommand{\thesection}{S\arabic{section}}
+%\flushbottom
+\externaldocument[main:]{serengeti}
+\graphicspath{{../../../figures/SI_figs/}}
+
+
+\begin{document}
+
+\title{Vulnerability in the Serengeti food web - approximated with Bayesian Networks\\ \medskip Supplementary Information}
+\author{Anna {\AA}kesson, Anna Ekl\"of}
+\date{}
+
+\maketitle
+
+\end{document}
