@@ -6,6 +6,12 @@ path <- "/Users/annak52/Documents/Serengeti/Results/original/"
 charac <- c("control","S","D","T","R","missing","G","W","K", 7:14,
             "tree", "shrub", "herb", "graminoid", "annual")
 
+charac_h <- c("control","S","D","T","R","missing","G","W","K")
+
+charac_g <- c("control", 7:14)
+
+charac_t <- c("control","tree", "shrub", "herb", "graminoid", "annual")
+
 for (i in 1:length(charac)){
     # Result approximation method
     ch <- charac[i]
@@ -51,31 +57,22 @@ df_rank <- df %>%
     group_by(dist_scen) %>%
     mutate(rank=rank(per_diff)) %>% # lowest per rank=1
     ungroup() %>%
-    #filter(dist_scen=="11")
     group_by(code) %>%
     mutate(rank_sum = sum(rank), mean_diff = mean(per_diff)) %>%
     ungroup() %>%
-    #filter(code=="GIRCAM")
+    filter(code=="GIRCAM")
     select(code, group, rank_sum, mean_diff, mean_dist) %>%
     distinct() %>%
     arrange(rank_sum) %>%
     mutate(type=if_else(group%in%c(1,2),"carnivores","herbivores"))
 
+ranking_sub <- df_rank %>%
+    select(code, rank_sum, type) %>%
+    distinct() %>%
+    mutate(pred_code=code) %>%
+    select(pred_code, rank_sum, type)
 
-# df_rank <- df %>%
-#     arrange(code) %>%
-#     arrange(habitat_higher_pi) %>%
-#     rename(dist_scen = habitat_higher_pi) %>%
-#     group_by(dist_scen) %>%
-#     mutate(rank=rank(per_diff)) %>% # lowest per rank=1
-#     ungroup() %>%
-#     group_by(code) %>%
-#     mutate(rank_sum = sum(rank), mean_diff = mean(per_diff)) %>%
-#     ungroup() %>%
-#     select(code, group, rank_sum, mean_diff) %>%
-#     distinct() %>%
-#     arrange(rank_sum) %>%
-#     mutate(type=if_else(group%in%c(1,2),"carnivores","herbivores"))
+
 
 df_rank %>%
     mutate(code = fct_reorder(code, as.integer(as_factor(code)))) %>%

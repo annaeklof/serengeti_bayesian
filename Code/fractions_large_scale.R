@@ -21,7 +21,7 @@ links_groups <- links %>%
     bind_cols(pred_links,.)
 # below summarizes the fraction of links going into each plant group
 # (here plant groups based on traits) from herbivores
-frac_links <- links_groups %>%
+frac_links_pg <- links_groups %>%
     filter(pred_trait %in% c("group_3", "group_4", "group_5", "group_6")) %>%
     mutate(pred_code = 1, prey_code=1) %>%
     group_by(prey_trait) %>%
@@ -53,7 +53,7 @@ links_groups <- links %>%
     bind_cols(pred_links,.)
 # below summarizes the fraction of links going into each plant group
 # (here plant groups based on traits) from herbivores (cons.gr 3:6)
-frac_links <- links_groups %>%
+frac_links_gr <- links_groups %>%
     filter(pred_group %in% c(3:6)) %>%
     mutate(pred_code = 1, prey_code=1) %>%
     group_by(prey_group) %>%
@@ -67,14 +67,11 @@ frac_links <- links_groups %>%
 
 ## HABITATS
 # to find fraction of links going from consumers to plant groups
-links <- tibble(read.table(paste("Data/serengeti_links.csv",sep=''), sep=",", header=TRUE)) %>%
+links <- tibble(read.table(paste("Data/serengeti_links_habs.csv",sep=''), sep=";", header=TRUE)) %>%
     mutate_if(is.factor, as.character)
-# Here, serengeti_info_G,W or K is necessary for these habitats, since I have some instances
-# of a species belonging to more than one habitat (only occurs with Grassland, Wetland, Kopje)
 
-habs <- tibble(read.table(paste("Data/serengeti_info_G.csv",sep=''), sep=",", header=TRUE)) %>%
+habs <- tibble(read.table(paste("Data/serengeti_info_habs.csv",sep=''), sep=",", header=TRUE)) %>%
     select(code, habitat)
-
 # Connect predators to their respective habitat (non-existing)
 pred_links <- links %>% 
     select(code=pred_code) %>%
@@ -90,7 +87,7 @@ links_groups <- links %>%
 # below summarizes the fraction of links going into each plant group
 # (here plant groups based on traits) from herbivores
 # Problematic habitats: G, W, K (plants can belong to two habitats)
-frac_links <- links_groups %>%
+frac_links_hab <- links_groups %>%
     filter(pred_trait %in% c("small_herbi", "large_grazer", "mega_grazer", "hyrax")) %>%
     mutate(pred_code = 1, prey_code=1) %>%
     group_by(prey_trait) %>%

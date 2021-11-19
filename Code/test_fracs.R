@@ -78,7 +78,9 @@ all <- links_groups_h %>%
     bind_rows(., links_groups_t, links_groups_g)
 
 
-all %>%
+all_df <- all %>%
+    #filter(!prey_trait %in% c(7:14, "tree", "shrub", "herb", "graminoid", "annual")) %>%
+    filter(!prey_trait %in% c("S","D","T","R","missing","G","W","K", "tree", "shrub", "herb", "graminoid", "annual")) %>%
     mutate(prey = 1) %>%
     group_by(pred_code, prey_trait) %>%
     mutate(preys_group = sum(prey)) %>%
@@ -93,15 +95,32 @@ all %>%
     group_by(pred_code) %>%
     mutate(no_groups = sum(groups)) %>%
     ungroup() %>%
-    select(-groups) #%>%
+    select(-groups) %>%
     #filter(pred_code=="CANMES")
-
+    #arrange(-sum_preys)%>%
+    #mutate(pred_code = fct_reorder(pred_code, as.integer(as_factor(pred_code)))) %>%
+    select(pred_code, sum_preys, no_groups) %>%
+    distinct() %>%
+    left_join(., ranking_sub, by="pred_code")
     
-    # ggplot() +
-    # aes(x=pred_code, y=no_groups) +
-    # geom_point() +
-    # theme(axis.text.x = element_text(angle = 90, size=7)) 
+all_df %>%
+    ggplot() +
+    aes(x=no_groups, y=sum_preys, color= rank_sum/max(rank_sum), shape=factor(type)) +
+    geom_point(position = "jitter", size=4) +
+    geom_text(aes(label=ifelse(rank_sum<54,as.character(pred_code),'')),hjust=0,vjust=0, size=3) +
+    theme_bw() +
+    theme(axis.text.x = element_text(angle = 0, size=12)) +
+    theme(axis.text.y = element_text(angle = 0, size=12)) +
+    sc +
+    #geom_smooth(method='lm', formula= y~x, size = 0.5, colour = "black") +
+    #scale_shape_manual(name="Consumer type") +
+    xlab("Number of groups") + 
+    ylab("Number of links") +
+    guides(shape = guide_legend(""))
+ggsave(paste0("../Results/Figures/", funcresp, "/rank_habs.jpg"), width = 8, height = 5)
 
+sc <- scale_colour_gradientn(colours = myPalette(10), limits=c(0.35,1), name="Normalized rank")
+myPalette <- colorRampPalette(rev(brewer.pal(11, "Spectral")))
 
 
 

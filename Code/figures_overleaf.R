@@ -27,7 +27,7 @@ cbp2 <- c("#999999", "#E69F00", "#56B4E9", "#009E73",
 p1 <- tab %>%
     filter(group %in% c(1:6), habitat_higher_pi %in% c("control","D","T","S","R","missing",
                                                        "G","W","K")) %>%
-    mutate(type=if_else(group%in%c(1,2),"Top consumers","Primary consumers")) %>%
+    mutate(type=if_else(group%in%c(1,2),"Carnivores","Herbivores")) %>%
     #mutate(control=if_else(habitat_higher_pi=="control","control","disturbed")) %>%
     mutate(habitat_higher_pi = case_when(
         habitat_higher_pi=="control" ~ "control, n=129",
@@ -144,8 +144,8 @@ funcresp = "A3B3"
 path <- "/Users/annak52/Documents/Serengeti/Results/original/"
 
 # Disturbed plant sp based on:
-#charac <- c("S","D","T","R","missing","G","W","K")
-charac <- c("G","W","K")
+charac <- c("S","D","T","R","missing","G","W","K")
+#charac <- c("G","W","K")
 
 # RANDOM SIMULATIONS
 # Collect all values from all scenarios and reps into single df tab
@@ -153,7 +153,7 @@ for (i in 1:length(charac)){
     # Result approximation method
     ch <- charac[i]
     load(paste0(path,"random/",funcresp,"/rand_size_", ch, ".RData"))
-    if (ch=="G"){
+    if (ch=="S"){
         tab <- per
     } else{ 
         tab <- bind_rows(tab,per)
@@ -227,8 +227,8 @@ p1 <- ggplot(tab_tot) +
           axis.ticks.x=element_blank()) +
     ylim(-0.2,0.4) 
 
-ggsave(paste0("../Results/Figures/", funcresp, "/random/",
-              "rand_vs_habs", ".pdf"), width = 8, height = 6)
+#ggsave(paste0("../Results/Figures/", funcresp, "/random/",
+#              "rand_vs_habs", ".pdf"), width = 8, height = 6)
 
 ## TRAITS
 # Load distributions from the sim. with random disturbances

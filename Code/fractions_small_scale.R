@@ -52,6 +52,7 @@ links <- tibble(read.table(paste("Data/serengeti_links_habs.csv",sep=''), sep=";
 habs <- tibble(read.table(paste("Data/serengeti_info_habs.csv",sep=''), sep=",", header=TRUE)) %>%
     select(code, habitat)
 
+
 # Connect predators to their respective habitat (non-existing)
 pred_links <- links %>% 
     select(code=pred_code) %>%
