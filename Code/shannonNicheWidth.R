@@ -13,8 +13,8 @@ shannonNorm <- function(p_vec){
 }
 
 # construct file from multiple sources
-traits <- tibble(read.csv("Data/All_traits_r_hab.csv", sep=";")) #Sid_g
-habitat <- tibble(read.csv("Data/serengeti_info_habs.csv", sep=";"))
+traits <- tibble(read.csv("Data/All_traits_r.csv", sep=";")) #Sid_g
+habitat <- tibble(read.csv("Data/serengeti_info_habs.csv", sep=","))
 dist_factors <- left_join(traits, habitat, by = "code")
 links  <- tibble(read.csv("Data/serengeti_links_habs.csv", sep=";"))
 
