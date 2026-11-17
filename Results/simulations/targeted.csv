@@ -1,0 +1,3543 @@
+scenario,grouping,code,persistence
+control,control,ACASEN,0.89977
+control,control,ACATOR,0.90037
+control,control,ANDGRE,0.89931
+control,control,ARI,0.89986
+control,control,BRASEM,0.89933
+control,control,CHLGAY,0.89957
+control,control,COMMOL,0.90199
+control,control,CROMAC,0.89975
+control,control,CYNDAC,0.89801
+control,control,GREBIC,0.90024
+control,control,HARSCH,0.89856
+control,control,HIB,0.89872
+control,control,HYPFIL,0.90018
+control,control,HYPRUF,0.90112
+control,control,INDHOC,0.89972
+control,control,PANMAX,0.8993
+control,control,PENMEZ,0.90056
+control,control,SID,0.90067
+control,control,SOLINC,0.90087
+control,control,SPOFES,0.8978
+control,control,SPOIOC,0.89996
+control,control,SPOPYR,0.89979
+control,control,THETRI,0.90054
+control,control,BOTINS,0.90058
+control,control,DIGMAC,0.90014
+control,control,DIGSCA,0.90176
+control,control,DINRET,0.89893
+control,control,EUSPAS,0.90008
+control,control,HETCON,0.89996
+control,control,PANCOL,0.90043
+control,control,SPOSPI,0.89979
+control,control,DIGDIA,0.89935
+control,control,ERACIL,0.90013
+control,control,ERATEN,0.90026
+control,control,MICKUN,0.9002
+control,control,PSIJAE,0.89942
+control,control,BALAEG,0.89932
+control,control,DUOKIL,0.9013
+control,control,PENSTR,0.90063
+control,control,SPOFIM,0.90038
+control,control,ACAROB,0.89947
+control,control,ACASEY,0.89919
+control,control,COMMIAFR,0.8988
+control,control,COROVA,0.8986
+control,control,GREFAL,0.89972
+control,control,GRETRI,0.89862
+control,control,HIBLUN,0.90121
+control,control,MAETRI,0.89824
+control,control,OLE,0.89877
+control,control,PAVASS,0.89926
+control,control,PHYSEP,0.90094
+control,control,ABU,0.90144
+control,control,ACAFRU,0.89926
+control,control,ALBHAR,0.90071
+control,control,ALBU,0.90059
+control,control,ALLRUB,0.89968
+control,control,ALOMAC,0.89913
+control,control,ALOSEC,0.89985
+control,control,CAPTOM,0.9028
+control,control,CECCIL,0.89885
+control,control,CISQUA,0.89937
+control,control,CISROT,0.9
+control,control,COMMEAFR,0.90031
+control,control,COMMER,0.9009
+control,control,COMSCH,0.90087
+control,control,CRODIC,0.89999
+control,control,CYPH,0.89998
+control,control,DIGVEL,0.9021
+control,control,EMICOC,0.90138
+control,control,FICGLU,0.90067
+control,control,FICING,0.89921
+control,control,FICTHI,0.90058
+control,control,HELSTE,0.90234
+control,control,HOSOPP,0.90053
+control,control,HYPFOR,0.9005
+control,control,INDBAS,0.90035
+control,control,IPOOBS,0.90004
+control,control,JAS,0.89972
+control,control,KAL,0.89976
+control,control,KEDFOE,0.89896
+control,control,LIPUKA,0.89898
+control,control,OCI,0.89816
+control,control,PAPCAP,0.8995
+control,control,PAVPAT,0.89965
+control,control,PUPLAP,0.90155
+control,control,SCLBIR,0.9
+control,control,SENDID,0.89889
+control,control,SENEHR,0.90061
+control,control,SENSUF,0.90081
+control,control,SOLDEN,0.89922
+control,control,TRIEIC,0.90043
+control,control,TURFIS,0.89885
+control,control,XIMCAF,0.90099
+control,control,ZIZ,0.899
+control,control,PANREP,0.89945
+control,control,ANDSCH,0.89958
+control,control,CYMEXC,0.89907
+control,control,DIGTER,0.89977
+control,control,PHRMAU,0.90079
+control,control,TYPCAP,0.9002
+control,control,BLEACA,0.90102
+control,control,IBO,0.8991
+control,control,RHOREV,0.90005
+control,control,ACHASP,0.8999
+control,control,BOSAUG,0.90152
+control,control,SOLNIG,0.89989
+control,control,ACAXAN,0.89959
+control,control,CROSPI,0.89999
+control,control,DIGMIL,0.9016
+control,control,ECHHAP,0.89951
+control,control,EUPCAN,0.90025
+control,control,KIGAFR,0.89912
+control,control,PANDEU,0.89951
+control,control,SARVER,0.90072
+control,control,CHLPYC,0.89968
+control,control,ERAEXA,0.90083
+control,control,CYP,0.90062
+control,control,DIHAMP,0.90048
+control,control,ERAASP,0.89933
+control,control,ERINUB,0.90013
+control,control,KYLNER,0.89991
+control,control,PELCAL,0.90059
+control,control,SPOPEL,0.89982
+control,control,SPOSTA,0.90161
+control,control,HYPDIS,0.90016
+control,control,CHLROX,0.89998
+control,control,LONERI,0.90132
+control,control,SETPAL,0.902
+control,control,SETSPH,0.90082
+control,control,AEPMEL,0.88393
+control,control,OUROUR,0.8489
+control,control,SYNCAF,0.88362
+control,control,ALCBUS,0.88371
+control,control,EQUBUR,0.88422
+control,control,CONTAU,0.88558
+control,control,DAMKOR,0.88039
+control,control,GAZTHO,0.88711
+control,control,GAZGRA,0.88364
+control,control,GIRCAM,0.88326
+control,control,HETBRU,0.88922
+control,control,HIPAMP,0.87358
+control,control,KOBELL,0.87677
+control,control,LOXAFR,0.8886
+control,control,MADKIR,0.88474
+control,control,TRASCR,0.8462
+control,control,PAPANU,0.88629
+control,control,PEDCAP,0.87041
+control,control,PHAAET,0.87314
+control,control,PROCAP,0.89048
+control,control,REDRED,0.83507
+control,control,RHAPUM,0.87687
+control,control,TAUORY,0.88109
+control,control,CANAUR,0.83884
+control,control,CANMES,0.7966
+control,control,ACIJUB,0.85379
+control,control,CROCRO,0.86569
+control,control,LEPSER,0.78958
+control,control,CARCAR,0.83344
+control,control,LYCPIC,0.86505
+control,control,PANLEO,0.87051
+control,control,PANPAR,0.86606
+G,habitat,ACASEN,0.49922
+G,habitat,ACATOR,0.90045
+G,habitat,ANDGRE,0.50088
+G,habitat,ARI,0.8991
+G,habitat,BRASEM,0.50022
+G,habitat,CHLGAY,0.90019
+G,habitat,COMMOL,0.90187
+G,habitat,CROMAC,0.89979
+G,habitat,CYNDAC,0.49931
+G,habitat,GREBIC,0.90015
+G,habitat,HARSCH,0.49917
+G,habitat,HIB,0.49969
+G,habitat,HYPFIL,0.89977
+G,habitat,HYPRUF,0.89996
+G,habitat,INDHOC,0.50292
+G,habitat,PANMAX,0.5008
+G,habitat,PENMEZ,0.50233
+G,habitat,SID,0.49993
+G,habitat,SOLINC,0.90078
+G,habitat,SPOFES,0.90025
+G,habitat,SPOIOC,0.49692
+G,habitat,SPOPYR,0.89852
+G,habitat,THETRI,0.89848
+G,habitat,BOTINS,0.89833
+G,habitat,DIGMAC,0.49784
+G,habitat,DIGSCA,0.49818
+G,habitat,DINRET,0.9004
+G,habitat,EUSPAS,0.90021
+G,habitat,HETCON,0.89986
+G,habitat,PANCOL,0.49947
+G,habitat,SPOSPI,0.89943
+G,habitat,DIGDIA,0.89867
+G,habitat,ERACIL,0.89954
+G,habitat,ERATEN,0.49723
+G,habitat,MICKUN,0.90022
+G,habitat,PSIJAE,0.9001
+G,habitat,BALAEG,0.49505
+G,habitat,DUOKIL,0.49982
+G,habitat,PENSTR,0.50076
+G,habitat,SPOFIM,0.89992
+G,habitat,ACAROB,0.90233
+G,habitat,ACASEY,0.49949
+G,habitat,COMMIAFR,0.90013
+G,habitat,COROVA,0.90025
+G,habitat,GREFAL,0.90023
+G,habitat,GRETRI,0.89926
+G,habitat,HIBLUN,0.90075
+G,habitat,MAETRI,0.90031
+G,habitat,OLE,0.90013
+G,habitat,PAVASS,0.50193
+G,habitat,PHYSEP,0.49823
+G,habitat,ABU,0.89922
+G,habitat,ACAFRU,0.89942
+G,habitat,ALBHAR,0.50396
+G,habitat,ALBU,0.49752
+G,habitat,ALLRUB,0.89972
+G,habitat,ALOMAC,0.90028
+G,habitat,ALOSEC,0.90009
+G,habitat,CAPTOM,0.90075
+G,habitat,CECCIL,0.50149
+G,habitat,CISQUA,0.90025
+G,habitat,CISROT,0.89946
+G,habitat,COMMEAFR,0.90124
+G,habitat,COMMER,0.89994
+G,habitat,COMSCH,0.9005
+G,habitat,CRODIC,0.90101
+G,habitat,CYPH,0.8998
+G,habitat,DIGVEL,0.49971
+G,habitat,EMICOC,0.89961
+G,habitat,FICGLU,0.90058
+G,habitat,FICING,0.8987
+G,habitat,FICTHI,0.90037
+G,habitat,HELSTE,0.49972
+G,habitat,HOSOPP,0.50024
+G,habitat,HYPFOR,0.50177
+G,habitat,INDBAS,0.50132
+G,habitat,IPOOBS,0.89878
+G,habitat,JAS,0.89995
+G,habitat,KAL,0.90131
+G,habitat,KEDFOE,0.9006
+G,habitat,LIPUKA,0.50038
+G,habitat,OCI,0.9001
+G,habitat,PAPCAP,0.89954
+G,habitat,PAVPAT,0.50203
+G,habitat,PUPLAP,0.49755
+G,habitat,SCLBIR,0.9
+G,habitat,SENDID,0.90091
+G,habitat,SENEHR,0.89935
+G,habitat,SENSUF,0.90036
+G,habitat,SOLDEN,0.50029
+G,habitat,TRIEIC,0.90023
+G,habitat,TURFIS,0.89893
+G,habitat,XIMCAF,0.89962
+G,habitat,ZIZ,0.90065
+G,habitat,PANREP,0.90094
+G,habitat,ANDSCH,0.89903
+G,habitat,CYMEXC,0.89984
+G,habitat,DIGTER,0.49945
+G,habitat,PHRMAU,0.90133
+G,habitat,TYPCAP,0.89895
+G,habitat,BLEACA,0.90093
+G,habitat,IBO,0.90121
+G,habitat,RHOREV,0.90049
+G,habitat,ACHASP,0.50023
+G,habitat,BOSAUG,0.89871
+G,habitat,SOLNIG,0.89879
+G,habitat,ACAXAN,0.89989
+G,habitat,CROSPI,0.4993
+G,habitat,DIGMIL,0.50087
+G,habitat,ECHHAP,0.50034
+G,habitat,EUPCAN,0.90178
+G,habitat,KIGAFR,0.49894
+G,habitat,PANDEU,0.90048
+G,habitat,SARVER,0.89921
+G,habitat,CHLPYC,0.50127
+G,habitat,ERAEXA,0.49995
+G,habitat,CYP,0.89902
+G,habitat,DIHAMP,0.89804
+G,habitat,ERAASP,0.89747
+G,habitat,ERINUB,0.90042
+G,habitat,KYLNER,0.49861
+G,habitat,PELCAL,0.90039
+G,habitat,SPOPEL,0.50029
+G,habitat,SPOSTA,0.89863
+G,habitat,HYPDIS,0.8993
+G,habitat,CHLROX,0.50021
+G,habitat,LONERI,0.8997
+G,habitat,SETPAL,0.4986
+G,habitat,SETSPH,0.49973
+G,habitat,AEPMEL,0.74816
+G,habitat,OUROUR,0.68049
+G,habitat,SYNCAF,0.67855
+G,habitat,ALCBUS,0.74424
+G,habitat,EQUBUR,0.79167
+G,habitat,CONTAU,0.74121
+G,habitat,DAMKOR,0.78769
+G,habitat,GAZTHO,0.73223
+G,habitat,GAZGRA,0.71278
+G,habitat,GIRCAM,0.77829
+G,habitat,HETBRU,0.81716
+G,habitat,HIPAMP,0.82182
+G,habitat,KOBELL,0.79285
+G,habitat,LOXAFR,0.83133
+G,habitat,MADKIR,0.79895
+G,habitat,TRASCR,0.78154
+G,habitat,PAPANU,0.76335
+G,habitat,PEDCAP,0.64845
+G,habitat,PHAAET,0.68741
+G,habitat,PROCAP,0.8216
+G,habitat,REDRED,0.73527
+G,habitat,RHAPUM,0.65427
+G,habitat,TAUORY,0.74725
+G,habitat,CANAUR,0.71362
+G,habitat,CANMES,0.7191
+G,habitat,ACIJUB,0.73048
+G,habitat,CROCRO,0.76196
+G,habitat,LEPSER,0.58919
+G,habitat,CARCAR,0.70418
+G,habitat,LYCPIC,0.75856
+G,habitat,PANLEO,0.76451
+G,habitat,PANPAR,0.75413
+W,habitat,ACASEN,0.89928
+W,habitat,ACATOR,0.49863
+W,habitat,ANDGRE,0.89888
+W,habitat,ARI,0.89986
+W,habitat,BRASEM,0.89818
+W,habitat,CHLGAY,0.49739
+W,habitat,COMMOL,0.50243
+W,habitat,CROMAC,0.50115
+W,habitat,CYNDAC,0.899
+W,habitat,GREBIC,0.4996
+W,habitat,HARSCH,0.90195
+W,habitat,HIB,0.90222
+W,habitat,HYPFIL,0.50087
+W,habitat,HYPRUF,0.49837
+W,habitat,INDHOC,0.9003
+W,habitat,PANMAX,0.90046
+W,habitat,PENMEZ,0.90077
+W,habitat,SID,0.90119
+W,habitat,SOLINC,0.49825
+W,habitat,SPOFES,0.89846
+W,habitat,SPOIOC,0.90148
+W,habitat,SPOPYR,0.49657
+W,habitat,THETRI,0.89967
+W,habitat,BOTINS,0.49979
+W,habitat,DIGMAC,0.89851
+W,habitat,DIGSCA,0.90058
+W,habitat,DINRET,0.90143
+W,habitat,EUSPAS,0.49845
+W,habitat,HETCON,0.49927
+W,habitat,PANCOL,0.89946
+W,habitat,SPOSPI,0.49965
+W,habitat,DIGDIA,0.50034
+W,habitat,ERACIL,0.50065
+W,habitat,ERATEN,0.8991
+W,habitat,MICKUN,0.90166
+W,habitat,PSIJAE,0.8989
+W,habitat,BALAEG,0.90061
+W,habitat,DUOKIL,0.90206
+W,habitat,PENSTR,0.89977
+W,habitat,SPOFIM,0.49949
+W,habitat,ACAROB,0.50127
+W,habitat,ACASEY,0.89932
+W,habitat,COMMIAFR,0.50191
+W,habitat,COROVA,0.49936
+W,habitat,GREFAL,0.50194
+W,habitat,GRETRI,0.5015
+W,habitat,HIBLUN,0.89976
+W,habitat,MAETRI,0.50063
+W,habitat,OLE,0.90126
+W,habitat,PAVASS,0.899
+W,habitat,PHYSEP,0.89926
+W,habitat,ABU,0.90097
+W,habitat,ACAFRU,0.9004
+W,habitat,ALBHAR,0.89906
+W,habitat,ALBU,0.89922
+W,habitat,ALLRUB,0.89842
+W,habitat,ALOMAC,0.89958
+W,habitat,ALOSEC,0.89983
+W,habitat,CAPTOM,0.4985
+W,habitat,CECCIL,0.90036
+W,habitat,CISQUA,0.89984
+W,habitat,CISROT,0.89954
+W,habitat,COMMEAFR,0.89988
+W,habitat,COMMER,0.89981
+W,habitat,COMSCH,0.89992
+W,habitat,CRODIC,0.49891
+W,habitat,CYPH,0.89934
+W,habitat,DIGVEL,0.90043
+W,habitat,EMICOC,0.8997
+W,habitat,FICGLU,0.89915
+W,habitat,FICING,0.90125
+W,habitat,FICTHI,0.90054
+W,habitat,HELSTE,0.90298
+W,habitat,HOSOPP,0.89919
+W,habitat,HYPFOR,0.89994
+W,habitat,INDBAS,0.89933
+W,habitat,IPOOBS,0.8994
+W,habitat,JAS,0.9006
+W,habitat,KAL,0.50193
+W,habitat,KEDFOE,0.90096
+W,habitat,LIPUKA,0.89854
+W,habitat,OCI,0.90099
+W,habitat,PAPCAP,0.90102
+W,habitat,PAVPAT,0.89984
+W,habitat,PUPLAP,0.90012
+W,habitat,SCLBIR,0.89898
+W,habitat,SENDID,0.90069
+W,habitat,SENEHR,0.90082
+W,habitat,SENSUF,0.90013
+W,habitat,SOLDEN,0.8985
+W,habitat,TRIEIC,0.89965
+W,habitat,TURFIS,0.89956
+W,habitat,XIMCAF,0.49744
+W,habitat,ZIZ,0.899
+W,habitat,PANREP,0.89966
+W,habitat,ANDSCH,0.89937
+W,habitat,CYMEXC,0.90051
+W,habitat,DIGTER,0.89893
+W,habitat,PHRMAU,0.9
+W,habitat,TYPCAP,0.9
+W,habitat,BLEACA,0.89899
+W,habitat,IBO,0.90217
+W,habitat,RHOREV,0.8992
+W,habitat,ACHASP,0.89997
+W,habitat,BOSAUG,0.49963
+W,habitat,SOLNIG,0.50187
+W,habitat,ACAXAN,0.90022
+W,habitat,CROSPI,0.89812
+W,habitat,DIGMIL,0.89987
+W,habitat,ECHHAP,0.89968
+W,habitat,EUPCAN,0.90056
+W,habitat,KIGAFR,0.89955
+W,habitat,PANDEU,0.8995
+W,habitat,SARVER,0.89948
+W,habitat,CHLPYC,0.89943
+W,habitat,ERAEXA,0.90096
+W,habitat,CYP,0.89924
+W,habitat,DIHAMP,0.90173
+W,habitat,ERAASP,0.89986
+W,habitat,ERINUB,0.49926
+W,habitat,KYLNER,0.90158
+W,habitat,PELCAL,0.89963
+W,habitat,SPOPEL,0.90021
+W,habitat,SPOSTA,0.50007
+W,habitat,HYPDIS,0.49877
+W,habitat,CHLROX,0.89885
+W,habitat,LONERI,0.49991
+W,habitat,SETPAL,0.89874
+W,habitat,SETSPH,0.89994
+W,habitat,AEPMEL,0.78413
+W,habitat,OUROUR,0.7812
+W,habitat,SYNCAF,0.82184
+W,habitat,ALCBUS,0.7862
+W,habitat,EQUBUR,0.74634
+W,habitat,CONTAU,0.80509
+W,habitat,DAMKOR,0.75824
+W,habitat,GAZTHO,0.81211
+W,habitat,GAZGRA,0.82278
+W,habitat,GIRCAM,0.73753
+W,habitat,HETBRU,0.86135
+W,habitat,HIPAMP,0.68833
+W,habitat,KOBELL,0.79595
+W,habitat,LOXAFR,0.83167
+W,habitat,MADKIR,0.81041
+W,habitat,TRASCR,0.68469
+W,habitat,PAPANU,0.83855
+W,habitat,PEDCAP,0.84672
+W,habitat,PHAAET,0.78582
+W,habitat,PROCAP,0.85056
+W,habitat,REDRED,0.59272
+W,habitat,RHAPUM,0.81308
+W,habitat,TAUORY,0.77514
+W,habitat,CANAUR,0.76422
+W,habitat,CANMES,0.72746
+W,habitat,ACIJUB,0.77684
+W,habitat,CROCRO,0.78699
+W,habitat,LEPSER,0.73142
+W,habitat,CARCAR,0.79539
+W,habitat,LYCPIC,0.78967
+W,habitat,PANLEO,0.79521
+W,habitat,PANPAR,0.79957
+missing,habitat,ACASEN,0.90067
+missing,habitat,ACATOR,0.8993
+missing,habitat,ANDGRE,0.8999
+missing,habitat,ARI,0.49973
+missing,habitat,BRASEM,0.89962
+missing,habitat,CHLGAY,0.90069
+missing,habitat,COMMOL,0.90066
+missing,habitat,CROMAC,0.90014
+missing,habitat,CYNDAC,0.90073
+missing,habitat,GREBIC,0.90017
+missing,habitat,HARSCH,0.90016
+missing,habitat,HIB,0.90198
+missing,habitat,HYPFIL,0.90063
+missing,habitat,HYPRUF,0.89883
+missing,habitat,INDHOC,0.90094
+missing,habitat,PANMAX,0.8982
+missing,habitat,PENMEZ,0.90176
+missing,habitat,SID,0.90067
+missing,habitat,SOLINC,0.9008
+missing,habitat,SPOFES,0.89962
+missing,habitat,SPOIOC,0.89957
+missing,habitat,SPOPYR,0.90029
+missing,habitat,THETRI,0.8994
+missing,habitat,BOTINS,0.90024
+missing,habitat,DIGMAC,0.89909
+missing,habitat,DIGSCA,0.89933
+missing,habitat,DINRET,0.90015
+missing,habitat,EUSPAS,0.8999
+missing,habitat,HETCON,0.90005
+missing,habitat,PANCOL,0.9006
+missing,habitat,SPOSPI,0.9008
+missing,habitat,DIGDIA,0.90098
+missing,habitat,ERACIL,0.90104
+missing,habitat,ERATEN,0.90023
+missing,habitat,MICKUN,0.89964
+missing,habitat,PSIJAE,0.90072
+missing,habitat,BALAEG,0.89991
+missing,habitat,DUOKIL,0.89976
+missing,habitat,PENSTR,0.90049
+missing,habitat,SPOFIM,0.89962
+missing,habitat,ACAROB,0.89742
+missing,habitat,ACASEY,0.89917
+missing,habitat,COMMIAFR,0.90055
+missing,habitat,COROVA,0.90198
+missing,habitat,GREFAL,0.8999
+missing,habitat,GRETRI,0.89992
+missing,habitat,HIBLUN,0.90061
+missing,habitat,MAETRI,0.9011
+missing,habitat,OLE,0.50056
+missing,habitat,PAVASS,0.90092
+missing,habitat,PHYSEP,0.90103
+missing,habitat,ABU,0.50069
+missing,habitat,ACAFRU,0.50007
+missing,habitat,ALBHAR,0.90093
+missing,habitat,ALBU,0.90035
+missing,habitat,ALLRUB,0.49904
+missing,habitat,ALOMAC,0.90025
+missing,habitat,ALOSEC,0.89725
+missing,habitat,CAPTOM,0.89759
+missing,habitat,CECCIL,0.90214
+missing,habitat,CISQUA,0.90197
+missing,habitat,CISROT,0.89844
+missing,habitat,COMMEAFR,0.89987
+missing,habitat,COMMER,0.90083
+missing,habitat,COMSCH,0.90032
+missing,habitat,CRODIC,0.89939
+missing,habitat,CYPH,0.89869
+missing,habitat,DIGVEL,0.9003
+missing,habitat,EMICOC,0.49886
+missing,habitat,FICGLU,0.89953
+missing,habitat,FICING,0.90023
+missing,habitat,FICTHI,0.90033
+missing,habitat,HELSTE,0.90172
+missing,habitat,HOSOPP,0.90064
+missing,habitat,HYPFOR,0.90087
+missing,habitat,INDBAS,0.89921
+missing,habitat,IPOOBS,0.8995
+missing,habitat,JAS,0.49854
+missing,habitat,KAL,0.89957
+missing,habitat,KEDFOE,0.90041
+missing,habitat,LIPUKA,0.89954
+missing,habitat,OCI,0.50155
+missing,habitat,PAPCAP,0.49873
+missing,habitat,PAVPAT,0.9009
+missing,habitat,PUPLAP,0.89929
+missing,habitat,SCLBIR,0.89917
+missing,habitat,SENDID,0.49965
+missing,habitat,SENEHR,0.89918
+missing,habitat,SENSUF,0.90154
+missing,habitat,SOLDEN,0.89928
+missing,habitat,TRIEIC,0.90041
+missing,habitat,TURFIS,0.89951
+missing,habitat,XIMCAF,0.90123
+missing,habitat,ZIZ,0.50268
+missing,habitat,PANREP,0.90071
+missing,habitat,ANDSCH,0.49991
+missing,habitat,CYMEXC,0.49892
+missing,habitat,DIGTER,0.90139
+missing,habitat,PHRMAU,0.89901
+missing,habitat,TYPCAP,0.89993
+missing,habitat,BLEACA,0.5001
+missing,habitat,IBO,0.49778
+missing,habitat,RHOREV,0.49926
+missing,habitat,ACHASP,0.89991
+missing,habitat,BOSAUG,0.89954
+missing,habitat,SOLNIG,0.90174
+missing,habitat,ACAXAN,0.90058
+missing,habitat,CROSPI,0.90089
+missing,habitat,DIGMIL,0.90024
+missing,habitat,ECHHAP,0.90025
+missing,habitat,EUPCAN,0.90045
+missing,habitat,KIGAFR,0.89897
+missing,habitat,PANDEU,0.89974
+missing,habitat,SARVER,0.89911
+missing,habitat,CHLPYC,0.89865
+missing,habitat,ERAEXA,0.89837
+missing,habitat,CYP,0.49928
+missing,habitat,DIHAMP,0.89922
+missing,habitat,ERAASP,0.49969
+missing,habitat,ERINUB,0.90077
+missing,habitat,KYLNER,0.89916
+missing,habitat,PELCAL,0.90069
+missing,habitat,SPOPEL,0.89965
+missing,habitat,SPOSTA,0.89852
+missing,habitat,HYPDIS,0.89956
+missing,habitat,CHLROX,0.90165
+missing,habitat,LONERI,0.90014
+missing,habitat,SETPAL,0.89984
+missing,habitat,SETSPH,0.9009
+missing,habitat,AEPMEL,0.87905
+missing,habitat,OUROUR,0.84703
+missing,habitat,SYNCAF,0.87456
+missing,habitat,ALCBUS,0.87628
+missing,habitat,EQUBUR,0.87474
+missing,habitat,CONTAU,0.88017
+missing,habitat,DAMKOR,0.86794
+missing,habitat,GAZTHO,0.88019
+missing,habitat,GAZGRA,0.8797
+missing,habitat,GIRCAM,0.87662
+missing,habitat,HETBRU,0.86406
+missing,habitat,HIPAMP,0.87157
+missing,habitat,KOBELL,0.84401
+missing,habitat,LOXAFR,0.85581
+missing,habitat,MADKIR,0.8654
+missing,habitat,TRASCR,0.84705
+missing,habitat,PAPANU,0.88164
+missing,habitat,PEDCAP,0.84549
+missing,habitat,PHAAET,0.87278
+missing,habitat,PROCAP,0.85927
+missing,habitat,REDRED,0.83273
+missing,habitat,RHAPUM,0.87588
+missing,habitat,TAUORY,0.88025
+missing,habitat,CANAUR,0.83417
+missing,habitat,CANMES,0.78
+missing,habitat,ACIJUB,0.85266
+missing,habitat,CROCRO,0.86024
+missing,habitat,LEPSER,0.78922
+missing,habitat,CARCAR,0.82048
+missing,habitat,LYCPIC,0.86227
+missing,habitat,PANLEO,0.86569
+missing,habitat,PANPAR,0.86201
+K,habitat,ACASEN,0.90007
+K,habitat,ACATOR,0.90011
+K,habitat,ANDGRE,0.90033
+K,habitat,ARI,0.901
+K,habitat,BRASEM,0.89981
+K,habitat,CHLGAY,0.9013
+K,habitat,COMMOL,0.90083
+K,habitat,CROMAC,0.90008
+K,habitat,CYNDAC,0.90017
+K,habitat,GREBIC,0.50255
+K,habitat,HARSCH,0.8998
+K,habitat,HIB,0.89898
+K,habitat,HYPFIL,0.90073
+K,habitat,HYPRUF,0.90065
+K,habitat,INDHOC,0.8994
+K,habitat,PANMAX,0.89898
+K,habitat,PENMEZ,0.8983
+K,habitat,SID,0.49945
+K,habitat,SOLINC,0.89924
+K,habitat,SPOFES,0.89937
+K,habitat,SPOIOC,0.89849
+K,habitat,SPOPYR,0.89915
+K,habitat,THETRI,0.90232
+K,habitat,BOTINS,0.89988
+K,habitat,DIGMAC,0.89904
+K,habitat,DIGSCA,0.90015
+K,habitat,DINRET,0.89909
+K,habitat,EUSPAS,0.9001
+K,habitat,HETCON,0.89845
+K,habitat,PANCOL,0.89841
+K,habitat,SPOSPI,0.89974
+K,habitat,DIGDIA,0.90112
+K,habitat,ERACIL,0.89965
+K,habitat,ERATEN,0.8999
+K,habitat,MICKUN,0.89893
+K,habitat,PSIJAE,0.90081
+K,habitat,BALAEG,0.90003
+K,habitat,DUOKIL,0.89932
+K,habitat,PENSTR,0.89998
+K,habitat,SPOFIM,0.90109
+K,habitat,ACAROB,0.90101
+K,habitat,ACASEY,0.90003
+K,habitat,COMMIAFR,0.90185
+K,habitat,COROVA,0.49963
+K,habitat,GREFAL,0.49969
+K,habitat,GRETRI,0.50239
+K,habitat,HIBLUN,0.49899
+K,habitat,MAETRI,0.90189
+K,habitat,OLE,0.89947
+K,habitat,PAVASS,0.89964
+K,habitat,PHYSEP,0.8991
+K,habitat,ABU,0.89936
+K,habitat,ACAFRU,0.89835
+K,habitat,ALBHAR,0.89923
+K,habitat,ALBU,0.90065
+K,habitat,ALLRUB,0.89878
+K,habitat,ALOMAC,0.4994
+K,habitat,ALOSEC,0.50035
+K,habitat,CAPTOM,0.90125
+K,habitat,CECCIL,0.89811
+K,habitat,CISQUA,0.89957
+K,habitat,CISROT,0.89951
+K,habitat,COMMEAFR,0.90041
+K,habitat,COMMER,0.4971
+K,habitat,COMSCH,0.49947
+K,habitat,CRODIC,0.89814
+K,habitat,CYPH,0.50104
+K,habitat,DIGVEL,0.89852
+K,habitat,EMICOC,0.90015
+K,habitat,FICGLU,0.49764
+K,habitat,FICING,0.50191
+K,habitat,FICTHI,0.50001
+K,habitat,HELSTE,0.89951
+K,habitat,HOSOPP,0.50354
+K,habitat,HYPFOR,0.49861
+K,habitat,INDBAS,0.89944
+K,habitat,IPOOBS,0.50054
+K,habitat,JAS,0.89781
+K,habitat,KAL,0.89822
+K,habitat,KEDFOE,0.50098
+K,habitat,LIPUKA,0.90074
+K,habitat,OCI,0.89924
+K,habitat,PAPCAP,0.89941
+K,habitat,PAVPAT,0.90097
+K,habitat,PUPLAP,0.89847
+K,habitat,SCLBIR,0.50045
+K,habitat,SENDID,0.90068
+K,habitat,SENEHR,0.49985
+K,habitat,SENSUF,0.49862
+K,habitat,SOLDEN,0.90028
+K,habitat,TRIEIC,0.90154
+K,habitat,TURFIS,0.49859
+K,habitat,XIMCAF,0.9004
+K,habitat,ZIZ,0.90009
+K,habitat,PANREP,0.90206
+K,habitat,ANDSCH,0.90076
+K,habitat,CYMEXC,0.89909
+K,habitat,DIGTER,0.90121
+K,habitat,PHRMAU,0.89843
+K,habitat,TYPCAP,0.90073
+K,habitat,BLEACA,0.90036
+K,habitat,IBO,0.90182
+K,habitat,RHOREV,0.89849
+K,habitat,ACHASP,0.89854
+K,habitat,BOSAUG,0.89979
+K,habitat,SOLNIG,0.90007
+K,habitat,ACAXAN,0.89818
+K,habitat,CROSPI,0.89953
+K,habitat,DIGMIL,0.89912
+K,habitat,ECHHAP,0.90025
+K,habitat,EUPCAN,0.50025
+K,habitat,KIGAFR,0.90086
+K,habitat,PANDEU,0.9009
+K,habitat,SARVER,0.90016
+K,habitat,CHLPYC,0.89871
+K,habitat,ERAEXA,0.8994
+K,habitat,CYP,0.90037
+K,habitat,DIHAMP,0.89864
+K,habitat,ERAASP,0.90088
+K,habitat,ERINUB,0.89969
+K,habitat,KYLNER,0.89907
+K,habitat,PELCAL,0.49961
+K,habitat,SPOPEL,0.89925
+K,habitat,SPOSTA,0.89853
+K,habitat,HYPDIS,0.89961
+K,habitat,CHLROX,0.89873
+K,habitat,LONERI,0.90095
+K,habitat,SETPAL,0.90142
+K,habitat,SETSPH,0.89975
+K,habitat,AEPMEL,0.87218
+K,habitat,OUROUR,0.84691
+K,habitat,SYNCAF,0.8647
+K,habitat,ALCBUS,0.87613
+K,habitat,EQUBUR,0.8756
+K,habitat,CONTAU,0.88053
+K,habitat,DAMKOR,0.88084
+K,habitat,GAZTHO,0.87997
+K,habitat,GAZGRA,0.87498
+K,habitat,GIRCAM,0.81739
+K,habitat,HETBRU,0.82012
+K,habitat,HIPAMP,0.87257
+K,habitat,KOBELL,0.87842
+K,habitat,LOXAFR,0.83698
+K,habitat,MADKIR,0.84193
+K,habitat,TRASCR,0.84824
+K,habitat,PAPANU,0.87037
+K,habitat,PEDCAP,0.87074
+K,habitat,PHAAET,0.87337
+K,habitat,PROCAP,0.84032
+K,habitat,REDRED,0.83417
+K,habitat,RHAPUM,0.87544
+K,habitat,TAUORY,0.87178
+K,habitat,CANAUR,0.83465
+K,habitat,CANMES,0.75822
+K,habitat,ACIJUB,0.84695
+K,habitat,CROCRO,0.86135
+K,habitat,LEPSER,0.78709
+K,habitat,CARCAR,0.8144
+K,habitat,LYCPIC,0.86221
+K,habitat,PANLEO,0.86444
+K,habitat,PANPAR,0.86
+S,habitat,ACASEN,0.90043
+S,habitat,ACATOR,0.90039
+S,habitat,ANDGRE,0.90082
+S,habitat,ARI,0.90121
+S,habitat,BRASEM,0.90007
+S,habitat,CHLGAY,0.9007
+S,habitat,COMMOL,0.8992
+S,habitat,CROMAC,0.90166
+S,habitat,CYNDAC,0.89874
+S,habitat,GREBIC,0.90155
+S,habitat,HARSCH,0.90135
+S,habitat,HIB,0.89877
+S,habitat,HYPFIL,0.90046
+S,habitat,HYPRUF,0.8999
+S,habitat,INDHOC,0.89879
+S,habitat,PANMAX,0.9
+S,habitat,PENMEZ,0.89929
+S,habitat,SID,0.89849
+S,habitat,SOLINC,0.90063
+S,habitat,SPOFES,0.5003
+S,habitat,SPOIOC,0.89944
+S,habitat,SPOPYR,0.90079
+S,habitat,THETRI,0.50063
+S,habitat,BOTINS,0.89923
+S,habitat,DIGMAC,0.90131
+S,habitat,DIGSCA,0.89897
+S,habitat,DINRET,0.90089
+S,habitat,EUSPAS,0.90178
+S,habitat,HETCON,0.90049
+S,habitat,PANCOL,0.90167
+S,habitat,SPOSPI,0.89916
+S,habitat,DIGDIA,0.89998
+S,habitat,ERACIL,0.89965
+S,habitat,ERATEN,0.89985
+S,habitat,MICKUN,0.49914
+S,habitat,PSIJAE,0.89914
+S,habitat,BALAEG,0.89983
+S,habitat,DUOKIL,0.90133
+S,habitat,PENSTR,0.9001
+S,habitat,SPOFIM,0.89971
+S,habitat,ACAROB,0.89862
+S,habitat,ACASEY,0.89991
+S,habitat,COMMIAFR,0.90016
+S,habitat,COROVA,0.89867
+S,habitat,GREFAL,0.89842
+S,habitat,GRETRI,0.90017
+S,habitat,HIBLUN,0.89918
+S,habitat,MAETRI,0.90066
+S,habitat,OLE,0.90029
+S,habitat,PAVASS,0.90083
+S,habitat,PHYSEP,0.90005
+S,habitat,ABU,0.90148
+S,habitat,ACAFRU,0.89953
+S,habitat,ALBHAR,0.90012
+S,habitat,ALBU,0.89941
+S,habitat,ALLRUB,0.89895
+S,habitat,ALOMAC,0.90113
+S,habitat,ALOSEC,0.89908
+S,habitat,CAPTOM,0.89978
+S,habitat,CECCIL,0.89995
+S,habitat,CISQUA,0.90047
+S,habitat,CISROT,0.90099
+S,habitat,COMMEAFR,0.50009
+S,habitat,COMMER,0.89959
+S,habitat,COMSCH,0.89832
+S,habitat,CRODIC,0.89947
+S,habitat,CYPH,0.9001
+S,habitat,DIGVEL,0.90237
+S,habitat,EMICOC,0.89886
+S,habitat,FICGLU,0.89999
+S,habitat,FICING,0.89777
+S,habitat,FICTHI,0.89928
+S,habitat,HELSTE,0.89872
+S,habitat,HOSOPP,0.90019
+S,habitat,HYPFOR,0.90058
+S,habitat,INDBAS,0.901
+S,habitat,IPOOBS,0.90007
+S,habitat,JAS,0.89936
+S,habitat,KAL,0.9002
+S,habitat,KEDFOE,0.90049
+S,habitat,LIPUKA,0.89865
+S,habitat,OCI,0.89817
+S,habitat,PAPCAP,0.89919
+S,habitat,PAVPAT,0.9002
+S,habitat,PUPLAP,0.8994
+S,habitat,SCLBIR,0.90013
+S,habitat,SENDID,0.90016
+S,habitat,SENEHR,0.90051
+S,habitat,SENSUF,0.90042
+S,habitat,SOLDEN,0.8982
+S,habitat,TRIEIC,0.89843
+S,habitat,TURFIS,0.89985
+S,habitat,XIMCAF,0.8992
+S,habitat,ZIZ,0.90003
+S,habitat,PANREP,0.89987
+S,habitat,ANDSCH,0.90163
+S,habitat,CYMEXC,0.89988
+S,habitat,DIGTER,0.89997
+S,habitat,PHRMAU,0.90072
+S,habitat,TYPCAP,0.89902
+S,habitat,BLEACA,0.9008
+S,habitat,IBO,0.89925
+S,habitat,RHOREV,0.89943
+S,habitat,ACHASP,0.89983
+S,habitat,BOSAUG,0.90092
+S,habitat,SOLNIG,0.90133
+S,habitat,ACAXAN,0.90042
+S,habitat,CROSPI,0.89965
+S,habitat,DIGMIL,0.89941
+S,habitat,ECHHAP,0.90057
+S,habitat,EUPCAN,0.89935
+S,habitat,KIGAFR,0.9018
+S,habitat,PANDEU,0.90006
+S,habitat,SARVER,0.90125
+S,habitat,CHLPYC,0.89972
+S,habitat,ERAEXA,0.89996
+S,habitat,CYP,0.89919
+S,habitat,DIHAMP,0.50108
+S,habitat,ERAASP,0.90025
+S,habitat,ERINUB,0.90024
+S,habitat,KYLNER,0.90067
+S,habitat,PELCAL,0.89837
+S,habitat,SPOPEL,0.89875
+S,habitat,SPOSTA,0.90031
+S,habitat,HYPDIS,0.89864
+S,habitat,CHLROX,0.90139
+S,habitat,LONERI,0.8998
+S,habitat,SETPAL,0.89833
+S,habitat,SETSPH,0.90038
+S,habitat,AEPMEL,0.87349
+S,habitat,OUROUR,0.78276
+S,habitat,SYNCAF,0.87551
+S,habitat,ALCBUS,0.87729
+S,habitat,EQUBUR,0.87582
+S,habitat,CONTAU,0.87655
+S,habitat,DAMKOR,0.86907
+S,habitat,GAZTHO,0.87486
+S,habitat,GAZGRA,0.87566
+S,habitat,GIRCAM,0.88412
+S,habitat,HETBRU,0.88552
+S,habitat,HIPAMP,0.84936
+S,habitat,KOBELL,0.87833
+S,habitat,LOXAFR,0.88492
+S,habitat,MADKIR,0.88066
+S,habitat,TRASCR,0.78212
+S,habitat,PAPANU,0.88232
+S,habitat,PEDCAP,0.84775
+S,habitat,PHAAET,0.85372
+S,habitat,PROCAP,0.88418
+S,habitat,REDRED,0.83379
+S,habitat,RHAPUM,0.86031
+S,habitat,TAUORY,0.87184
+S,habitat,CANAUR,0.83076
+S,habitat,CANMES,0.79083
+S,habitat,ACIJUB,0.84501
+S,habitat,CROCRO,0.85836
+S,habitat,LEPSER,0.77477
+S,habitat,CARCAR,0.82453
+S,habitat,LYCPIC,0.85607
+S,habitat,PANLEO,0.86266
+S,habitat,PANPAR,0.86066
+D,habitat,ACASEN,0.90196
+D,habitat,ACATOR,0.89939
+D,habitat,ANDGRE,0.89907
+D,habitat,ARI,0.8986
+D,habitat,BRASEM,0.89926
+D,habitat,CHLGAY,0.90061
+D,habitat,COMMOL,0.89979
+D,habitat,CROMAC,0.90095
+D,habitat,CYNDAC,0.9006
+D,habitat,GREBIC,0.90143
+D,habitat,HARSCH,0.90089
+D,habitat,HIB,0.90217
+D,habitat,HYPFIL,0.89801
+D,habitat,HYPRUF,0.89949
+D,habitat,INDHOC,0.89924
+D,habitat,PANMAX,0.89978
+D,habitat,PENMEZ,0.90067
+D,habitat,SID,0.89924
+D,habitat,SOLINC,0.8991
+D,habitat,SPOFES,0.89844
+D,habitat,SPOIOC,0.89884
+D,habitat,SPOPYR,0.89889
+D,habitat,THETRI,0.90071
+D,habitat,BOTINS,0.89979
+D,habitat,DIGMAC,0.89789
+D,habitat,DIGSCA,0.90087
+D,habitat,DINRET,0.49762
+D,habitat,EUSPAS,0.89912
+D,habitat,HETCON,0.89909
+D,habitat,PANCOL,0.90205
+D,habitat,SPOSPI,0.90125
+D,habitat,DIGDIA,0.90078
+D,habitat,ERACIL,0.89882
+D,habitat,ERATEN,0.8995
+D,habitat,MICKUN,0.89799
+D,habitat,PSIJAE,0.90068
+D,habitat,BALAEG,0.8995
+D,habitat,DUOKIL,0.89943
+D,habitat,PENSTR,0.89923
+D,habitat,SPOFIM,0.9001
+D,habitat,ACAROB,0.8999
+D,habitat,ACASEY,0.90004
+D,habitat,COMMIAFR,0.90069
+D,habitat,COROVA,0.89955
+D,habitat,GREFAL,0.89935
+D,habitat,GRETRI,0.90006
+D,habitat,HIBLUN,0.89926
+D,habitat,MAETRI,0.89887
+D,habitat,OLE,0.89896
+D,habitat,PAVASS,0.90068
+D,habitat,PHYSEP,0.89808
+D,habitat,ABU,0.90007
+D,habitat,ACAFRU,0.90114
+D,habitat,ALBHAR,0.90095
+D,habitat,ALBU,0.9007
+D,habitat,ALLRUB,0.90059
+D,habitat,ALOMAC,0.90034
+D,habitat,ALOSEC,0.89956
+D,habitat,CAPTOM,0.90095
+D,habitat,CECCIL,0.89878
+D,habitat,CISQUA,0.90109
+D,habitat,CISROT,0.90189
+D,habitat,COMMEAFR,0.90025
+D,habitat,COMMER,0.90062
+D,habitat,COMSCH,0.89949
+D,habitat,CRODIC,0.90031
+D,habitat,CYPH,0.90089
+D,habitat,DIGVEL,0.90137
+D,habitat,EMICOC,0.90115
+D,habitat,FICGLU,0.89942
+D,habitat,FICING,0.90002
+D,habitat,FICTHI,0.9013
+D,habitat,HELSTE,0.89915
+D,habitat,HOSOPP,0.9008
+D,habitat,HYPFOR,0.8993
+D,habitat,INDBAS,0.89888
+D,habitat,IPOOBS,0.90087
+D,habitat,JAS,0.89973
+D,habitat,KAL,0.90019
+D,habitat,KEDFOE,0.89925
+D,habitat,LIPUKA,0.90094
+D,habitat,OCI,0.89992
+D,habitat,PAPCAP,0.8986
+D,habitat,PAVPAT,0.8992
+D,habitat,PUPLAP,0.89778
+D,habitat,SCLBIR,0.89979
+D,habitat,SENDID,0.90235
+D,habitat,SENEHR,0.8995
+D,habitat,SENSUF,0.90021
+D,habitat,SOLDEN,0.90068
+D,habitat,TRIEIC,0.50184
+D,habitat,TURFIS,0.89912
+D,habitat,XIMCAF,0.90094
+D,habitat,ZIZ,0.89961
+D,habitat,PANREP,0.901
+D,habitat,ANDSCH,0.89839
+D,habitat,CYMEXC,0.90092
+D,habitat,DIGTER,0.89903
+D,habitat,PHRMAU,0.90027
+D,habitat,TYPCAP,0.90012
+D,habitat,BLEACA,0.90079
+D,habitat,IBO,0.90264
+D,habitat,RHOREV,0.89983
+D,habitat,ACHASP,0.89963
+D,habitat,BOSAUG,0.90101
+D,habitat,SOLNIG,0.89945
+D,habitat,ACAXAN,0.90029
+D,habitat,CROSPI,0.90025
+D,habitat,DIGMIL,0.90135
+D,habitat,ECHHAP,0.89948
+D,habitat,EUPCAN,0.89921
+D,habitat,KIGAFR,0.89985
+D,habitat,PANDEU,0.89927
+D,habitat,SARVER,0.89986
+D,habitat,CHLPYC,0.89893
+D,habitat,ERAEXA,0.90007
+D,habitat,CYP,0.90044
+D,habitat,DIHAMP,0.89972
+D,habitat,ERAASP,0.90003
+D,habitat,ERINUB,0.90001
+D,habitat,KYLNER,0.89946
+D,habitat,PELCAL,0.89876
+D,habitat,SPOPEL,0.90019
+D,habitat,SPOSTA,0.89911
+D,habitat,HYPDIS,0.90018
+D,habitat,CHLROX,0.90045
+D,habitat,LONERI,0.89906
+D,habitat,SETPAL,0.8998
+D,habitat,SETSPH,0.90029
+D,habitat,AEPMEL,0.88378
+D,habitat,OUROUR,0.84622
+D,habitat,SYNCAF,0.8826
+D,habitat,ALCBUS,0.87446
+D,habitat,EQUBUR,0.87504
+D,habitat,CONTAU,0.88087
+D,habitat,DAMKOR,0.87928
+D,habitat,GAZTHO,0.87946
+D,habitat,GAZGRA,0.88247
+D,habitat,GIRCAM,0.8828
+D,habitat,HETBRU,0.88829
+D,habitat,HIPAMP,0.87247
+D,habitat,KOBELL,0.87776
+D,habitat,LOXAFR,0.88713
+D,habitat,MADKIR,0.88739
+D,habitat,TRASCR,0.84876
+D,habitat,PAPANU,0.88633
+D,habitat,PEDCAP,0.87033
+D,habitat,PHAAET,0.87115
+D,habitat,PROCAP,0.88992
+D,habitat,REDRED,0.83469
+D,habitat,RHAPUM,0.8732
+D,habitat,TAUORY,0.88087
+D,habitat,CANAUR,0.83314
+D,habitat,CANMES,0.79849
+D,habitat,ACIJUB,0.85414
+D,habitat,CROCRO,0.86458
+D,habitat,LEPSER,0.78578
+D,habitat,CARCAR,0.83512
+D,habitat,LYCPIC,0.86588
+D,habitat,PANLEO,0.86655
+D,habitat,PANPAR,0.86475
+R,habitat,ACASEN,0.8997
+R,habitat,ACATOR,0.89995
+R,habitat,ANDGRE,0.89926
+R,habitat,ARI,0.90224
+R,habitat,BRASEM,0.89902
+R,habitat,CHLGAY,0.90019
+R,habitat,COMMOL,0.89802
+R,habitat,CROMAC,0.90257
+R,habitat,CYNDAC,0.9005
+R,habitat,GREBIC,0.89865
+R,habitat,HARSCH,0.90178
+R,habitat,HIB,0.90072
+R,habitat,HYPFIL,0.89815
+R,habitat,HYPRUF,0.90082
+R,habitat,INDHOC,0.89979
+R,habitat,PANMAX,0.89932
+R,habitat,PENMEZ,0.90028
+R,habitat,SID,0.90016
+R,habitat,SOLINC,0.89968
+R,habitat,SPOFES,0.89881
+R,habitat,SPOIOC,0.90051
+R,habitat,SPOPYR,0.89819
+R,habitat,THETRI,0.90026
+R,habitat,BOTINS,0.89977
+R,habitat,DIGMAC,0.8992
+R,habitat,DIGSCA,0.90049
+R,habitat,DINRET,0.89873
+R,habitat,EUSPAS,0.9012
+R,habitat,HETCON,0.89916
+R,habitat,PANCOL,0.89957
+R,habitat,SPOSPI,0.90122
+R,habitat,DIGDIA,0.8996
+R,habitat,ERACIL,0.90142
+R,habitat,ERATEN,0.90002
+R,habitat,MICKUN,0.90117
+R,habitat,PSIJAE,0.50386
+R,habitat,BALAEG,0.90072
+R,habitat,DUOKIL,0.89898
+R,habitat,PENSTR,0.89964
+R,habitat,SPOFIM,0.89987
+R,habitat,ACAROB,0.89945
+R,habitat,ACASEY,0.89952
+R,habitat,COMMIAFR,0.90046
+R,habitat,COROVA,0.89937
+R,habitat,GREFAL,0.89888
+R,habitat,GRETRI,0.8998
+R,habitat,HIBLUN,0.9008
+R,habitat,MAETRI,0.89932
+R,habitat,OLE,0.89818
+R,habitat,PAVASS,0.8998
+R,habitat,PHYSEP,0.89966
+R,habitat,ABU,0.90101
+R,habitat,ACAFRU,0.89837
+R,habitat,ALBHAR,0.9005
+R,habitat,ALBU,0.90006
+R,habitat,ALLRUB,0.90015
+R,habitat,ALOMAC,0.89902
+R,habitat,ALOSEC,0.90053
+R,habitat,CAPTOM,0.9008
+R,habitat,CECCIL,0.89993
+R,habitat,CISQUA,0.89994
+R,habitat,CISROT,0.901
+R,habitat,COMMEAFR,0.89973
+R,habitat,COMMER,0.89917
+R,habitat,COMSCH,0.89999
+R,habitat,CRODIC,0.89874
+R,habitat,CYPH,0.89976
+R,habitat,DIGVEL,0.90031
+R,habitat,EMICOC,0.90122
+R,habitat,FICGLU,0.90166
+R,habitat,FICING,0.89985
+R,habitat,FICTHI,0.89885
+R,habitat,HELSTE,0.90115
+R,habitat,HOSOPP,0.89899
+R,habitat,HYPFOR,0.90092
+R,habitat,INDBAS,0.9022
+R,habitat,IPOOBS,0.90012
+R,habitat,JAS,0.89969
+R,habitat,KAL,0.89984
+R,habitat,KEDFOE,0.89881
+R,habitat,LIPUKA,0.90025
+R,habitat,OCI,0.90015
+R,habitat,PAPCAP,0.90136
+R,habitat,PAVPAT,0.89872
+R,habitat,PUPLAP,0.90062
+R,habitat,SCLBIR,0.90109
+R,habitat,SENDID,0.90081
+R,habitat,SENEHR,0.90137
+R,habitat,SENSUF,0.90137
+R,habitat,SOLDEN,0.90162
+R,habitat,TRIEIC,0.90002
+R,habitat,TURFIS,0.89981
+R,habitat,XIMCAF,0.89916
+R,habitat,ZIZ,0.89965
+R,habitat,PANREP,0.50109
+R,habitat,ANDSCH,0.90086
+R,habitat,CYMEXC,0.89996
+R,habitat,DIGTER,0.90125
+R,habitat,PHRMAU,0.49914
+R,habitat,TYPCAP,0.4982
+R,habitat,BLEACA,0.89984
+R,habitat,IBO,0.89942
+R,habitat,RHOREV,0.90013
+R,habitat,ACHASP,0.90177
+R,habitat,BOSAUG,0.9003
+R,habitat,SOLNIG,0.90028
+R,habitat,ACAXAN,0.5006
+R,habitat,CROSPI,0.89993
+R,habitat,DIGMIL,0.89932
+R,habitat,ECHHAP,0.89921
+R,habitat,EUPCAN,0.90019
+R,habitat,KIGAFR,0.9009
+R,habitat,PANDEU,0.50222
+R,habitat,SARVER,0.49994
+R,habitat,CHLPYC,0.89987
+R,habitat,ERAEXA,0.89936
+R,habitat,CYP,0.89742
+R,habitat,DIHAMP,0.90009
+R,habitat,ERAASP,0.90039
+R,habitat,ERINUB,0.89946
+R,habitat,KYLNER,0.90044
+R,habitat,PELCAL,0.89901
+R,habitat,SPOPEL,0.89968
+R,habitat,SPOSTA,0.89914
+R,habitat,HYPDIS,0.89976
+R,habitat,CHLROX,0.90006
+R,habitat,LONERI,0.9001
+R,habitat,SETPAL,0.90076
+R,habitat,SETSPH,0.89968
+R,habitat,AEPMEL,0.88545
+R,habitat,OUROUR,0.84821
+R,habitat,SYNCAF,0.88282
+R,habitat,ALCBUS,0.88505
+R,habitat,EQUBUR,0.88254
+R,habitat,CONTAU,0.88635
+R,habitat,DAMKOR,0.86946
+R,habitat,GAZTHO,0.88428
+R,habitat,GAZGRA,0.88626
+R,habitat,GIRCAM,0.88366
+R,habitat,HETBRU,0.88989
+R,habitat,HIPAMP,0.85089
+R,habitat,KOBELL,0.84446
+R,habitat,LOXAFR,0.88698
+R,habitat,MADKIR,0.88612
+R,habitat,TRASCR,0.84964
+R,habitat,PAPANU,0.87278
+R,habitat,PEDCAP,0.86981
+R,habitat,PHAAET,0.87277
+R,habitat,PROCAP,0.89001
+R,habitat,REDRED,0.83561
+R,habitat,RHAPUM,0.87675
+R,habitat,TAUORY,0.86878
+R,habitat,CANAUR,0.83781
+R,habitat,CANMES,0.79662
+R,habitat,ACIJUB,0.85403
+R,habitat,CROCRO,0.86152
+R,habitat,LEPSER,0.78754
+R,habitat,CARCAR,0.8349
+R,habitat,LYCPIC,0.86465
+R,habitat,PANLEO,0.86798
+R,habitat,PANPAR,0.86358
+T,habitat,ACASEN,0.8994
+T,habitat,ACATOR,0.89876
+T,habitat,ANDGRE,0.90035
+T,habitat,ARI,0.89957
+T,habitat,BRASEM,0.90007
+T,habitat,CHLGAY,0.89998
+T,habitat,COMMOL,0.89949
+T,habitat,CROMAC,0.89887
+T,habitat,CYNDAC,0.90013
+T,habitat,GREBIC,0.9003
+T,habitat,HARSCH,0.89953
+T,habitat,HIB,0.90018
+T,habitat,HYPFIL,0.89922
+T,habitat,HYPRUF,0.90054
+T,habitat,INDHOC,0.89947
+T,habitat,PANMAX,0.89992
+T,habitat,PENMEZ,0.9
+T,habitat,SID,0.90063
+T,habitat,SOLINC,0.89933
+T,habitat,SPOFES,0.9001
+T,habitat,SPOIOC,0.89837
+T,habitat,SPOPYR,0.89889
+T,habitat,THETRI,0.89959
+T,habitat,BOTINS,0.90019
+T,habitat,DIGMAC,0.89859
+T,habitat,DIGSCA,0.89871
+T,habitat,DINRET,0.89873
+T,habitat,EUSPAS,0.9014
+T,habitat,HETCON,0.89998
+T,habitat,PANCOL,0.90035
+T,habitat,SPOSPI,0.90191
+T,habitat,DIGDIA,0.8998
+T,habitat,ERACIL,0.89911
+T,habitat,ERATEN,0.90135
+T,habitat,MICKUN,0.90118
+T,habitat,PSIJAE,0.89889
+T,habitat,BALAEG,0.89829
+T,habitat,DUOKIL,0.9002
+T,habitat,PENSTR,0.89959
+T,habitat,SPOFIM,0.90064
+T,habitat,ACAROB,0.89966
+T,habitat,ACASEY,0.90014
+T,habitat,COMMIAFR,0.89949
+T,habitat,COROVA,0.89884
+T,habitat,GREFAL,0.90206
+T,habitat,GRETRI,0.8994
+T,habitat,HIBLUN,0.89909
+T,habitat,MAETRI,0.89986
+T,habitat,OLE,0.89797
+T,habitat,PAVASS,0.90077
+T,habitat,PHYSEP,0.89914
+T,habitat,ABU,0.9015
+T,habitat,ACAFRU,0.90127
+T,habitat,ALBHAR,0.90023
+T,habitat,ALBU,0.89902
+T,habitat,ALLRUB,0.89827
+T,habitat,ALOMAC,0.89787
+T,habitat,ALOSEC,0.89945
+T,habitat,CAPTOM,0.90086
+T,habitat,CECCIL,0.90213
+T,habitat,CISQUA,0.5003
+T,habitat,CISROT,0.49864
+T,habitat,COMMEAFR,0.90044
+T,habitat,COMMER,0.90005
+T,habitat,COMSCH,0.90124
+T,habitat,CRODIC,0.89983
+T,habitat,CYPH,0.90048
+T,habitat,DIGVEL,0.89957
+T,habitat,EMICOC,0.90008
+T,habitat,FICGLU,0.89857
+T,habitat,FICING,0.90009
+T,habitat,FICTHI,0.90052
+T,habitat,HELSTE,0.8996
+T,habitat,HOSOPP,0.899
+T,habitat,HYPFOR,0.89947
+T,habitat,INDBAS,0.89969
+T,habitat,IPOOBS,0.90024
+T,habitat,JAS,0.89912
+T,habitat,KAL,0.89954
+T,habitat,KEDFOE,0.89905
+T,habitat,LIPUKA,0.90036
+T,habitat,OCI,0.90068
+T,habitat,PAPCAP,0.90007
+T,habitat,PAVPAT,0.90057
+T,habitat,PUPLAP,0.89966
+T,habitat,SCLBIR,0.90151
+T,habitat,SENDID,0.8994
+T,habitat,SENEHR,0.89952
+T,habitat,SENSUF,0.90024
+T,habitat,SOLDEN,0.89915
+T,habitat,TRIEIC,0.89815
+T,habitat,TURFIS,0.89953
+T,habitat,XIMCAF,0.90121
+T,habitat,ZIZ,0.89892
+T,habitat,PANREP,0.90126
+T,habitat,ANDSCH,0.89967
+T,habitat,CYMEXC,0.90147
+T,habitat,DIGTER,0.90062
+T,habitat,PHRMAU,0.89984
+T,habitat,TYPCAP,0.8989
+T,habitat,BLEACA,0.90135
+T,habitat,IBO,0.89859
+T,habitat,RHOREV,0.90043
+T,habitat,ACHASP,0.8996
+T,habitat,BOSAUG,0.90119
+T,habitat,SOLNIG,0.89926
+T,habitat,ACAXAN,0.90039
+T,habitat,CROSPI,0.89906
+T,habitat,DIGMIL,0.89965
+T,habitat,ECHHAP,0.90027
+T,habitat,EUPCAN,0.89962
+T,habitat,KIGAFR,0.90058
+T,habitat,PANDEU,0.89942
+T,habitat,SARVER,0.89971
+T,habitat,CHLPYC,0.90116
+T,habitat,ERAEXA,0.89981
+T,habitat,CYP,0.89927
+T,habitat,DIHAMP,0.89879
+T,habitat,ERAASP,0.8993
+T,habitat,ERINUB,0.90066
+T,habitat,KYLNER,0.90029
+T,habitat,PELCAL,0.89866
+T,habitat,SPOPEL,0.9006
+T,habitat,SPOSTA,0.90002
+T,habitat,HYPDIS,0.89912
+T,habitat,CHLROX,0.89888
+T,habitat,LONERI,0.89996
+T,habitat,SETPAL,0.89798
+T,habitat,SETSPH,0.89904
+T,habitat,AEPMEL,0.88413
+T,habitat,OUROUR,0.8492
+T,habitat,SYNCAF,0.88201
+T,habitat,ALCBUS,0.88526
+T,habitat,EQUBUR,0.88498
+T,habitat,CONTAU,0.88542
+T,habitat,DAMKOR,0.87905
+T,habitat,GAZTHO,0.88597
+T,habitat,GAZGRA,0.88724
+T,habitat,GIRCAM,0.88222
+T,habitat,HETBRU,0.88374
+T,habitat,HIPAMP,0.87191
+T,habitat,KOBELL,0.87668
+T,habitat,LOXAFR,0.88542
+T,habitat,MADKIR,0.88719
+T,habitat,TRASCR,0.84838
+T,habitat,PAPANU,0.88294
+T,habitat,PEDCAP,0.87015
+T,habitat,PHAAET,0.87171
+T,habitat,PROCAP,0.88839
+T,habitat,REDRED,0.83121
+T,habitat,RHAPUM,0.87623
+T,habitat,TAUORY,0.8799
+T,habitat,CANAUR,0.83715
+T,habitat,CANMES,0.79799
+T,habitat,ACIJUB,0.85507
+T,habitat,CROCRO,0.86558
+T,habitat,LEPSER,0.78951
+T,habitat,CARCAR,0.83518
+T,habitat,LYCPIC,0.86719
+T,habitat,PANLEO,0.86972
+T,habitat,PANPAR,0.86648
+shrub,growth form,ACASEN,0.50073
+shrub,growth form,ACATOR,0.90009
+shrub,growth form,ANDGRE,0.89939
+shrub,growth form,ARI,0.89865
+shrub,growth form,BRASEM,0.90045
+shrub,growth form,CHLGAY,0.90013
+shrub,growth form,COMMOL,0.50108
+shrub,growth form,CROMAC,0.50033
+shrub,growth form,CYNDAC,0.90077
+shrub,growth form,GREBIC,0.50039
+shrub,growth form,HARSCH,0.89982
+shrub,growth form,HIB,0.90077
+shrub,growth form,HYPFIL,0.90042
+shrub,growth form,HYPRUF,0.90066
+shrub,growth form,INDHOC,0.90161
+shrub,growth form,PANMAX,0.90253
+shrub,growth form,PENMEZ,0.89873
+shrub,growth form,SID,0.89953
+shrub,growth form,SOLINC,0.90033
+shrub,growth form,SPOFES,0.89912
+shrub,growth form,SPOIOC,0.90021
+shrub,growth form,SPOPYR,0.90029
+shrub,growth form,THETRI,0.89982
+shrub,growth form,BOTINS,0.90136
+shrub,growth form,DIGMAC,0.90025
+shrub,growth form,DIGSCA,0.90105
+shrub,growth form,DINRET,0.90097
+shrub,growth form,EUSPAS,0.8995
+shrub,growth form,HETCON,0.8999
+shrub,growth form,PANCOL,0.90015
+shrub,growth form,SPOSPI,0.89991
+shrub,growth form,DIGDIA,0.89926
+shrub,growth form,ERACIL,0.9
+shrub,growth form,ERATEN,0.90009
+shrub,growth form,MICKUN,0.8996
+shrub,growth form,PSIJAE,0.89884
+shrub,growth form,BALAEG,0.4978
+shrub,growth form,DUOKIL,0.49812
+shrub,growth form,PENSTR,0.89999
+shrub,growth form,SPOFIM,0.90028
+shrub,growth form,ACAROB,0.89945
+shrub,growth form,ACASEY,0.50046
+shrub,growth form,COMMIAFR,0.49839
+shrub,growth form,COROVA,0.5021
+shrub,growth form,GREFAL,0.50293
+shrub,growth form,GRETRI,0.5011
+shrub,growth form,HIBLUN,0.90016
+shrub,growth form,MAETRI,0.49911
+shrub,growth form,OLE,0.89942
+shrub,growth form,PAVASS,0.49755
+shrub,growth form,PHYSEP,0.49913
+shrub,growth form,ABU,0.8993
+shrub,growth form,ACAFRU,0.499
+shrub,growth form,ALBHAR,0.49833
+shrub,growth form,ALBU,0.89912
+shrub,growth form,ALLRUB,0.50066
+shrub,growth form,ALOMAC,0.901
+shrub,growth form,ALOSEC,0.90002
+shrub,growth form,CAPTOM,0.50033
+shrub,growth form,CECCIL,0.89992
+shrub,growth form,CISQUA,0.89923
+shrub,growth form,CISROT,0.90081
+shrub,growth form,COMMEAFR,0.90045
+shrub,growth form,COMMER,0.49934
+shrub,growth form,COMSCH,0.49839
+shrub,growth form,CRODIC,0.50084
+shrub,growth form,CYPH,0.89998
+shrub,growth form,DIGVEL,0.90073
+shrub,growth form,EMICOC,0.8983
+shrub,growth form,FICGLU,0.4992
+shrub,growth form,FICING,0.49767
+shrub,growth form,FICTHI,0.50029
+shrub,growth form,HELSTE,0.90075
+shrub,growth form,HOSOPP,0.49993
+shrub,growth form,HYPFOR,0.89972
+shrub,growth form,INDBAS,0.90125
+shrub,growth form,IPOOBS,0.90009
+shrub,growth form,JAS,0.49961
+shrub,growth form,KAL,0.89975
+shrub,growth form,KEDFOE,0.90066
+shrub,growth form,LIPUKA,0.49927
+shrub,growth form,OCI,0.90137
+shrub,growth form,PAPCAP,0.50073
+shrub,growth form,PAVPAT,0.90042
+shrub,growth form,PUPLAP,0.89975
+shrub,growth form,SCLBIR,0.50258
+shrub,growth form,SENDID,0.9004
+shrub,growth form,SENEHR,0.90159
+shrub,growth form,SENSUF,0.90112
+shrub,growth form,SOLDEN,0.49969
+shrub,growth form,TRIEIC,0.9006
+shrub,growth form,TURFIS,0.50057
+shrub,growth form,XIMCAF,0.5014
+shrub,growth form,ZIZ,0.50204
+shrub,growth form,PANREP,0.90096
+shrub,growth form,ANDSCH,0.89974
+shrub,growth form,CYMEXC,0.89902
+shrub,growth form,DIGTER,0.89885
+shrub,growth form,PHRMAU,0.90068
+shrub,growth form,TYPCAP,0.89978
+shrub,growth form,BLEACA,0.9016
+shrub,growth form,IBO,0.49963
+shrub,growth form,RHOREV,0.4991
+shrub,growth form,ACHASP,0.89821
+shrub,growth form,BOSAUG,0.49876
+shrub,growth form,SOLNIG,0.90109
+shrub,growth form,ACAXAN,0.90114
+shrub,growth form,CROSPI,0.90022
+shrub,growth form,DIGMIL,0.89935
+shrub,growth form,ECHHAP,0.90211
+shrub,growth form,EUPCAN,0.89872
+shrub,growth form,KIGAFR,0.50116
+shrub,growth form,PANDEU,0.90042
+shrub,growth form,SARVER,0.90082
+shrub,growth form,CHLPYC,0.8991
+shrub,growth form,ERAEXA,0.90051
+shrub,growth form,CYP,0.90072
+shrub,growth form,DIHAMP,0.89984
+shrub,growth form,ERAASP,0.89924
+shrub,growth form,ERINUB,0.90037
+shrub,growth form,KYLNER,0.90159
+shrub,growth form,PELCAL,0.90008
+shrub,growth form,SPOPEL,0.89817
+shrub,growth form,SPOSTA,0.90012
+shrub,growth form,HYPDIS,0.90079
+shrub,growth form,CHLROX,0.89965
+shrub,growth form,LONERI,0.50327
+shrub,growth form,SETPAL,0.89889
+shrub,growth form,SETSPH,0.89963
+shrub,growth form,AEPMEL,0.85553
+shrub,growth form,OUROUR,0.84817
+shrub,growth form,SYNCAF,0.86409
+shrub,growth form,ALCBUS,0.88285
+shrub,growth form,EQUBUR,0.8655
+shrub,growth form,CONTAU,0.88571
+shrub,growth form,DAMKOR,0.86946
+shrub,growth form,GAZTHO,0.88113
+shrub,growth form,GAZGRA,0.86596
+shrub,growth form,GIRCAM,0.68508
+shrub,growth form,HETBRU,0.77822
+shrub,growth form,HIPAMP,0.87117
+shrub,growth form,KOBELL,0.87588
+shrub,growth form,LOXAFR,0.73354
+shrub,growth form,MADKIR,0.79498
+shrub,growth form,TRASCR,0.84931
+shrub,growth form,PAPANU,0.80602
+shrub,growth form,PEDCAP,0.868
+shrub,growth form,PHAAET,0.87174
+shrub,growth form,PROCAP,0.81825
+shrub,growth form,REDRED,0.83314
+shrub,growth form,RHAPUM,0.87696
+shrub,growth form,TAUORY,0.8194
+shrub,growth form,CANAUR,0.83066
+shrub,growth form,CANMES,0.71535
+shrub,growth form,ACIJUB,0.84153
+shrub,growth form,CROCRO,0.85691
+shrub,growth form,LEPSER,0.78964
+shrub,growth form,CARCAR,0.80367
+shrub,growth form,LYCPIC,0.8597
+shrub,growth form,PANLEO,0.85777
+shrub,growth form,PANPAR,0.85435
+tree,growth form,ACASEN,0.90114
+tree,growth form,ACATOR,0.50012
+tree,growth form,ANDGRE,0.90056
+tree,growth form,ARI,0.89968
+tree,growth form,BRASEM,0.89872
+tree,growth form,CHLGAY,0.89897
+tree,growth form,COMMOL,0.89948
+tree,growth form,CROMAC,0.89892
+tree,growth form,CYNDAC,0.90046
+tree,growth form,GREBIC,0.89971
+tree,growth form,HARSCH,0.90007
+tree,growth form,HIB,0.90016
+tree,growth form,HYPFIL,0.89951
+tree,growth form,HYPRUF,0.89851
+tree,growth form,INDHOC,0.90041
+tree,growth form,PANMAX,0.90062
+tree,growth form,PENMEZ,0.89956
+tree,growth form,SID,0.90012
+tree,growth form,SOLINC,0.90024
+tree,growth form,SPOFES,0.89958
+tree,growth form,SPOIOC,0.90083
+tree,growth form,SPOPYR,0.9014
+tree,growth form,THETRI,0.89913
+tree,growth form,BOTINS,0.89982
+tree,growth form,DIGMAC,0.89886
+tree,growth form,DIGSCA,0.90139
+tree,growth form,DINRET,0.89939
+tree,growth form,EUSPAS,0.90074
+tree,growth form,HETCON,0.90094
+tree,growth form,PANCOL,0.89933
+tree,growth form,SPOSPI,0.90002
+tree,growth form,DIGDIA,0.898
+tree,growth form,ERACIL,0.8996
+tree,growth form,ERATEN,0.90011
+tree,growth form,MICKUN,0.90129
+tree,growth form,PSIJAE,0.90022
+tree,growth form,BALAEG,0.90046
+tree,growth form,DUOKIL,0.89971
+tree,growth form,PENSTR,0.9011
+tree,growth form,SPOFIM,0.89925
+tree,growth form,ACAROB,0.5008
+tree,growth form,ACASEY,0.89991
+tree,growth form,COMMIAFR,0.89942
+tree,growth form,COROVA,0.90024
+tree,growth form,GREFAL,0.89978
+tree,growth form,GRETRI,0.89896
+tree,growth form,HIBLUN,0.8997
+tree,growth form,MAETRI,0.90233
+tree,growth form,OLE,0.49839
+tree,growth form,PAVASS,0.89934
+tree,growth form,PHYSEP,0.89867
+tree,growth form,ABU,0.89965
+tree,growth form,ACAFRU,0.89924
+tree,growth form,ALBHAR,0.90012
+tree,growth form,ALBU,0.9004
+tree,growth form,ALLRUB,0.89946
+tree,growth form,ALOMAC,0.9
+tree,growth form,ALOSEC,0.89828
+tree,growth form,CAPTOM,0.90165
+tree,growth form,CECCIL,0.90092
+tree,growth form,CISQUA,0.89975
+tree,growth form,CISROT,0.89985
+tree,growth form,COMMEAFR,0.90018
+tree,growth form,COMMER,0.90076
+tree,growth form,COMSCH,0.89864
+tree,growth form,CRODIC,0.89953
+tree,growth form,CYPH,0.9015
+tree,growth form,DIGVEL,0.90093
+tree,growth form,EMICOC,0.90028
+tree,growth form,FICGLU,0.8994
+tree,growth form,FICING,0.90116
+tree,growth form,FICTHI,0.89929
+tree,growth form,HELSTE,0.89968
+tree,growth form,HOSOPP,0.9001
+tree,growth form,HYPFOR,0.90076
+tree,growth form,INDBAS,0.9005
+tree,growth form,IPOOBS,0.90101
+tree,growth form,JAS,0.89919
+tree,growth form,KAL,0.8992
+tree,growth form,KEDFOE,0.89927
+tree,growth form,LIPUKA,0.90179
+tree,growth form,OCI,0.90064
+tree,growth form,PAPCAP,0.90069
+tree,growth form,PAVPAT,0.89868
+tree,growth form,PUPLAP,0.89992
+tree,growth form,SCLBIR,0.89867
+tree,growth form,SENDID,0.89984
+tree,growth form,SENEHR,0.90028
+tree,growth form,SENSUF,0.89812
+tree,growth form,SOLDEN,0.902
+tree,growth form,TRIEIC,0.89958
+tree,growth form,TURFIS,0.89983
+tree,growth form,XIMCAF,0.90089
+tree,growth form,ZIZ,0.89921
+tree,growth form,PANREP,0.89987
+tree,growth form,ANDSCH,0.89915
+tree,growth form,CYMEXC,0.89792
+tree,growth form,DIGTER,0.90008
+tree,growth form,PHRMAU,0.89886
+tree,growth form,TYPCAP,0.89898
+tree,growth form,BLEACA,0.89918
+tree,growth form,IBO,0.89894
+tree,growth form,RHOREV,0.89861
+tree,growth form,ACHASP,0.89948
+tree,growth form,BOSAUG,0.9
+tree,growth form,SOLNIG,0.89916
+tree,growth form,ACAXAN,0.50009
+tree,growth form,CROSPI,0.89913
+tree,growth form,DIGMIL,0.8991
+tree,growth form,ECHHAP,0.90038
+tree,growth form,EUPCAN,0.50085
+tree,growth form,KIGAFR,0.89977
+tree,growth form,PANDEU,0.90109
+tree,growth form,SARVER,0.89951
+tree,growth form,CHLPYC,0.90097
+tree,growth form,ERAEXA,0.89958
+tree,growth form,CYP,0.89987
+tree,growth form,DIHAMP,0.90032
+tree,growth form,ERAASP,0.89946
+tree,growth form,ERINUB,0.90066
+tree,growth form,KYLNER,0.90041
+tree,growth form,PELCAL,0.89878
+tree,growth form,SPOPEL,0.90128
+tree,growth form,SPOSTA,0.90043
+tree,growth form,HYPDIS,0.89924
+tree,growth form,CHLROX,0.90137
+tree,growth form,LONERI,0.90121
+tree,growth form,SETPAL,0.89921
+tree,growth form,SETSPH,0.89975
+tree,growth form,AEPMEL,0.87983
+tree,growth form,OUROUR,0.84804
+tree,growth form,SYNCAF,0.88013
+tree,growth form,ALCBUS,0.88431
+tree,growth form,EQUBUR,0.88344
+tree,growth form,CONTAU,0.88581
+tree,growth form,DAMKOR,0.88044
+tree,growth form,GAZTHO,0.88479
+tree,growth form,GAZGRA,0.88671
+tree,growth form,GIRCAM,0.85734
+tree,growth form,HETBRU,0.88592
+tree,growth form,HIPAMP,0.87251
+tree,growth form,KOBELL,0.86204
+tree,growth form,LOXAFR,0.88591
+tree,growth form,MADKIR,0.88726
+tree,growth form,TRASCR,0.84576
+tree,growth form,PAPANU,0.87016
+tree,growth form,PEDCAP,0.86775
+tree,growth form,PHAAET,0.87191
+tree,growth form,PROCAP,0.88731
+tree,growth form,REDRED,0.83462
+tree,growth form,RHAPUM,0.87691
+tree,growth form,TAUORY,0.87124
+tree,growth form,CANAUR,0.83653
+tree,growth form,CANMES,0.79749
+tree,growth form,ACIJUB,0.85241
+tree,growth form,CROCRO,0.8643
+tree,growth form,LEPSER,0.79025
+tree,growth form,CARCAR,0.83628
+tree,growth form,LYCPIC,0.86673
+tree,growth form,PANLEO,0.86978
+tree,growth form,PANPAR,0.86543
+graminoid,growth form,ACASEN,0.90061
+graminoid,growth form,ACATOR,0.90174
+graminoid,growth form,ANDGRE,0.50192
+graminoid,growth form,ARI,0.49993
+graminoid,growth form,BRASEM,0.50144
+graminoid,growth form,CHLGAY,0.50177
+graminoid,growth form,COMMOL,0.9001
+graminoid,growth form,CROMAC,0.90045
+graminoid,growth form,CYNDAC,0.50233
+graminoid,growth form,GREBIC,0.90023
+graminoid,growth form,HARSCH,0.50187
+graminoid,growth form,HIB,0.898
+graminoid,growth form,HYPFIL,0.50171
+graminoid,growth form,HYPRUF,0.49881
+graminoid,growth form,INDHOC,0.89926
+graminoid,growth form,PANMAX,0.50149
+graminoid,growth form,PENMEZ,0.49613
+graminoid,growth form,SID,0.89996
+graminoid,growth form,SOLINC,0.90081
+graminoid,growth form,SPOFES,0.50152
+graminoid,growth form,SPOIOC,0.49979
+graminoid,growth form,SPOPYR,0.4993
+graminoid,growth form,THETRI,0.49973
+graminoid,growth form,BOTINS,0.49822
+graminoid,growth form,DIGMAC,0.49956
+graminoid,growth form,DIGSCA,0.49869
+graminoid,growth form,DINRET,0.50228
+graminoid,growth form,EUSPAS,0.49877
+graminoid,growth form,HETCON,0.49822
+graminoid,growth form,PANCOL,0.49877
+graminoid,growth form,SPOSPI,0.50144
+graminoid,growth form,DIGDIA,0.49981
+graminoid,growth form,ERACIL,0.49824
+graminoid,growth form,ERATEN,0.49962
+graminoid,growth form,MICKUN,0.49635
+graminoid,growth form,PSIJAE,0.49788
+graminoid,growth form,BALAEG,0.89889
+graminoid,growth form,DUOKIL,0.90005
+graminoid,growth form,PENSTR,0.50059
+graminoid,growth form,SPOFIM,0.49801
+graminoid,growth form,ACAROB,0.89918
+graminoid,growth form,ACASEY,0.89981
+graminoid,growth form,COMMIAFR,0.90022
+graminoid,growth form,COROVA,0.899
+graminoid,growth form,GREFAL,0.90096
+graminoid,growth form,GRETRI,0.89846
+graminoid,growth form,HIBLUN,0.90099
+graminoid,growth form,MAETRI,0.89852
+graminoid,growth form,OLE,0.89973
+graminoid,growth form,PAVASS,0.90082
+graminoid,growth form,PHYSEP,0.89953
+graminoid,growth form,ABU,0.90013
+graminoid,growth form,ACAFRU,0.89871
+graminoid,growth form,ALBHAR,0.89986
+graminoid,growth form,ALBU,0.9005
+graminoid,growth form,ALLRUB,0.89929
+graminoid,growth form,ALOMAC,0.89937
+graminoid,growth form,ALOSEC,0.89856
+graminoid,growth form,CAPTOM,0.90033
+graminoid,growth form,CECCIL,0.50108
+graminoid,growth form,CISQUA,0.90057
+graminoid,growth form,CISROT,0.90075
+graminoid,growth form,COMMEAFR,0.89931
+graminoid,growth form,COMMER,0.89734
+graminoid,growth form,COMSCH,0.90108
+graminoid,growth form,CRODIC,0.90032
+graminoid,growth form,CYPH,0.89945
+graminoid,growth form,DIGVEL,0.49884
+graminoid,growth form,EMICOC,0.89914
+graminoid,growth form,FICGLU,0.90007
+graminoid,growth form,FICING,0.89899
+graminoid,growth form,FICTHI,0.9
+graminoid,growth form,HELSTE,0.90042
+graminoid,growth form,HOSOPP,0.89887
+graminoid,growth form,HYPFOR,0.89951
+graminoid,growth form,INDBAS,0.90144
+graminoid,growth form,IPOOBS,0.90007
+graminoid,growth form,JAS,0.89911
+graminoid,growth form,KAL,0.90109
+graminoid,growth form,KEDFOE,0.89854
+graminoid,growth form,LIPUKA,0.90097
+graminoid,growth form,OCI,0.90162
+graminoid,growth form,PAPCAP,0.90154
+graminoid,growth form,PAVPAT,0.90062
+graminoid,growth form,PUPLAP,0.90106
+graminoid,growth form,SCLBIR,0.901
+graminoid,growth form,SENDID,0.89997
+graminoid,growth form,SENEHR,0.9005
+graminoid,growth form,SENSUF,0.89964
+graminoid,growth form,SOLDEN,0.90097
+graminoid,growth form,TRIEIC,0.49988
+graminoid,growth form,TURFIS,0.89833
+graminoid,growth form,XIMCAF,0.90027
+graminoid,growth form,ZIZ,0.89997
+graminoid,growth form,PANREP,0.49866
+graminoid,growth form,ANDSCH,0.50036
+graminoid,growth form,CYMEXC,0.50182
+graminoid,growth form,DIGTER,0.49897
+graminoid,growth form,PHRMAU,0.50348
+graminoid,growth form,TYPCAP,0.50083
+graminoid,growth form,BLEACA,0.90122
+graminoid,growth form,IBO,0.89999
+graminoid,growth form,RHOREV,0.89976
+graminoid,growth form,ACHASP,0.89814
+graminoid,growth form,BOSAUG,0.90114
+graminoid,growth form,SOLNIG,0.90131
+graminoid,growth form,ACAXAN,0.89978
+graminoid,growth form,CROSPI,0.90017
+graminoid,growth form,DIGMIL,0.49719
+graminoid,growth form,ECHHAP,0.49827
+graminoid,growth form,EUPCAN,0.89906
+graminoid,growth form,KIGAFR,0.89758
+graminoid,growth form,PANDEU,0.50066
+graminoid,growth form,SARVER,0.50039
+graminoid,growth form,CHLPYC,0.5001
+graminoid,growth form,ERAEXA,0.50048
+graminoid,growth form,CYP,0.5013
+graminoid,growth form,DIHAMP,0.50264
+graminoid,growth form,ERAASP,0.50068
+graminoid,growth form,ERINUB,0.49925
+graminoid,growth form,KYLNER,0.50066
+graminoid,growth form,PELCAL,0.89863
+graminoid,growth form,SPOPEL,0.50082
+graminoid,growth form,SPOSTA,0.499
+graminoid,growth form,HYPDIS,0.49969
+graminoid,growth form,CHLROX,0.50084
+graminoid,growth form,LONERI,0.89869
+graminoid,growth form,SETPAL,0.50162
+graminoid,growth form,SETSPH,0.49948
+graminoid,growth form,AEPMEL,0.68752
+graminoid,growth form,OUROUR,0.44976
+graminoid,growth form,SYNCAF,0.61755
+graminoid,growth form,ALCBUS,0.50833
+graminoid,growth form,EQUBUR,0.54705
+graminoid,growth form,CONTAU,0.5242
+graminoid,growth form,DAMKOR,0.53169
+graminoid,growth form,GAZTHO,0.54648
+graminoid,growth form,GAZGRA,0.60896
+graminoid,growth form,GIRCAM,0.8823
+graminoid,growth form,HETBRU,0.86453
+graminoid,growth form,HIPAMP,0.45082
+graminoid,growth form,KOBELL,0.50037
+graminoid,growth form,LOXAFR,0.85664
+graminoid,growth form,MADKIR,0.84324
+graminoid,growth form,TRASCR,0.45074
+graminoid,growth form,PAPANU,0.79257
+graminoid,growth form,PEDCAP,0.45114
+graminoid,growth form,PHAAET,0.45018
+graminoid,growth form,PROCAP,0.83008
+graminoid,growth form,REDRED,0.45072
+graminoid,growth form,RHAPUM,0.45237
+graminoid,growth form,TAUORY,0.64477
+graminoid,growth form,CANAUR,0.5125
+graminoid,growth form,CANMES,0.75942
+graminoid,growth form,ACIJUB,0.53813
+graminoid,growth form,CROCRO,0.52406
+graminoid,growth form,LEPSER,0.40629
+graminoid,growth form,CARCAR,0.61559
+graminoid,growth form,LYCPIC,0.50142
+graminoid,growth form,PANLEO,0.54281
+graminoid,growth form,PANPAR,0.54781
+herb,growth form,ACASEN,0.90118
+herb,growth form,ACATOR,0.90072
+herb,growth form,ANDGRE,0.90163
+herb,growth form,ARI,0.89877
+herb,growth form,BRASEM,0.90132
+herb,growth form,CHLGAY,0.8983
+herb,growth form,COMMOL,0.90086
+herb,growth form,CROMAC,0.89933
+herb,growth form,CYNDAC,0.89941
+herb,growth form,GREBIC,0.90135
+herb,growth form,HARSCH,0.8989
+herb,growth form,HIB,0.50079
+herb,growth form,HYPFIL,0.90021
+herb,growth form,HYPRUF,0.90053
+herb,growth form,INDHOC,0.89981
+herb,growth form,PANMAX,0.90054
+herb,growth form,PENMEZ,0.90004
+herb,growth form,SID,0.49936
+herb,growth form,SOLINC,0.50107
+herb,growth form,SPOFES,0.90003
+herb,growth form,SPOIOC,0.89982
+herb,growth form,SPOPYR,0.89893
+herb,growth form,THETRI,0.90052
+herb,growth form,BOTINS,0.90089
+herb,growth form,DIGMAC,0.90082
+herb,growth form,DIGSCA,0.89786
+herb,growth form,DINRET,0.90133
+herb,growth form,EUSPAS,0.90102
+herb,growth form,HETCON,0.90089
+herb,growth form,PANCOL,0.90004
+herb,growth form,SPOSPI,0.8992
+herb,growth form,DIGDIA,0.90006
+herb,growth form,ERACIL,0.90089
+herb,growth form,ERATEN,0.89949
+herb,growth form,MICKUN,0.90096
+herb,growth form,PSIJAE,0.90054
+herb,growth form,BALAEG,0.89951
+herb,growth form,DUOKIL,0.90091
+herb,growth form,PENSTR,0.90123
+herb,growth form,SPOFIM,0.90172
+herb,growth form,ACAROB,0.89978
+herb,growth form,ACASEY,0.90086
+herb,growth form,COMMIAFR,0.89948
+herb,growth form,COROVA,0.90009
+herb,growth form,GREFAL,0.90038
+herb,growth form,GRETRI,0.90043
+herb,growth form,HIBLUN,0.50192
+herb,growth form,MAETRI,0.89919
+herb,growth form,OLE,0.90018
+herb,growth form,PAVASS,0.898
+herb,growth form,PHYSEP,0.89902
+herb,growth form,ABU,0.49938
+herb,growth form,ACAFRU,0.89926
+herb,growth form,ALBHAR,0.89974
+herb,growth form,ALBU,0.49834
+herb,growth form,ALLRUB,0.90028
+herb,growth form,ALOMAC,0.50057
+herb,growth form,ALOSEC,0.50056
+herb,growth form,CAPTOM,0.90001
+herb,growth form,CECCIL,0.90007
+herb,growth form,CISQUA,0.5017
+herb,growth form,CISROT,0.50188
+herb,growth form,COMMEAFR,0.5023
+herb,growth form,COMMER,0.90029
+herb,growth form,COMSCH,0.90073
+herb,growth form,CRODIC,0.90148
+herb,growth form,CYPH,0.5003
+herb,growth form,DIGVEL,0.90049
+herb,growth form,EMICOC,0.9019
+herb,growth form,FICGLU,0.90079
+herb,growth form,FICING,0.90002
+herb,growth form,FICTHI,0.89955
+herb,growth form,HELSTE,0.50334
+herb,growth form,HOSOPP,0.90001
+herb,growth form,HYPFOR,0.50032
+herb,growth form,INDBAS,0.50037
+herb,growth form,IPOOBS,0.50015
+herb,growth form,JAS,0.89929
+herb,growth form,KAL,0.50021
+herb,growth form,KEDFOE,0.50049
+herb,growth form,LIPUKA,0.90019
+herb,growth form,OCI,0.89948
+herb,growth form,PAPCAP,0.90016
+herb,growth form,PAVPAT,0.49711
+herb,growth form,PUPLAP,0.89891
+herb,growth form,SCLBIR,0.9011
+herb,growth form,SENDID,0.50096
+herb,growth form,SENEHR,0.5016
+herb,growth form,SENSUF,0.50159
+herb,growth form,SOLDEN,0.899
+herb,growth form,TRIEIC,0.90094
+herb,growth form,TURFIS,0.89821
+herb,growth form,XIMCAF,0.8989
+herb,growth form,ZIZ,0.89981
+herb,growth form,PANREP,0.89922
+herb,growth form,ANDSCH,0.90074
+herb,growth form,CYMEXC,0.89936
+herb,growth form,DIGTER,0.90095
+herb,growth form,PHRMAU,0.89949
+herb,growth form,TYPCAP,0.90097
+herb,growth form,BLEACA,0.49863
+herb,growth form,IBO,0.89907
+herb,growth form,RHOREV,0.89961
+herb,growth form,ACHASP,0.50209
+herb,growth form,BOSAUG,0.89954
+herb,growth form,SOLNIG,0.90019
+herb,growth form,ACAXAN,0.90007
+herb,growth form,CROSPI,0.89968
+herb,growth form,DIGMIL,0.89912
+herb,growth form,ECHHAP,0.90058
+herb,growth form,EUPCAN,0.9004
+herb,growth form,KIGAFR,0.90052
+herb,growth form,PANDEU,0.89978
+herb,growth form,SARVER,0.90016
+herb,growth form,CHLPYC,0.90079
+herb,growth form,ERAEXA,0.90011
+herb,growth form,CYP,0.90043
+herb,growth form,DIHAMP,0.9008
+herb,growth form,ERAASP,0.89987
+herb,growth form,ERINUB,0.89924
+herb,growth form,KYLNER,0.90185
+herb,growth form,PELCAL,0.50112
+herb,growth form,SPOPEL,0.89985
+herb,growth form,SPOSTA,0.90105
+herb,growth form,HYPDIS,0.89874
+herb,growth form,CHLROX,0.89933
+herb,growth form,LONERI,0.90087
+herb,growth form,SETPAL,0.89897
+herb,growth form,SETSPH,0.9016
+herb,growth form,AEPMEL,0.86395
+herb,growth form,OUROUR,0.84784
+herb,growth form,SYNCAF,0.85532
+herb,growth form,ALCBUS,0.87078
+herb,growth form,EQUBUR,0.87776
+herb,growth form,CONTAU,0.87434
+herb,growth form,DAMKOR,0.86838
+herb,growth form,GAZTHO,0.87316
+herb,growth form,GAZGRA,0.8701
+herb,growth form,GIRCAM,0.84612
+herb,growth form,HETBRU,0.81763
+herb,growth form,HIPAMP,0.87344
+herb,growth form,KOBELL,0.87989
+herb,growth form,LOXAFR,0.84462
+herb,growth form,MADKIR,0.82188
+herb,growth form,TRASCR,0.84855
+herb,growth form,PAPANU,0.86542
+herb,growth form,PEDCAP,0.86905
+herb,growth form,PHAAET,0.87387
+herb,growth form,PROCAP,0.83327
+herb,growth form,REDRED,0.83495
+herb,growth form,RHAPUM,0.87631
+herb,growth form,TAUORY,0.88039
+herb,growth form,CANAUR,0.82949
+herb,growth form,CANMES,0.74042
+herb,growth form,ACIJUB,0.84675
+herb,growth form,CROCRO,0.8575
+herb,growth form,LEPSER,0.78859
+herb,growth form,CARCAR,0.80883
+herb,growth form,LYCPIC,0.86061
+herb,growth form,PANLEO,0.86307
+herb,growth form,PANPAR,0.86015
+annual,growth form,ACASEN,0.8992
+annual,growth form,ACATOR,0.90015
+annual,growth form,ANDGRE,0.90001
+annual,growth form,ARI,0.89951
+annual,growth form,BRASEM,0.89882
+annual,growth form,CHLGAY,0.90102
+annual,growth form,COMMOL,0.89986
+annual,growth form,CROMAC,0.89929
+annual,growth form,CYNDAC,0.90099
+annual,growth form,GREBIC,0.90158
+annual,growth form,HARSCH,0.89916
+annual,growth form,HIB,0.89954
+annual,growth form,HYPFIL,0.90065
+annual,growth form,HYPRUF,0.90009
+annual,growth form,INDHOC,0.49972
+annual,growth form,PANMAX,0.90035
+annual,growth form,PENMEZ,0.89991
+annual,growth form,SID,0.8991
+annual,growth form,SOLINC,0.89882
+annual,growth form,SPOFES,0.90029
+annual,growth form,SPOIOC,0.90173
+annual,growth form,SPOPYR,0.8995
+annual,growth form,THETRI,0.89993
+annual,growth form,BOTINS,0.89911
+annual,growth form,DIGMAC,0.89863
+annual,growth form,DIGSCA,0.90104
+annual,growth form,DINRET,0.9
+annual,growth form,EUSPAS,0.89996
+annual,growth form,HETCON,0.90016
+annual,growth form,PANCOL,0.89902
+annual,growth form,SPOSPI,0.89901
+annual,growth form,DIGDIA,0.90074
+annual,growth form,ERACIL,0.89996
+annual,growth form,ERATEN,0.899
+annual,growth form,MICKUN,0.89927
+annual,growth form,PSIJAE,0.89832
+annual,growth form,BALAEG,0.89857
+annual,growth form,DUOKIL,0.9011
+annual,growth form,PENSTR,0.90083
+annual,growth form,SPOFIM,0.89861
+annual,growth form,ACAROB,0.89656
+annual,growth form,ACASEY,0.89956
+annual,growth form,COMMIAFR,0.89926
+annual,growth form,COROVA,0.90149
+annual,growth form,GREFAL,0.90029
+annual,growth form,GRETRI,0.9005
+annual,growth form,HIBLUN,0.89925
+annual,growth form,MAETRI,0.89959
+annual,growth form,OLE,0.89959
+annual,growth form,PAVASS,0.90133
+annual,growth form,PHYSEP,0.8987
+annual,growth form,ABU,0.89982
+annual,growth form,ACAFRU,0.90117
+annual,growth form,ALBHAR,0.89966
+annual,growth form,ALBU,0.8993
+annual,growth form,ALLRUB,0.89997
+annual,growth form,ALOMAC,0.89986
+annual,growth form,ALOSEC,0.90048
+annual,growth form,CAPTOM,0.90027
+annual,growth form,CECCIL,0.89963
+annual,growth form,CISQUA,0.89942
+annual,growth form,CISROT,0.89932
+annual,growth form,COMMEAFR,0.90058
+annual,growth form,COMMER,0.89903
+annual,growth form,COMSCH,0.89988
+annual,growth form,CRODIC,0.89911
+annual,growth form,CYPH,0.89911
+annual,growth form,DIGVEL,0.90026
+annual,growth form,EMICOC,0.50057
+annual,growth form,FICGLU,0.90015
+annual,growth form,FICING,0.89984
+annual,growth form,FICTHI,0.90106
+annual,growth form,HELSTE,0.90086
+annual,growth form,HOSOPP,0.9008
+annual,growth form,HYPFOR,0.89989
+annual,growth form,INDBAS,0.89975
+annual,growth form,IPOOBS,0.89978
+annual,growth form,JAS,0.8998
+annual,growth form,KAL,0.90068
+annual,growth form,KEDFOE,0.90015
+annual,growth form,LIPUKA,0.90013
+annual,growth form,OCI,0.49767
+annual,growth form,PAPCAP,0.89917
+annual,growth form,PAVPAT,0.90032
+annual,growth form,PUPLAP,0.50025
+annual,growth form,SCLBIR,0.90046
+annual,growth form,SENDID,0.9003
+annual,growth form,SENEHR,0.90044
+annual,growth form,SENSUF,0.90059
+annual,growth form,SOLDEN,0.89946
+annual,growth form,TRIEIC,0.89991
+annual,growth form,TURFIS,0.90041
+annual,growth form,XIMCAF,0.89792
+annual,growth form,ZIZ,0.89992
+annual,growth form,PANREP,0.8988
+annual,growth form,ANDSCH,0.90117
+annual,growth form,CYMEXC,0.89932
+annual,growth form,DIGTER,0.90151
+annual,growth form,PHRMAU,0.89977
+annual,growth form,TYPCAP,0.89951
+annual,growth form,BLEACA,0.89939
+annual,growth form,IBO,0.9
+annual,growth form,RHOREV,0.89921
+annual,growth form,ACHASP,0.89945
+annual,growth form,BOSAUG,0.90079
+annual,growth form,SOLNIG,0.49808
+annual,growth form,ACAXAN,0.90145
+annual,growth form,CROSPI,0.49877
+annual,growth form,DIGMIL,0.89946
+annual,growth form,ECHHAP,0.89938
+annual,growth form,EUPCAN,0.89921
+annual,growth form,KIGAFR,0.89918
+annual,growth form,PANDEU,0.89934
+annual,growth form,SARVER,0.90002
+annual,growth form,CHLPYC,0.89724
+annual,growth form,ERAEXA,0.89884
+annual,growth form,CYP,0.90039
+annual,growth form,DIHAMP,0.89828
+annual,growth form,ERAASP,0.89888
+annual,growth form,ERINUB,0.90058
+annual,growth form,KYLNER,0.90041
+annual,growth form,PELCAL,0.90148
+annual,growth form,SPOPEL,0.90096
+annual,growth form,SPOSTA,0.90079
+annual,growth form,HYPDIS,0.8997
+annual,growth form,CHLROX,0.89962
+annual,growth form,LONERI,0.89997
+annual,growth form,SETPAL,0.90068
+annual,growth form,SETSPH,0.90049
+annual,growth form,AEPMEL,0.87897
+annual,growth form,OUROUR,0.84805
+annual,growth form,SYNCAF,0.88269
+annual,growth form,ALCBUS,0.8831
+annual,growth form,EQUBUR,0.88308
+annual,growth form,CONTAU,0.87946
+annual,growth form,DAMKOR,0.8791
+annual,growth form,GAZTHO,0.8797
+annual,growth form,GAZGRA,0.88125
+annual,growth form,GIRCAM,0.8771
+annual,growth form,HETBRU,0.88426
+annual,growth form,HIPAMP,0.87318
+annual,growth form,KOBELL,0.87713
+annual,growth form,LOXAFR,0.88888
+annual,growth form,MADKIR,0.87127
+annual,growth form,TRASCR,0.84811
+annual,growth form,PAPANU,0.88136
+annual,growth form,PEDCAP,0.86891
+annual,growth form,PHAAET,0.87398
+annual,growth form,PROCAP,0.88291
+annual,growth form,REDRED,0.83195
+annual,growth form,RHAPUM,0.87592
+annual,growth form,TAUORY,0.87986
+annual,growth form,CANAUR,0.83379
+annual,growth form,CANMES,0.78326
+annual,growth form,ACIJUB,0.85217
+annual,growth form,CROCRO,0.86119
+annual,growth form,LEPSER,0.78743
+annual,growth form,CARCAR,0.83233
+annual,growth form,LYCPIC,0.86549
+annual,growth form,PANLEO,0.87031
+annual,growth form,PANPAR,0.86304
+12,group,ACASEN,0.50109
+12,group,ACATOR,0.90065
+12,group,ANDGRE,0.89973
+12,group,ARI,0.90226
+12,group,BRASEM,0.90015
+12,group,CHLGAY,0.89866
+12,group,COMMOL,0.8987
+12,group,CROMAC,0.89992
+12,group,CYNDAC,0.89973
+12,group,GREBIC,0.90006
+12,group,HARSCH,0.89881
+12,group,HIB,0.89988
+12,group,HYPFIL,0.90042
+12,group,HYPRUF,0.89931
+12,group,INDHOC,0.8989
+12,group,PANMAX,0.90025
+12,group,PENMEZ,0.89989
+12,group,SID,0.89882
+12,group,SOLINC,0.90058
+12,group,SPOFES,0.90045
+12,group,SPOIOC,0.89985
+12,group,SPOPYR,0.90015
+12,group,THETRI,0.89966
+12,group,BOTINS,0.89966
+12,group,DIGMAC,0.90005
+12,group,DIGSCA,0.90173
+12,group,DINRET,0.89916
+12,group,EUSPAS,0.89921
+12,group,HETCON,0.90037
+12,group,PANCOL,0.90082
+12,group,SPOSPI,0.89905
+12,group,DIGDIA,0.90059
+12,group,ERACIL,0.90031
+12,group,ERATEN,0.89919
+12,group,MICKUN,0.89979
+12,group,PSIJAE,0.89846
+12,group,BALAEG,0.89962
+12,group,DUOKIL,0.90029
+12,group,PENSTR,0.90026
+12,group,SPOFIM,0.90226
+12,group,ACAROB,0.90012
+12,group,ACASEY,0.89925
+12,group,COMMIAFR,0.90092
+12,group,COROVA,0.90118
+12,group,GREFAL,0.90029
+12,group,GRETRI,0.90106
+12,group,HIBLUN,0.9016
+12,group,MAETRI,0.90243
+12,group,OLE,0.89875
+12,group,PAVASS,0.90262
+12,group,PHYSEP,0.89923
+12,group,ABU,0.90013
+12,group,ACAFRU,0.89973
+12,group,ALBHAR,0.89962
+12,group,ALBU,0.9002
+12,group,ALLRUB,0.89877
+12,group,ALOMAC,0.90035
+12,group,ALOSEC,0.90118
+12,group,CAPTOM,0.89712
+12,group,CECCIL,0.89993
+12,group,CISQUA,0.90151
+12,group,CISROT,0.90052
+12,group,COMMEAFR,0.89915
+12,group,COMMER,0.89882
+12,group,COMSCH,0.89991
+12,group,CRODIC,0.90066
+12,group,CYPH,0.90098
+12,group,DIGVEL,0.90075
+12,group,EMICOC,0.89998
+12,group,FICGLU,0.89976
+12,group,FICING,0.89923
+12,group,FICTHI,0.9006
+12,group,HELSTE,0.90052
+12,group,HOSOPP,0.89939
+12,group,HYPFOR,0.9016
+12,group,INDBAS,0.90178
+12,group,IPOOBS,0.90001
+12,group,JAS,0.90202
+12,group,KAL,0.89911
+12,group,KEDFOE,0.89947
+12,group,LIPUKA,0.89981
+12,group,OCI,0.89967
+12,group,PAPCAP,0.89931
+12,group,PAVPAT,0.8988
+12,group,PUPLAP,0.90099
+12,group,SCLBIR,0.89976
+12,group,SENDID,0.89989
+12,group,SENEHR,0.90135
+12,group,SENSUF,0.90098
+12,group,SOLDEN,0.90008
+12,group,TRIEIC,0.8995
+12,group,TURFIS,0.90014
+12,group,XIMCAF,0.89895
+12,group,ZIZ,0.90039
+12,group,PANREP,0.90137
+12,group,ANDSCH,0.89928
+12,group,CYMEXC,0.89949
+12,group,DIGTER,0.9017
+12,group,PHRMAU,0.90075
+12,group,TYPCAP,0.8998
+12,group,BLEACA,0.90023
+12,group,IBO,0.90203
+12,group,RHOREV,0.89905
+12,group,ACHASP,0.89956
+12,group,BOSAUG,0.89929
+12,group,SOLNIG,0.90109
+12,group,ACAXAN,0.90082
+12,group,CROSPI,0.90091
+12,group,DIGMIL,0.90151
+12,group,ECHHAP,0.9015
+12,group,EUPCAN,0.90028
+12,group,KIGAFR,0.8996
+12,group,PANDEU,0.89846
+12,group,SARVER,0.89872
+12,group,CHLPYC,0.90051
+12,group,ERAEXA,0.90096
+12,group,CYP,0.90074
+12,group,DIHAMP,0.89867
+12,group,ERAASP,0.89961
+12,group,ERINUB,0.89914
+12,group,KYLNER,0.89917
+12,group,PELCAL,0.90069
+12,group,SPOPEL,0.89968
+12,group,SPOSTA,0.89911
+12,group,HYPDIS,0.90181
+12,group,CHLROX,0.89984
+12,group,LONERI,0.89971
+12,group,SETPAL,0.89985
+12,group,SETSPH,0.90077
+12,group,AEPMEL,0.87911
+12,group,OUROUR,0.84745
+12,group,SYNCAF,0.88409
+12,group,ALCBUS,0.88589
+12,group,EQUBUR,0.88347
+12,group,CONTAU,0.88488
+12,group,DAMKOR,0.87936
+12,group,GAZTHO,0.88639
+12,group,GAZGRA,0.88565
+12,group,GIRCAM,0.87777
+12,group,HETBRU,0.88899
+12,group,HIPAMP,0.87134
+12,group,KOBELL,0.87876
+12,group,LOXAFR,0.8853
+12,group,MADKIR,0.88747
+12,group,TRASCR,0.85
+12,group,PAPANU,0.88189
+12,group,PEDCAP,0.8696
+12,group,PHAAET,0.87217
+12,group,PROCAP,0.8894
+12,group,REDRED,0.83397
+12,group,RHAPUM,0.87682
+12,group,TAUORY,0.88061
+12,group,CANAUR,0.83619
+12,group,CANMES,0.79828
+12,group,ACIJUB,0.85477
+12,group,CROCRO,0.86636
+12,group,LEPSER,0.78981
+12,group,CARCAR,0.83646
+12,group,LYCPIC,0.86822
+12,group,PANLEO,0.86901
+12,group,PANPAR,0.86708
+9,group,ACASEN,0.90012
+9,group,ACATOR,0.4971
+9,group,ANDGRE,0.50087
+9,group,ARI,0.49716
+9,group,BRASEM,0.49886
+9,group,CHLGAY,0.89975
+9,group,COMMOL,0.89891
+9,group,CROMAC,0.49936
+9,group,CYNDAC,0.50018
+9,group,GREBIC,0.4984
+9,group,HARSCH,0.50213
+9,group,HIB,0.49776
+9,group,HYPFIL,0.49888
+9,group,HYPRUF,0.90009
+9,group,INDHOC,0.5037
+9,group,PANMAX,0.49849
+9,group,PENMEZ,0.50019
+9,group,SID,0.49979
+9,group,SOLINC,0.50098
+9,group,SPOFES,0.89931
+9,group,SPOIOC,0.49933
+9,group,SPOPYR,0.4999
+9,group,THETRI,0.49836
+9,group,BOTINS,0.49891
+9,group,DIGMAC,0.49966
+9,group,DIGSCA,0.90081
+9,group,DINRET,0.89982
+9,group,EUSPAS,0.49929
+9,group,HETCON,0.50021
+9,group,PANCOL,0.4996
+9,group,SPOSPI,0.89924
+9,group,DIGDIA,0.89784
+9,group,ERACIL,0.89931
+9,group,ERATEN,0.49864
+9,group,MICKUN,0.90092
+9,group,PSIJAE,0.90003
+9,group,BALAEG,0.50052
+9,group,DUOKIL,0.90042
+9,group,PENSTR,0.90101
+9,group,SPOFIM,0.90196
+9,group,ACAROB,0.89986
+9,group,ACASEY,0.90274
+9,group,COMMIAFR,0.89996
+9,group,COROVA,0.90071
+9,group,GREFAL,0.90052
+9,group,GRETRI,0.90063
+9,group,HIBLUN,0.89986
+9,group,MAETRI,0.89971
+9,group,OLE,0.90118
+9,group,PAVASS,0.89941
+9,group,PHYSEP,0.89971
+9,group,ABU,0.90062
+9,group,ACAFRU,0.90178
+9,group,ALBHAR,0.89951
+9,group,ALBU,0.90063
+9,group,ALLRUB,0.9007
+9,group,ALOMAC,0.89913
+9,group,ALOSEC,0.90016
+9,group,CAPTOM,0.89885
+9,group,CECCIL,0.90044
+9,group,CISQUA,0.90022
+9,group,CISROT,0.90053
+9,group,COMMEAFR,0.8993
+9,group,COMMER,0.90027
+9,group,COMSCH,0.90071
+9,group,CRODIC,0.90082
+9,group,CYPH,0.89902
+9,group,DIGVEL,0.89967
+9,group,EMICOC,0.90067
+9,group,FICGLU,0.89989
+9,group,FICING,0.89878
+9,group,FICTHI,0.89881
+9,group,HELSTE,0.90124
+9,group,HOSOPP,0.90118
+9,group,HYPFOR,0.89995
+9,group,INDBAS,0.89906
+9,group,IPOOBS,0.9017
+9,group,JAS,0.8992
+9,group,KAL,0.90028
+9,group,KEDFOE,0.90161
+9,group,LIPUKA,0.89789
+9,group,OCI,0.90118
+9,group,PAPCAP,0.90103
+9,group,PAVPAT,0.9001
+9,group,PUPLAP,0.89939
+9,group,SCLBIR,0.90082
+9,group,SENDID,0.89904
+9,group,SENEHR,0.90046
+9,group,SENSUF,0.89993
+9,group,SOLDEN,0.9004
+9,group,TRIEIC,0.89986
+9,group,TURFIS,0.90157
+9,group,XIMCAF,0.90073
+9,group,ZIZ,0.89957
+9,group,PANREP,0.90126
+9,group,ANDSCH,0.89999
+9,group,CYMEXC,0.90153
+9,group,DIGTER,0.90102
+9,group,PHRMAU,0.90147
+9,group,TYPCAP,0.90059
+9,group,BLEACA,0.8991
+9,group,IBO,0.89968
+9,group,RHOREV,0.90012
+9,group,ACHASP,0.90112
+9,group,BOSAUG,0.9006
+9,group,SOLNIG,0.89971
+9,group,ACAXAN,0.8998
+9,group,CROSPI,0.90141
+9,group,DIGMIL,0.90011
+9,group,ECHHAP,0.90046
+9,group,EUPCAN,0.89946
+9,group,KIGAFR,0.90189
+9,group,PANDEU,0.90061
+9,group,SARVER,0.90053
+9,group,CHLPYC,0.9006
+9,group,ERAEXA,0.90006
+9,group,CYP,0.90131
+9,group,DIHAMP,0.90049
+9,group,ERAASP,0.90042
+9,group,ERINUB,0.89859
+9,group,KYLNER,0.90081
+9,group,PELCAL,0.90082
+9,group,SPOPEL,0.90119
+9,group,SPOSTA,0.899
+9,group,HYPDIS,0.89878
+9,group,CHLROX,0.90061
+9,group,LONERI,0.89962
+9,group,SETPAL,0.90069
+9,group,SETSPH,0.90123
+9,group,AEPMEL,0.58424
+9,group,OUROUR,0.44898
+9,group,SYNCAF,0.4501
+9,group,ALCBUS,0.56383
+9,group,EQUBUR,0.51462
+9,group,CONTAU,0.61335
+9,group,DAMKOR,0.61676
+9,group,GAZTHO,0.62023
+9,group,GAZGRA,0.61175
+9,group,GIRCAM,0.77858
+9,group,HETBRU,0.8682
+9,group,HIPAMP,0.57212
+9,group,KOBELL,0.7242
+9,group,LOXAFR,0.80165
+9,group,MADKIR,0.82102
+9,group,TRASCR,0.56567
+9,group,PAPANU,0.81802
+9,group,PEDCAP,0.7141
+9,group,PHAAET,0.63227
+9,group,PROCAP,0.8617
+9,group,REDRED,0.5923
+9,group,RHAPUM,0.50059
+9,group,TAUORY,0.74624
+9,group,CANAUR,0.54957
+9,group,CANMES,0.73904
+9,group,ACIJUB,0.59829
+9,group,CROCRO,0.60017
+9,group,LEPSER,0.45038
+9,group,CARCAR,0.70127
+9,group,LYCPIC,0.58855
+9,group,PANLEO,0.6024
+9,group,PANPAR,0.63044
+8,group,ACASEN,0.8995
+8,group,ACATOR,0.90015
+8,group,ANDGRE,0.90046
+8,group,ARI,0.89899
+8,group,BRASEM,0.89943
+8,group,CHLGAY,0.50116
+8,group,COMMOL,0.50107
+8,group,CROMAC,0.89921
+8,group,CYNDAC,0.89852
+8,group,GREBIC,0.89923
+8,group,HARSCH,0.90028
+8,group,HIB,0.90093
+8,group,HYPFIL,0.89904
+8,group,HYPRUF,0.89901
+8,group,INDHOC,0.89883
+8,group,PANMAX,0.90132
+8,group,PENMEZ,0.90057
+8,group,SID,0.9008
+8,group,SOLINC,0.90027
+8,group,SPOFES,0.50065
+8,group,SPOIOC,0.90019
+8,group,SPOPYR,0.90003
+8,group,THETRI,0.90036
+8,group,BOTINS,0.90006
+8,group,DIGMAC,0.90038
+8,group,DIGSCA,0.89885
+8,group,DINRET,0.90021
+8,group,EUSPAS,0.89799
+8,group,HETCON,0.89944
+8,group,PANCOL,0.90107
+8,group,SPOSPI,0.50119
+8,group,DIGDIA,0.49832
+8,group,ERACIL,0.50335
+8,group,ERATEN,0.89998
+8,group,MICKUN,0.49847
+8,group,PSIJAE,0.90117
+8,group,BALAEG,0.90144
+8,group,DUOKIL,0.50032
+8,group,PENSTR,0.8992
+8,group,SPOFIM,0.49975
+8,group,ACAROB,0.90038
+8,group,ACASEY,0.89971
+8,group,COMMIAFR,0.9002
+8,group,COROVA,0.89907
+8,group,GREFAL,0.89843
+8,group,GRETRI,0.90008
+8,group,HIBLUN,0.9005
+8,group,MAETRI,0.89911
+8,group,OLE,0.90126
+8,group,PAVASS,0.90242
+8,group,PHYSEP,0.89995
+8,group,ABU,0.89871
+8,group,ACAFRU,0.89913
+8,group,ALBHAR,0.89852
+8,group,ALBU,0.8995
+8,group,ALLRUB,0.90008
+8,group,ALOMAC,0.9001
+8,group,ALOSEC,0.89955
+8,group,CAPTOM,0.89987
+8,group,CECCIL,0.90153
+8,group,CISQUA,0.89952
+8,group,CISROT,0.89984
+8,group,COMMEAFR,0.90081
+8,group,COMMER,0.90035
+8,group,COMSCH,0.901
+8,group,CRODIC,0.89855
+8,group,CYPH,0.90085
+8,group,DIGVEL,0.9011
+8,group,EMICOC,0.89867
+8,group,FICGLU,0.90167
+8,group,FICING,0.90025
+8,group,FICTHI,0.90229
+8,group,HELSTE,0.89989
+8,group,HOSOPP,0.9002
+8,group,HYPFOR,0.90142
+8,group,INDBAS,0.90212
+8,group,IPOOBS,0.8999
+8,group,JAS,0.89998
+8,group,KAL,0.90143
+8,group,KEDFOE,0.89952
+8,group,LIPUKA,0.89927
+8,group,OCI,0.90032
+8,group,PAPCAP,0.90137
+8,group,PAVPAT,0.89879
+8,group,PUPLAP,0.9001
+8,group,SCLBIR,0.90024
+8,group,SENDID,0.89819
+8,group,SENEHR,0.89998
+8,group,SENSUF,0.89947
+8,group,SOLDEN,0.89893
+8,group,TRIEIC,0.89903
+8,group,TURFIS,0.89838
+8,group,XIMCAF,0.89928
+8,group,ZIZ,0.89999
+8,group,PANREP,0.89977
+8,group,ANDSCH,0.89966
+8,group,CYMEXC,0.89955
+8,group,DIGTER,0.90057
+8,group,PHRMAU,0.8988
+8,group,TYPCAP,0.90005
+8,group,BLEACA,0.89797
+8,group,IBO,0.90006
+8,group,RHOREV,0.90022
+8,group,ACHASP,0.90034
+8,group,BOSAUG,0.90131
+8,group,SOLNIG,0.90045
+8,group,ACAXAN,0.90088
+8,group,CROSPI,0.89981
+8,group,DIGMIL,0.90059
+8,group,ECHHAP,0.89839
+8,group,EUPCAN,0.89936
+8,group,KIGAFR,0.90019
+8,group,PANDEU,0.90021
+8,group,SARVER,0.89962
+8,group,CHLPYC,0.90038
+8,group,ERAEXA,0.89866
+8,group,CYP,0.89917
+8,group,DIHAMP,0.89931
+8,group,ERAASP,0.89984
+8,group,ERINUB,0.90099
+8,group,KYLNER,0.90058
+8,group,PELCAL,0.90132
+8,group,SPOPEL,0.9003
+8,group,SPOSTA,0.90049
+8,group,HYPDIS,0.90048
+8,group,CHLROX,0.89979
+8,group,LONERI,0.90015
+8,group,SETPAL,0.90046
+8,group,SETSPH,0.90079
+8,group,AEPMEL,0.86435
+8,group,OUROUR,0.84898
+8,group,SYNCAF,0.88264
+8,group,ALCBUS,0.87764
+8,group,EQUBUR,0.88375
+8,group,CONTAU,0.86057
+8,group,DAMKOR,0.85376
+8,group,GAZTHO,0.85865
+8,group,GAZGRA,0.86784
+8,group,GIRCAM,0.88211
+8,group,HETBRU,0.88878
+8,group,HIPAMP,0.85244
+8,group,KOBELL,0.86277
+8,group,LOXAFR,0.88929
+8,group,MADKIR,0.88719
+8,group,TRASCR,0.84892
+8,group,PAPANU,0.88625
+8,group,PEDCAP,0.84673
+8,group,PHAAET,0.85127
+8,group,PROCAP,0.88775
+8,group,REDRED,0.83446
+8,group,RHAPUM,0.87675
+8,group,TAUORY,0.85838
+8,group,CANAUR,0.8248
+8,group,CANMES,0.79869
+8,group,ACIJUB,0.84453
+8,group,CROCRO,0.85707
+8,group,LEPSER,0.78883
+8,group,CARCAR,0.83082
+8,group,LYCPIC,0.86054
+8,group,PANLEO,0.86323
+8,group,PANPAR,0.86124
+7,group,ACASEN,0.89995
+7,group,ACATOR,0.89948
+7,group,ANDGRE,0.90098
+7,group,ARI,0.90034
+7,group,BRASEM,0.90146
+7,group,CHLGAY,0.89836
+7,group,COMMOL,0.89955
+7,group,CROMAC,0.90157
+7,group,CYNDAC,0.89935
+7,group,GREBIC,0.90001
+7,group,HARSCH,0.89996
+7,group,HIB,0.90143
+7,group,HYPFIL,0.89987
+7,group,HYPRUF,0.50072
+7,group,INDHOC,0.90218
+7,group,PANMAX,0.90017
+7,group,PENMEZ,0.89954
+7,group,SID,0.90081
+7,group,SOLINC,0.90066
+7,group,SPOFES,0.90055
+7,group,SPOIOC,0.90027
+7,group,SPOPYR,0.90083
+7,group,THETRI,0.89986
+7,group,BOTINS,0.89929
+7,group,DIGMAC,0.90051
+7,group,DIGSCA,0.50083
+7,group,DINRET,0.49895
+7,group,EUSPAS,0.90007
+7,group,HETCON,0.89983
+7,group,PANCOL,0.90063
+7,group,SPOSPI,0.89907
+7,group,DIGDIA,0.8988
+7,group,ERACIL,0.90046
+7,group,ERATEN,0.89966
+7,group,MICKUN,0.90038
+7,group,PSIJAE,0.89935
+7,group,BALAEG,0.8985
+7,group,DUOKIL,0.89981
+7,group,PENSTR,0.89906
+7,group,SPOFIM,0.89951
+7,group,ACAROB,0.90044
+7,group,ACASEY,0.90005
+7,group,COMMIAFR,0.90152
+7,group,COROVA,0.90005
+7,group,GREFAL,0.90052
+7,group,GRETRI,0.90254
+7,group,HIBLUN,0.89965
+7,group,MAETRI,0.90128
+7,group,OLE,0.90048
+7,group,PAVASS,0.90003
+7,group,PHYSEP,0.89899
+7,group,ABU,0.90019
+7,group,ACAFRU,0.89962
+7,group,ALBHAR,0.89828
+7,group,ALBU,0.89951
+7,group,ALLRUB,0.8996
+7,group,ALOMAC,0.90152
+7,group,ALOSEC,0.89966
+7,group,CAPTOM,0.89954
+7,group,CECCIL,0.89897
+7,group,CISQUA,0.89813
+7,group,CISROT,0.89788
+7,group,COMMEAFR,0.89767
+7,group,COMMER,0.90102
+7,group,COMSCH,0.89978
+7,group,CRODIC,0.89943
+7,group,CYPH,0.89934
+7,group,DIGVEL,0.90131
+7,group,EMICOC,0.90106
+7,group,FICGLU,0.89964
+7,group,FICING,0.9
+7,group,FICTHI,0.89951
+7,group,HELSTE,0.89891
+7,group,HOSOPP,0.89976
+7,group,HYPFOR,0.90012
+7,group,INDBAS,0.89932
+7,group,IPOOBS,0.89963
+7,group,JAS,0.89985
+7,group,KAL,0.89933
+7,group,KEDFOE,0.89975
+7,group,LIPUKA,0.89859
+7,group,OCI,0.90028
+7,group,PAPCAP,0.90034
+7,group,PAVPAT,0.89911
+7,group,PUPLAP,0.9
+7,group,SCLBIR,0.90144
+7,group,SENDID,0.90032
+7,group,SENEHR,0.9007
+7,group,SENSUF,0.90018
+7,group,SOLDEN,0.90112
+7,group,TRIEIC,0.89908
+7,group,TURFIS,0.90041
+7,group,XIMCAF,0.89967
+7,group,ZIZ,0.89923
+7,group,PANREP,0.90107
+7,group,ANDSCH,0.89855
+7,group,CYMEXC,0.89965
+7,group,DIGTER,0.90061
+7,group,PHRMAU,0.8998
+7,group,TYPCAP,0.89866
+7,group,BLEACA,0.90036
+7,group,IBO,0.89989
+7,group,RHOREV,0.90092
+7,group,ACHASP,0.89888
+7,group,BOSAUG,0.90002
+7,group,SOLNIG,0.90075
+7,group,ACAXAN,0.90029
+7,group,CROSPI,0.90096
+7,group,DIGMIL,0.90094
+7,group,ECHHAP,0.89782
+7,group,EUPCAN,0.89941
+7,group,KIGAFR,0.901
+7,group,PANDEU,0.90002
+7,group,SARVER,0.89961
+7,group,CHLPYC,0.89935
+7,group,ERAEXA,0.8999
+7,group,CYP,0.89914
+7,group,DIHAMP,0.89952
+7,group,ERAASP,0.90081
+7,group,ERINUB,0.90072
+7,group,KYLNER,0.89931
+7,group,PELCAL,0.89959
+7,group,SPOPEL,0.89968
+7,group,SPOSTA,0.90022
+7,group,HYPDIS,0.90175
+7,group,CHLROX,0.90131
+7,group,LONERI,0.89876
+7,group,SETPAL,0.899
+7,group,SETSPH,0.90027
+7,group,AEPMEL,0.87846
+7,group,OUROUR,0.84745
+7,group,SYNCAF,0.88317
+7,group,ALCBUS,0.85855
+7,group,EQUBUR,0.86713
+7,group,CONTAU,0.86812
+7,group,DAMKOR,0.86739
+7,group,GAZTHO,0.86602
+7,group,GAZGRA,0.86921
+7,group,GIRCAM,0.88301
+7,group,HETBRU,0.88851
+7,group,HIPAMP,0.87273
+7,group,KOBELL,0.8769
+7,group,LOXAFR,0.88891
+7,group,MADKIR,0.88693
+7,group,TRASCR,0.84685
+7,group,PAPANU,0.88705
+7,group,PEDCAP,0.8698
+7,group,PHAAET,0.87429
+7,group,PROCAP,0.8893
+7,group,REDRED,0.83428
+7,group,RHAPUM,0.87608
+7,group,TAUORY,0.87884
+7,group,CANAUR,0.82226
+7,group,CANMES,0.79791
+7,group,ACIJUB,0.85187
+7,group,CROCRO,0.8593
+7,group,LEPSER,0.78705
+7,group,CARCAR,0.83568
+7,group,LYCPIC,0.86381
+7,group,PANLEO,0.86493
+7,group,PANPAR,0.86215
+11,group,ACASEN,0.90121
+11,group,ACATOR,0.90105
+11,group,ANDGRE,0.90084
+11,group,ARI,0.89956
+11,group,BRASEM,0.89741
+11,group,CHLGAY,0.89947
+11,group,COMMOL,0.89991
+11,group,CROMAC,0.90191
+11,group,CYNDAC,0.90098
+11,group,GREBIC,0.89935
+11,group,HARSCH,0.90067
+11,group,HIB,0.89952
+11,group,HYPFIL,0.90137
+11,group,HYPRUF,0.90074
+11,group,INDHOC,0.90002
+11,group,PANMAX,0.89965
+11,group,PENMEZ,0.89907
+11,group,SID,0.9012
+11,group,SOLINC,0.89972
+11,group,SPOFES,0.89758
+11,group,SPOIOC,0.90084
+11,group,SPOPYR,0.89905
+11,group,THETRI,0.8991
+11,group,BOTINS,0.90053
+11,group,DIGMAC,0.8995
+11,group,DIGSCA,0.90035
+11,group,DINRET,0.89987
+11,group,EUSPAS,0.89708
+11,group,HETCON,0.89879
+11,group,PANCOL,0.9003
+11,group,SPOSPI,0.89911
+11,group,DIGDIA,0.90116
+11,group,ERACIL,0.89914
+11,group,ERATEN,0.89906
+11,group,MICKUN,0.89918
+11,group,PSIJAE,0.4986
+11,group,BALAEG,0.89985
+11,group,DUOKIL,0.89819
+11,group,PENSTR,0.90016
+11,group,SPOFIM,0.89876
+11,group,ACAROB,0.90173
+11,group,ACASEY,0.49713
+11,group,COMMIAFR,0.90045
+11,group,COROVA,0.9007
+11,group,GREFAL,0.89937
+11,group,GRETRI,0.90064
+11,group,HIBLUN,0.9007
+11,group,MAETRI,0.90085
+11,group,OLE,0.49905
+11,group,PAVASS,0.9008
+11,group,PHYSEP,0.90069
+11,group,ABU,0.89948
+11,group,ACAFRU,0.89925
+11,group,ALBHAR,0.89957
+11,group,ALBU,0.89949
+11,group,ALLRUB,0.90025
+11,group,ALOMAC,0.89997
+11,group,ALOSEC,0.89896
+11,group,CAPTOM,0.90112
+11,group,CECCIL,0.89809
+11,group,CISQUA,0.89983
+11,group,CISROT,0.90034
+11,group,COMMEAFR,0.9006
+11,group,COMMER,0.89865
+11,group,COMSCH,0.89885
+11,group,CRODIC,0.90018
+11,group,CYPH,0.90059
+11,group,DIGVEL,0.9015
+11,group,EMICOC,0.90056
+11,group,FICGLU,0.90184
+11,group,FICING,0.89912
+11,group,FICTHI,0.90029
+11,group,HELSTE,0.90007
+11,group,HOSOPP,0.90013
+11,group,HYPFOR,0.89978
+11,group,INDBAS,0.9011
+11,group,IPOOBS,0.89811
+11,group,JAS,0.89986
+11,group,KAL,0.8994
+11,group,KEDFOE,0.9016
+11,group,LIPUKA,0.9001
+11,group,OCI,0.89915
+11,group,PAPCAP,0.89923
+11,group,PAVPAT,0.90265
+11,group,PUPLAP,0.89837
+11,group,SCLBIR,0.90119
+11,group,SENDID,0.89913
+11,group,SENEHR,0.90066
+11,group,SENSUF,0.89964
+11,group,SOLDEN,0.9004
+11,group,TRIEIC,0.89974
+11,group,TURFIS,0.90003
+11,group,XIMCAF,0.89803
+11,group,ZIZ,0.90021
+11,group,PANREP,0.4998
+11,group,ANDSCH,0.5015
+11,group,CYMEXC,0.49903
+11,group,DIGTER,0.50032
+11,group,PHRMAU,0.50331
+11,group,TYPCAP,0.49987
+11,group,BLEACA,0.90134
+11,group,IBO,0.90174
+11,group,RHOREV,0.89936
+11,group,ACHASP,0.89956
+11,group,BOSAUG,0.89895
+11,group,SOLNIG,0.89971
+11,group,ACAXAN,0.49967
+11,group,CROSPI,0.50097
+11,group,DIGMIL,0.49999
+11,group,ECHHAP,0.50047
+11,group,EUPCAN,0.49821
+11,group,KIGAFR,0.49942
+11,group,PANDEU,0.50253
+11,group,SARVER,0.49854
+11,group,CHLPYC,0.49823
+11,group,ERAEXA,0.50105
+11,group,CYP,0.90005
+11,group,DIHAMP,0.90025
+11,group,ERAASP,0.90044
+11,group,ERINUB,0.90115
+11,group,KYLNER,0.90099
+11,group,PELCAL,0.89966
+11,group,SPOPEL,0.89916
+11,group,SPOSTA,0.90004
+11,group,HYPDIS,0.50117
+11,group,CHLROX,0.49792
+11,group,LONERI,0.49648
+11,group,SETPAL,0.49947
+11,group,SETSPH,0.50122
+11,group,AEPMEL,0.88442
+11,group,OUROUR,0.84719
+11,group,SYNCAF,0.88297
+11,group,ALCBUS,0.88278
+11,group,EQUBUR,0.8847
+11,group,CONTAU,0.88619
+11,group,DAMKOR,0.86703
+11,group,GAZTHO,0.8844
+11,group,GAZGRA,0.88499
+11,group,GIRCAM,0.8683
+11,group,HETBRU,0.88981
+11,group,HIPAMP,0.85157
+11,group,KOBELL,0.76101
+11,group,LOXAFR,0.88858
+11,group,MADKIR,0.88556
+11,group,TRASCR,0.78389
+11,group,PAPANU,0.81996
+11,group,PEDCAP,0.76707
+11,group,PHAAET,0.82362
+11,group,PROCAP,0.88758
+11,group,REDRED,0.733
+11,group,RHAPUM,0.86167
+11,group,TAUORY,0.77337
+11,group,CANAUR,0.8378
+11,group,CANMES,0.7975
+11,group,ACIJUB,0.84189
+11,group,CROCRO,0.85376
+11,group,LEPSER,0.7749
+11,group,CARCAR,0.81518
+11,group,LYCPIC,0.85247
+11,group,PANLEO,0.85441
+11,group,PANPAR,0.84981
+10,group,ACASEN,0.90076
+10,group,ACATOR,0.9017
+10,group,ANDGRE,0.90043
+10,group,ARI,0.90055
+10,group,BRASEM,0.90028
+10,group,CHLGAY,0.89865
+10,group,COMMOL,0.8994
+10,group,CROMAC,0.89886
+10,group,CYNDAC,0.89946
+10,group,GREBIC,0.89966
+10,group,HARSCH,0.89948
+10,group,HIB,0.89996
+10,group,HYPFIL,0.89833
+10,group,HYPRUF,0.90046
+10,group,INDHOC,0.89935
+10,group,PANMAX,0.89936
+10,group,PENMEZ,0.89994
+10,group,SID,0.90169
+10,group,SOLINC,0.90079
+10,group,SPOFES,0.90055
+10,group,SPOIOC,0.89928
+10,group,SPOPYR,0.89816
+10,group,THETRI,0.89946
+10,group,BOTINS,0.89987
+10,group,DIGMAC,0.89938
+10,group,DIGSCA,0.89947
+10,group,DINRET,0.89967
+10,group,EUSPAS,0.8993
+10,group,HETCON,0.90021
+10,group,PANCOL,0.90141
+10,group,SPOSPI,0.90223
+10,group,DIGDIA,0.89927
+10,group,ERACIL,0.89862
+10,group,ERATEN,0.9008
+10,group,MICKUN,0.89803
+10,group,PSIJAE,0.90224
+10,group,BALAEG,0.90051
+10,group,DUOKIL,0.90007
+10,group,PENSTR,0.50094
+10,group,SPOFIM,0.90181
+10,group,ACAROB,0.89979
+10,group,ACASEY,0.90127
+10,group,COMMIAFR,0.9
+10,group,COROVA,0.89864
+10,group,GREFAL,0.89874
+10,group,GRETRI,0.90048
+10,group,HIBLUN,0.9
+10,group,MAETRI,0.90083
+10,group,OLE,0.89952
+10,group,PAVASS,0.90093
+10,group,PHYSEP,0.90155
+10,group,ABU,0.90058
+10,group,ACAFRU,0.8981
+10,group,ALBHAR,0.90007
+10,group,ALBU,0.89966
+10,group,ALLRUB,0.89958
+10,group,ALOMAC,0.89949
+10,group,ALOSEC,0.90226
+10,group,CAPTOM,0.90004
+10,group,CECCIL,0.90251
+10,group,CISQUA,0.89969
+10,group,CISROT,0.89921
+10,group,COMMEAFR,0.89971
+10,group,COMMER,0.89954
+10,group,COMSCH,0.89948
+10,group,CRODIC,0.90079
+10,group,CYPH,0.90094
+10,group,DIGVEL,0.89809
+10,group,EMICOC,0.89901
+10,group,FICGLU,0.90021
+10,group,FICING,0.89882
+10,group,FICTHI,0.89996
+10,group,HELSTE,0.90057
+10,group,HOSOPP,0.89992
+10,group,HYPFOR,0.90029
+10,group,INDBAS,0.9009
+10,group,IPOOBS,0.90087
+10,group,JAS,0.90063
+10,group,KAL,0.89892
+10,group,KEDFOE,0.9005
+10,group,LIPUKA,0.90043
+10,group,OCI,0.9003
+10,group,PAPCAP,0.89982
+10,group,PAVPAT,0.90064
+10,group,PUPLAP,0.90091
+10,group,SCLBIR,0.90071
+10,group,SENDID,0.89981
+10,group,SENEHR,0.89845
+10,group,SENSUF,0.89997
+10,group,SOLDEN,0.90121
+10,group,TRIEIC,0.89999
+10,group,TURFIS,0.90011
+10,group,XIMCAF,0.90005
+10,group,ZIZ,0.9009
+10,group,PANREP,0.89988
+10,group,ANDSCH,0.89888
+10,group,CYMEXC,0.89767
+10,group,DIGTER,0.89835
+10,group,PHRMAU,0.90053
+10,group,TYPCAP,0.89956
+10,group,BLEACA,0.90029
+10,group,IBO,0.89978
+10,group,RHOREV,0.89758
+10,group,ACHASP,0.89984
+10,group,BOSAUG,0.90092
+10,group,SOLNIG,0.90012
+10,group,ACAXAN,0.89995
+10,group,CROSPI,0.90053
+10,group,DIGMIL,0.89887
+10,group,ECHHAP,0.89994
+10,group,EUPCAN,0.90089
+10,group,KIGAFR,0.89957
+10,group,PANDEU,0.89834
+10,group,SARVER,0.9028
+10,group,CHLPYC,0.90104
+10,group,ERAEXA,0.89837
+10,group,CYP,0.90009
+10,group,DIHAMP,0.90009
+10,group,ERAASP,0.89993
+10,group,ERINUB,0.90153
+10,group,KYLNER,0.90109
+10,group,PELCAL,0.90167
+10,group,SPOPEL,0.90113
+10,group,SPOSTA,0.90034
+10,group,HYPDIS,0.8988
+10,group,CHLROX,0.8998
+10,group,LONERI,0.89835
+10,group,SETPAL,0.90092
+10,group,SETSPH,0.90179
+10,group,AEPMEL,0.88373
+10,group,OUROUR,0.8512
+10,group,SYNCAF,0.88338
+10,group,ALCBUS,0.88216
+10,group,EQUBUR,0.88209
+10,group,CONTAU,0.88707
+10,group,DAMKOR,0.88137
+10,group,GAZTHO,0.88439
+10,group,GAZGRA,0.8815
+10,group,GIRCAM,0.88286
+10,group,HETBRU,0.8872
+10,group,HIPAMP,0.87294
+10,group,KOBELL,0.87768
+10,group,LOXAFR,0.88883
+10,group,MADKIR,0.88794
+10,group,TRASCR,0.8474
+10,group,PAPANU,0.88755
+10,group,PEDCAP,0.87191
+10,group,PHAAET,0.87004
+10,group,PROCAP,0.88758
+10,group,REDRED,0.83271
+10,group,RHAPUM,0.87491
+10,group,TAUORY,0.87953
+10,group,CANAUR,0.83706
+10,group,CANMES,0.79894
+10,group,ACIJUB,0.8565
+10,group,CROCRO,0.86601
+10,group,LEPSER,0.7891
+10,group,CARCAR,0.83394
+10,group,LYCPIC,0.8649
+10,group,PANLEO,0.87128
+10,group,PANPAR,0.86468
+13,group,ACASEN,0.89952
+13,group,ACATOR,0.89852
+13,group,ANDGRE,0.89857
+13,group,ARI,0.8991
+13,group,BRASEM,0.90028
+13,group,CHLGAY,0.90009
+13,group,COMMOL,0.89983
+13,group,CROMAC,0.89962
+13,group,CYNDAC,0.89832
+13,group,GREBIC,0.90173
+13,group,HARSCH,0.90087
+13,group,HIB,0.90086
+13,group,HYPFIL,0.90035
+13,group,HYPRUF,0.89968
+13,group,INDHOC,0.9011
+13,group,PANMAX,0.89786
+13,group,PENMEZ,0.89823
+13,group,SID,0.90228
+13,group,SOLINC,0.8991
+13,group,SPOFES,0.90066
+13,group,SPOIOC,0.89946
+13,group,SPOPYR,0.89957
+13,group,THETRI,0.90093
+13,group,BOTINS,0.89958
+13,group,DIGMAC,0.89917
+13,group,DIGSCA,0.90016
+13,group,DINRET,0.90097
+13,group,EUSPAS,0.89854
+13,group,HETCON,0.90093
+13,group,PANCOL,0.89823
+13,group,SPOSPI,0.89918
+13,group,DIGDIA,0.89933
+13,group,ERACIL,0.89801
+13,group,ERATEN,0.90059
+13,group,MICKUN,0.90031
+13,group,PSIJAE,0.90061
+13,group,BALAEG,0.89998
+13,group,DUOKIL,0.89906
+13,group,PENSTR,0.89977
+13,group,SPOFIM,0.89865
+13,group,ACAROB,0.50166
+13,group,ACASEY,0.89983
+13,group,COMMIAFR,0.90028
+13,group,COROVA,0.49944
+13,group,GREFAL,0.49971
+13,group,GRETRI,0.49817
+13,group,HIBLUN,0.50038
+13,group,MAETRI,0.49844
+13,group,OLE,0.90192
+13,group,PAVASS,0.49754
+13,group,PHYSEP,0.49933
+13,group,ABU,0.50055
+13,group,ACAFRU,0.50092
+13,group,ALBHAR,0.49714
+13,group,ALBU,0.49772
+13,group,ALLRUB,0.50032
+13,group,ALOMAC,0.49945
+13,group,ALOSEC,0.50096
+13,group,CAPTOM,0.4985
+13,group,CECCIL,0.49884
+13,group,CISQUA,0.50183
+13,group,CISROT,0.501
+13,group,COMMEAFR,0.49993
+13,group,COMMER,0.50145
+13,group,COMSCH,0.4984
+13,group,CRODIC,0.49871
+13,group,CYPH,0.49803
+13,group,DIGVEL,0.49999
+13,group,EMICOC,0.49954
+13,group,FICGLU,0.49912
+13,group,FICING,0.50302
+13,group,FICTHI,0.50182
+13,group,HELSTE,0.4997
+13,group,HOSOPP,0.49921
+13,group,HYPFOR,0.50001
+13,group,INDBAS,0.49975
+13,group,IPOOBS,0.50061
+13,group,JAS,0.49653
+13,group,KAL,0.50181
+13,group,KEDFOE,0.50061
+13,group,LIPUKA,0.49667
+13,group,OCI,0.49886
+13,group,PAPCAP,0.49875
+13,group,PAVPAT,0.49817
+13,group,PUPLAP,0.50101
+13,group,SCLBIR,0.50173
+13,group,SENDID,0.49994
+13,group,SENEHR,0.4997
+13,group,SENSUF,0.50281
+13,group,SOLDEN,0.50192
+13,group,TRIEIC,0.50107
+13,group,TURFIS,0.50073
+13,group,XIMCAF,0.49891
+13,group,ZIZ,0.49937
+13,group,PANREP,0.90114
+13,group,ANDSCH,0.89954
+13,group,CYMEXC,0.8995
+13,group,DIGTER,0.90019
+13,group,PHRMAU,0.89978
+13,group,TYPCAP,0.89941
+13,group,BLEACA,0.50098
+13,group,IBO,0.49801
+13,group,RHOREV,0.49954
+13,group,ACHASP,0.50037
+13,group,BOSAUG,0.90038
+13,group,SOLNIG,0.50258
+13,group,ACAXAN,0.89969
+13,group,CROSPI,0.90061
+13,group,DIGMIL,0.90052
+13,group,ECHHAP,0.90004
+13,group,EUPCAN,0.90036
+13,group,KIGAFR,0.89987
+13,group,PANDEU,0.90129
+13,group,SARVER,0.90061
+13,group,CHLPYC,0.89973
+13,group,ERAEXA,0.90093
+13,group,CYP,0.49841
+13,group,DIHAMP,0.49925
+13,group,ERAASP,0.49953
+13,group,ERINUB,0.49865
+13,group,KYLNER,0.50057
+13,group,PELCAL,0.49936
+13,group,SPOPEL,0.50229
+13,group,SPOSTA,0.49916
+13,group,HYPDIS,0.90051
+13,group,CHLROX,0.90051
+13,group,LONERI,0.90053
+13,group,SETPAL,0.90085
+13,group,SETSPH,0.8998
+13,group,AEPMEL,0.88338
+13,group,OUROUR,0.84875
+13,group,SYNCAF,0.88137
+13,group,ALCBUS,0.88327
+13,group,EQUBUR,0.88329
+13,group,CONTAU,0.88513
+13,group,DAMKOR,0.87873
+13,group,GAZTHO,0.88357
+13,group,GAZGRA,0.88681
+13,group,GIRCAM,0.77814
+13,group,HETBRU,0.55363
+13,group,HIPAMP,0.87345
+13,group,KOBELL,0.87764
+13,group,LOXAFR,0.69028
+13,group,MADKIR,0.67227
+13,group,TRASCR,0.85003
+13,group,PAPANU,0.81627
+13,group,PEDCAP,0.86886
+13,group,PHAAET,0.87188
+13,group,PROCAP,0.60566
+13,group,REDRED,0.83513
+13,group,RHAPUM,0.87729
+13,group,TAUORY,0.88087
+13,group,CANAUR,0.83666
+13,group,CANMES,0.60474
+13,group,ACIJUB,0.83814
+13,group,CROCRO,0.85513
+13,group,LEPSER,0.79019
+13,group,CARCAR,0.73058
+13,group,LYCPIC,0.86238
+13,group,PANLEO,0.86241
+13,group,PANPAR,0.84562
+14,group,ACASEN,0.90118
+14,group,ACATOR,0.90214
+14,group,ANDGRE,0.89804
+14,group,ARI,0.89845
+14,group,BRASEM,0.89851
+14,group,CHLGAY,0.89977
+14,group,COMMOL,0.90064
+14,group,CROMAC,0.89899
+14,group,CYNDAC,0.90074
+14,group,GREBIC,0.90019
+14,group,HARSCH,0.89839
+14,group,HIB,0.89994
+14,group,HYPFIL,0.89941
+14,group,HYPRUF,0.89955
+14,group,INDHOC,0.89838
+14,group,PANMAX,0.9019
+14,group,PENMEZ,0.89955
+14,group,SID,0.89981
+14,group,SOLINC,0.89988
+14,group,SPOFES,0.89944
+14,group,SPOIOC,0.9007
+14,group,SPOPYR,0.90083
+14,group,THETRI,0.89767
+14,group,BOTINS,0.89994
+14,group,DIGMAC,0.89985
+14,group,DIGSCA,0.9011
+14,group,DINRET,0.90039
+14,group,EUSPAS,0.90009
+14,group,HETCON,0.89951
+14,group,PANCOL,0.89987
+14,group,SPOSPI,0.89893
+14,group,DIGDIA,0.90074
+14,group,ERACIL,0.90061
+14,group,ERATEN,0.9
+14,group,MICKUN,0.89994
+14,group,PSIJAE,0.89892
+14,group,BALAEG,0.90025
+14,group,DUOKIL,0.89932
+14,group,PENSTR,0.89852
+14,group,SPOFIM,0.89851
+14,group,ACAROB,0.8999
+14,group,ACASEY,0.8987
+14,group,COMMIAFR,0.501
+14,group,COROVA,0.90054
+14,group,GREFAL,0.89887
+14,group,GRETRI,0.89952
+14,group,HIBLUN,0.89764
+14,group,MAETRI,0.90087
+14,group,OLE,0.90046
+14,group,PAVASS,0.89998
+14,group,PHYSEP,0.89902
+14,group,ABU,0.90057
+14,group,ACAFRU,0.90054
+14,group,ALBHAR,0.90136
+14,group,ALBU,0.8997
+14,group,ALLRUB,0.90154
+14,group,ALOMAC,0.89866
+14,group,ALOSEC,0.89973
+14,group,CAPTOM,0.90001
+14,group,CECCIL,0.90055
+14,group,CISQUA,0.8997
+14,group,CISROT,0.90058
+14,group,COMMEAFR,0.9018
+14,group,COMMER,0.90034
+14,group,COMSCH,0.90026
+14,group,CRODIC,0.89974
+14,group,CYPH,0.90043
+14,group,DIGVEL,0.90133
+14,group,EMICOC,0.89911
+14,group,FICGLU,0.89997
+14,group,FICING,0.89972
+14,group,FICTHI,0.9008
+14,group,HELSTE,0.90193
+14,group,HOSOPP,0.90096
+14,group,HYPFOR,0.90003
+14,group,INDBAS,0.90137
+14,group,IPOOBS,0.89994
+14,group,JAS,0.90017
+14,group,KAL,0.89906
+14,group,KEDFOE,0.89977
+14,group,LIPUKA,0.9009
+14,group,OCI,0.89829
+14,group,PAPCAP,0.90017
+14,group,PAVPAT,0.90199
+14,group,PUPLAP,0.9001
+14,group,SCLBIR,0.89983
+14,group,SENDID,0.89905
+14,group,SENEHR,0.89844
+14,group,SENSUF,0.89881
+14,group,SOLDEN,0.90007
+14,group,TRIEIC,0.90048
+14,group,TURFIS,0.90088
+14,group,XIMCAF,0.89869
+14,group,ZIZ,0.89956
+14,group,PANREP,0.90025
+14,group,ANDSCH,0.90115
+14,group,CYMEXC,0.89952
+14,group,DIGTER,0.89915
+14,group,PHRMAU,0.90067
+14,group,TYPCAP,0.90091
+14,group,BLEACA,0.89899
+14,group,IBO,0.89982
+14,group,RHOREV,0.90111
+14,group,ACHASP,0.89994
+14,group,BOSAUG,0.50051
+14,group,SOLNIG,0.8979
+14,group,ACAXAN,0.89968
+14,group,CROSPI,0.90042
+14,group,DIGMIL,0.90191
+14,group,ECHHAP,0.90007
+14,group,EUPCAN,0.89997
+14,group,KIGAFR,0.90058
+14,group,PANDEU,0.90126
+14,group,SARVER,0.89936
+14,group,CHLPYC,0.89926
+14,group,ERAEXA,0.90036
+14,group,CYP,0.90172
+14,group,DIHAMP,0.89947
+14,group,ERAASP,0.90037
+14,group,ERINUB,0.90064
+14,group,KYLNER,0.90026
+14,group,PELCAL,0.89997
+14,group,SPOPEL,0.90029
+14,group,SPOSTA,0.90068
+14,group,HYPDIS,0.89939
+14,group,CHLROX,0.89963
+14,group,LONERI,0.90116
+14,group,SETPAL,0.90143
+14,group,SETSPH,0.90112
+14,group,AEPMEL,0.88627
+14,group,OUROUR,0.84748
+14,group,SYNCAF,0.88192
+14,group,ALCBUS,0.88304
+14,group,EQUBUR,0.88335
+14,group,CONTAU,0.88595
+14,group,DAMKOR,0.87935
+14,group,GAZTHO,0.88467
+14,group,GAZGRA,0.88562
+14,group,GIRCAM,0.87849
+14,group,HETBRU,0.88903
+14,group,HIPAMP,0.87124
+14,group,KOBELL,0.87749
+14,group,LOXAFR,0.88917
+14,group,MADKIR,0.87879
+14,group,TRASCR,0.84758
+14,group,PAPANU,0.88149
+14,group,PEDCAP,0.87052
+14,group,PHAAET,0.87159
+14,group,PROCAP,0.88874
+14,group,REDRED,0.83396
+14,group,RHAPUM,0.87644
+14,group,TAUORY,0.88094
+14,group,CANAUR,0.83719
+14,group,CANMES,0.78996
+14,group,ACIJUB,0.85472
+14,group,CROCRO,0.86516
+14,group,LEPSER,0.7901
+14,group,CARCAR,0.83472
+14,group,LYCPIC,0.86795
+14,group,PANLEO,0.86939
+14,group,PANPAR,0.86532
