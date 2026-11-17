@@ -1,0 +1,21 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Large simulation output, recreated by Code/02_simulate.jl
+Results/simulations/random.csv

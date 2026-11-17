@@ -1,0 +1,395 @@
+scenario,grouping,code
+G,habitat,ACASEN
+W,habitat,ACATOR
+G,habitat,ANDGRE
+missing,habitat,ARI
+G,habitat,BRASEM
+W,habitat,CHLGAY
+W,habitat,COMMOL
+W,habitat,CROMAC
+G,habitat,CYNDAC
+W,habitat,GREBIC
+K,habitat,GREBIC
+G,habitat,HARSCH
+G,habitat,HIB
+W,habitat,HYPFIL
+W,habitat,HYPRUF
+G,habitat,INDHOC
+G,habitat,PANMAX
+G,habitat,PENMEZ
+G,habitat,SID
+K,habitat,SID
+W,habitat,SOLINC
+S,habitat,SPOFES
+G,habitat,SPOIOC
+W,habitat,SPOPYR
+S,habitat,THETRI
+W,habitat,BOTINS
+G,habitat,DIGMAC
+G,habitat,DIGSCA
+D,habitat,DINRET
+W,habitat,EUSPAS
+W,habitat,HETCON
+G,habitat,PANCOL
+W,habitat,SPOSPI
+W,habitat,DIGDIA
+W,habitat,ERACIL
+G,habitat,ERATEN
+S,habitat,MICKUN
+R,habitat,PSIJAE
+G,habitat,BALAEG
+G,habitat,DUOKIL
+G,habitat,PENSTR
+W,habitat,SPOFIM
+W,habitat,ACAROB
+G,habitat,ACASEY
+W,habitat,COMMIAFR
+W,habitat,COROVA
+K,habitat,COROVA
+W,habitat,GREFAL
+K,habitat,GREFAL
+W,habitat,GRETRI
+K,habitat,GRETRI
+K,habitat,HIBLUN
+W,habitat,MAETRI
+missing,habitat,OLE
+G,habitat,PAVASS
+G,habitat,PHYSEP
+missing,habitat,ABU
+missing,habitat,ACAFRU
+G,habitat,ALBHAR
+G,habitat,ALBU
+missing,habitat,ALLRUB
+K,habitat,ALOMAC
+K,habitat,ALOSEC
+W,habitat,CAPTOM
+G,habitat,CECCIL
+T,habitat,CISQUA
+T,habitat,CISROT
+S,habitat,COMMEAFR
+K,habitat,COMMER
+K,habitat,COMSCH
+W,habitat,CRODIC
+K,habitat,CYPH
+G,habitat,DIGVEL
+missing,habitat,EMICOC
+K,habitat,FICGLU
+K,habitat,FICING
+K,habitat,FICTHI
+G,habitat,HELSTE
+G,habitat,HOSOPP
+K,habitat,HOSOPP
+G,habitat,HYPFOR
+K,habitat,HYPFOR
+G,habitat,INDBAS
+K,habitat,IPOOBS
+missing,habitat,JAS
+W,habitat,KAL
+K,habitat,KEDFOE
+G,habitat,LIPUKA
+missing,habitat,OCI
+missing,habitat,PAPCAP
+G,habitat,PAVPAT
+G,habitat,PUPLAP
+K,habitat,SCLBIR
+missing,habitat,SENDID
+K,habitat,SENEHR
+K,habitat,SENSUF
+G,habitat,SOLDEN
+D,habitat,TRIEIC
+K,habitat,TURFIS
+W,habitat,XIMCAF
+missing,habitat,ZIZ
+R,habitat,PANREP
+missing,habitat,ANDSCH
+missing,habitat,CYMEXC
+G,habitat,DIGTER
+R,habitat,PHRMAU
+R,habitat,TYPCAP
+missing,habitat,BLEACA
+missing,habitat,IBO
+missing,habitat,RHOREV
+G,habitat,ACHASP
+W,habitat,BOSAUG
+W,habitat,SOLNIG
+R,habitat,ACAXAN
+G,habitat,CROSPI
+G,habitat,DIGMIL
+G,habitat,ECHHAP
+K,habitat,EUPCAN
+G,habitat,KIGAFR
+R,habitat,PANDEU
+R,habitat,SARVER
+G,habitat,CHLPYC
+G,habitat,ERAEXA
+missing,habitat,CYP
+S,habitat,DIHAMP
+missing,habitat,ERAASP
+W,habitat,ERINUB
+G,habitat,KYLNER
+K,habitat,PELCAL
+G,habitat,SPOPEL
+W,habitat,SPOSTA
+W,habitat,HYPDIS
+G,habitat,CHLROX
+W,habitat,LONERI
+G,habitat,SETPAL
+G,habitat,SETSPH
+shrub,growth form,ACASEN
+tree,growth form,ACATOR
+graminoid,growth form,ANDGRE
+graminoid,growth form,ARI
+graminoid,growth form,BRASEM
+graminoid,growth form,CHLGAY
+shrub,growth form,COMMOL
+shrub,growth form,CROMAC
+graminoid,growth form,CYNDAC
+shrub,growth form,GREBIC
+graminoid,growth form,HARSCH
+herb,growth form,HIB
+graminoid,growth form,HYPFIL
+graminoid,growth form,HYPRUF
+annual,growth form,INDHOC
+graminoid,growth form,PANMAX
+graminoid,growth form,PENMEZ
+herb,growth form,SID
+herb,growth form,SOLINC
+graminoid,growth form,SPOFES
+graminoid,growth form,SPOIOC
+graminoid,growth form,SPOPYR
+graminoid,growth form,THETRI
+graminoid,growth form,BOTINS
+graminoid,growth form,DIGMAC
+graminoid,growth form,DIGSCA
+graminoid,growth form,DINRET
+graminoid,growth form,EUSPAS
+graminoid,growth form,HETCON
+graminoid,growth form,PANCOL
+graminoid,growth form,SPOSPI
+graminoid,growth form,DIGDIA
+graminoid,growth form,ERACIL
+graminoid,growth form,ERATEN
+graminoid,growth form,MICKUN
+graminoid,growth form,PSIJAE
+shrub,growth form,BALAEG
+shrub,growth form,DUOKIL
+graminoid,growth form,PENSTR
+graminoid,growth form,SPOFIM
+tree,growth form,ACAROB
+shrub,growth form,ACASEY
+shrub,growth form,COMMIAFR
+shrub,growth form,COROVA
+shrub,growth form,GREFAL
+shrub,growth form,GRETRI
+herb,growth form,HIBLUN
+shrub,growth form,MAETRI
+tree,growth form,OLE
+shrub,growth form,PAVASS
+shrub,growth form,PHYSEP
+herb,growth form,ABU
+shrub,growth form,ACAFRU
+shrub,growth form,ALBHAR
+herb,growth form,ALBU
+shrub,growth form,ALLRUB
+herb,growth form,ALOMAC
+herb,growth form,ALOSEC
+shrub,growth form,CAPTOM
+graminoid,growth form,CECCIL
+herb,growth form,CISQUA
+herb,growth form,CISROT
+herb,growth form,COMMEAFR
+shrub,growth form,COMMER
+shrub,growth form,COMSCH
+shrub,growth form,CRODIC
+herb,growth form,CYPH
+graminoid,growth form,DIGVEL
+annual,growth form,EMICOC
+shrub,growth form,FICGLU
+shrub,growth form,FICING
+shrub,growth form,FICTHI
+herb,growth form,HELSTE
+shrub,growth form,HOSOPP
+herb,growth form,HYPFOR
+herb,growth form,INDBAS
+herb,growth form,IPOOBS
+shrub,growth form,JAS
+herb,growth form,KAL
+herb,growth form,KEDFOE
+shrub,growth form,LIPUKA
+annual,growth form,OCI
+shrub,growth form,PAPCAP
+herb,growth form,PAVPAT
+annual,growth form,PUPLAP
+shrub,growth form,SCLBIR
+herb,growth form,SENDID
+herb,growth form,SENEHR
+herb,growth form,SENSUF
+shrub,growth form,SOLDEN
+graminoid,growth form,TRIEIC
+shrub,growth form,TURFIS
+shrub,growth form,XIMCAF
+shrub,growth form,ZIZ
+graminoid,growth form,PANREP
+graminoid,growth form,ANDSCH
+graminoid,growth form,CYMEXC
+graminoid,growth form,DIGTER
+graminoid,growth form,PHRMAU
+graminoid,growth form,TYPCAP
+herb,growth form,BLEACA
+shrub,growth form,IBO
+shrub,growth form,RHOREV
+herb,growth form,ACHASP
+shrub,growth form,BOSAUG
+annual,growth form,SOLNIG
+tree,growth form,ACAXAN
+annual,growth form,CROSPI
+graminoid,growth form,DIGMIL
+graminoid,growth form,ECHHAP
+tree,growth form,EUPCAN
+shrub,growth form,KIGAFR
+graminoid,growth form,PANDEU
+graminoid,growth form,SARVER
+graminoid,growth form,CHLPYC
+graminoid,growth form,ERAEXA
+graminoid,growth form,CYP
+graminoid,growth form,DIHAMP
+graminoid,growth form,ERAASP
+graminoid,growth form,ERINUB
+graminoid,growth form,KYLNER
+herb,growth form,PELCAL
+graminoid,growth form,SPOPEL
+graminoid,growth form,SPOSTA
+graminoid,growth form,HYPDIS
+graminoid,growth form,CHLROX
+shrub,growth form,LONERI
+graminoid,growth form,SETPAL
+graminoid,growth form,SETSPH
+12,group,ACASEN
+9,group,ACATOR
+9,group,ANDGRE
+9,group,ARI
+9,group,BRASEM
+8,group,CHLGAY
+8,group,COMMOL
+9,group,CROMAC
+9,group,CYNDAC
+9,group,GREBIC
+9,group,HARSCH
+9,group,HIB
+9,group,HYPFIL
+7,group,HYPRUF
+9,group,INDHOC
+9,group,PANMAX
+9,group,PENMEZ
+9,group,SID
+9,group,SOLINC
+8,group,SPOFES
+9,group,SPOIOC
+9,group,SPOPYR
+9,group,THETRI
+9,group,BOTINS
+9,group,DIGMAC
+7,group,DIGSCA
+7,group,DINRET
+9,group,EUSPAS
+9,group,HETCON
+9,group,PANCOL
+8,group,SPOSPI
+8,group,DIGDIA
+8,group,ERACIL
+9,group,ERATEN
+8,group,MICKUN
+11,group,PSIJAE
+9,group,BALAEG
+8,group,DUOKIL
+10,group,PENSTR
+8,group,SPOFIM
+13,group,ACAROB
+11,group,ACASEY
+14,group,COMMIAFR
+13,group,COROVA
+13,group,GREFAL
+13,group,GRETRI
+13,group,HIBLUN
+13,group,MAETRI
+11,group,OLE
+13,group,PAVASS
+13,group,PHYSEP
+13,group,ABU
+13,group,ACAFRU
+13,group,ALBHAR
+13,group,ALBU
+13,group,ALLRUB
+13,group,ALOMAC
+13,group,ALOSEC
+13,group,CAPTOM
+13,group,CECCIL
+13,group,CISQUA
+13,group,CISROT
+13,group,COMMEAFR
+13,group,COMMER
+13,group,COMSCH
+13,group,CRODIC
+13,group,CYPH
+13,group,DIGVEL
+13,group,EMICOC
+13,group,FICGLU
+13,group,FICING
+13,group,FICTHI
+13,group,HELSTE
+13,group,HOSOPP
+13,group,HYPFOR
+13,group,INDBAS
+13,group,IPOOBS
+13,group,JAS
+13,group,KAL
+13,group,KEDFOE
+13,group,LIPUKA
+13,group,OCI
+13,group,PAPCAP
+13,group,PAVPAT
+13,group,PUPLAP
+13,group,SCLBIR
+13,group,SENDID
+13,group,SENEHR
+13,group,SENSUF
+13,group,SOLDEN
+13,group,TRIEIC
+13,group,TURFIS
+13,group,XIMCAF
+13,group,ZIZ
+11,group,PANREP
+11,group,ANDSCH
+11,group,CYMEXC
+11,group,DIGTER
+11,group,PHRMAU
+11,group,TYPCAP
+13,group,BLEACA
+13,group,IBO
+13,group,RHOREV
+13,group,ACHASP
+14,group,BOSAUG
+13,group,SOLNIG
+11,group,ACAXAN
+11,group,CROSPI
+11,group,DIGMIL
+11,group,ECHHAP
+11,group,EUPCAN
+11,group,KIGAFR
+11,group,PANDEU
+11,group,SARVER
+11,group,CHLPYC
+11,group,ERAEXA
+13,group,CYP
+13,group,DIHAMP
+13,group,ERAASP
+13,group,ERINUB
+13,group,KYLNER
+13,group,PELCAL
+13,group,SPOPEL
+13,group,SPOSTA
+11,group,HYPDIS
+11,group,CHLROX
+11,group,LONERI
+11,group,SETPAL
+11,group,SETSPH
